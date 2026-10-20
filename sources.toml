@@ -1,0 +1,165 @@
+# =====================================================================
+#  Where the job finder looks
+#  Every source is optional. If one stops working, the run keeps going
+#  and the bottom of the job page lists which sources failed.
+# =====================================================================
+
+# NOTE: plain `key = [...]` lines must stay ABOVE the first [table] or
+# [[table]] header. TOML attaches anything below a header to that table.
+
+# --- Company career boards ---------------------------------------------
+# board = the company's ID on that hiring system (the part of their
+# careers URL after greenhouse.io/, jobs.lever.co/, or jobs.ashbyhq.com/).
+# To add a company: find one of their job links, copy the ID, add a line.
+
+greenhouse = [
+  # South Florida / Florida
+  { name = "Kaseya", board = "kaseya" },
+  { name = "KnowBe4", board = "knowbe4" },
+  # Tech companies with new-grad hiring
+  { name = "Stripe", board = "stripe" },
+  { name = "Databricks", board = "databricks" },
+  { name = "Robinhood", board = "robinhood" },
+  { name = "Airbnb", board = "airbnb" },
+  { name = "Figma", board = "figma" },
+  { name = "Discord", board = "discord" },
+  { name = "Cloudflare", board = "cloudflare" },
+  { name = "Datadog", board = "datadog" },
+  { name = "MongoDB", board = "mongodb" },
+  { name = "Twilio", board = "twilio" },
+  { name = "GitLab", board = "gitlab" },
+  { name = "Coinbase", board = "coinbase" },
+  { name = "Roblox", board = "roblox" },
+  { name = "Pinterest", board = "pinterest" },
+  { name = "Lyft", board = "lyft" },
+  { name = "Instacart", board = "instacart" },
+  { name = "Duolingo", board = "duolingo" },
+  { name = "Reddit", board = "reddit" },
+  { name = "Affirm", board = "affirm" },
+  { name = "Brex", board = "brex" },
+  { name = "Scale AI", board = "scaleai" },
+  { name = "Anthropic", board = "anthropic" },
+  { name = "Asana", board = "asana" },
+  { name = "Samsara", board = "samsara" },
+  { name = "Verkada", board = "verkada" },
+  { name = "Okta", board = "okta" },
+  { name = "Elastic", board = "elastic" },
+  { name = "Waymo", board = "waymo" },
+  { name = "SoFi", board = "sofi" },
+  { name = "Chime", board = "chime" },
+  { name = "Toast", board = "toast" },
+  { name = "Gusto", board = "gusto" },
+  { name = "Flexport", board = "flexport" },
+  { name = "Justworks", board = "justworks" },
+  { name = "Oscar Health", board = "oscar" },
+  { name = "Zocdoc", board = "zocdoc" },
+  { name = "Vercel", board = "vercel" },
+  { name = "Nuro", board = "nuro" },
+]
+
+lever = [
+  { name = "Palantir", board = "palantir" },
+  { name = "Spotify", board = "spotify" },
+  { name = "Wealthfront", board = "wealthfront" },
+]
+
+ashby = [
+  { name = "OpenAI", board = "openai" },
+  { name = "Ramp", board = "ramp" },
+  { name = "Notion", board = "notion" },
+  { name = "Vanta", board = "vanta" },
+  { name = "Cohere", board = "cohere" },
+  { name = "Replit", board = "replit" },
+  { name = "Perplexity", board = "perplexity" },
+  { name = "ElevenLabs", board = "elevenlabs" },
+  { name = "Supabase", board = "supabase" },
+  { name = "Harvey", board = "harvey" },
+]
+
+# Workday career sites (most large companies).
+# host + site come straight from the company's careers URL, e.g.
+#   https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+#        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ host ^^^^^^^^^^^^^^^^^^^^^^^^ site
+# Workday has no "list everything" option, so each site is searched for
+# the words in workday_search below.
+workday_search = ["new grad", "entry level", "early career", "university", "associate", "junior", "intern"]
+workday = [
+  # Florida employers
+  { name = "Motorola Solutions", host = "motorolasolutions.wd5.myworkdayjobs.com", site = "Careers" },
+  { name = "Chewy", host = "chewy.wd5.myworkdayjobs.com", site = "External" },
+  { name = "Raymond James", host = "raymondjames.wd1.myworkdayjobs.com", site = "RaymondJamesCareers" },
+  { name = "Jabil", host = "jabil.wd5.myworkdayjobs.com", site = "Jabil_Careers" },
+  # National
+  { name = "NVIDIA", host = "nvidia.wd5.myworkdayjobs.com", site = "NVIDIAExternalCareerSite" },
+  { name = "Salesforce", host = "salesforce.wd12.myworkdayjobs.com", site = "External_Career_Site" },
+  { name = "Capital One", host = "capitalone.wd12.myworkdayjobs.com", site = "Capital_One" },
+  { name = "Citi", host = "citi.wd5.myworkdayjobs.com", site = "2" },
+  { name = "CrowdStrike", host = "crowdstrike.wd5.myworkdayjobs.com", site = "crowdstrikecareers" },
+  { name = "Adobe", host = "adobe.wd5.myworkdayjobs.com", site = "external_experienced" },
+  { name = "Intel", host = "intel.wd1.myworkdayjobs.com", site = "External" },
+  { name = "Workday", host = "workday.wd5.myworkdayjobs.com", site = "Workday" },
+  { name = "CVS Health", host = "cvshealth.wd1.myworkdayjobs.com", site = "CVS_Health_Careers" },
+  { name = "Mastercard", host = "mastercard.wd1.myworkdayjobs.com", site = "CorporateCareers" },
+  { name = "Visa", host = "visa.wd5.myworkdayjobs.com", site = "Visa" },
+  { name = "PayPal", host = "paypal.wd1.myworkdayjobs.com", site = "jobs" },
+  { name = "Leidos", host = "leidos.wd5.myworkdayjobs.com", site = "External" },
+  { name = "HP", host = "hp.wd5.myworkdayjobs.com", site = "ExternalCareerSite" },
+  { name = "Cisco", host = "cisco.wd5.myworkdayjobs.com", site = "Cisco_Careers" },
+]
+
+# Eightfold career sites: host is the careers site address, domain is the
+# `domain=` value in the site's /api/pcsx/search requests.
+eightfold_search = ["new grad", "entry level", "early career", "university", "intern"]
+eightfold = [
+  { name = "Microsoft", host = "apply.careers.microsoft.com", domain = "microsoft.com" },
+]
+
+# --- Big job lists maintained on GitHub by Simplify --------------------
+# New-grad / entry-level roles (thousands, updated daily).
+[[list]]
+name = "Simplify New Grad list"
+kind = "entry"
+urls = ["https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"]
+# Simplify's own categories to keep (others: Hardware, Product).
+categories = ["Software", "AI/ML/Data", "Quant"]
+
+# Internships. Most want a current student, but some take recent grads.
+[[list]]
+name = "Simplify internship list"
+kind = "intern"
+urls = [
+  "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+  "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/main/.github/scripts/listings.json",
+]
+categories = ["Software", "AI/ML/Data"]
+
+# --- Federal jobs via USAJOBS (Recent Graduates program) ---------------
+# The Pathways Recent Graduates program is open for 2 years after graduation.
+# Free API key: https://developer.usajobs.gov/apirequest/
+# Then add USAJOBS_API_KEY and USAJOBS_EMAIL as repo secrets (see README).
+[usajobs]
+hiring_path = "graduates"
+keywords = ["computer science", "information technology", "IT specialist", "computer engineer", "data science"]
+
+# --- Companies treated as tech employers, even when a posting is vague ---
+# Matched against company names (lowercase, partial match is fine).
+[tech_companies]
+names = [
+  "google", "alphabet", "microsoft", "amazon", "aws", "apple", "meta", "netflix", "nvidia",
+  "salesforce", "adobe", "oracle", "ibm", "intel", "cisco", "workday", "servicenow", "snowflake",
+  "stripe", "databricks", "robinhood", "airbnb", "figma", "discord", "cloudflare", "datadog",
+  "mongodb", "twilio", "gitlab", "github", "coinbase", "roblox", "pinterest", "lyft", "uber",
+  "instacart", "doordash", "duolingo", "reddit", "affirm", "brex", "scale ai", "anthropic",
+  "openai", "asana", "samsara", "verkada", "okta", "elastic", "waymo", "sofi", "chime", "toast",
+  "gusto", "flexport", "justworks", "oscar", "zocdoc", "vercel", "nuro", "palantir", "spotify",
+  "wealthfront", "ramp", "notion", "vanta", "cohere", "replit", "perplexity", "elevenlabs",
+  "supabase", "harvey", "capital one", "citi", "jpmorgan", "goldman", "crowdstrike", "paypal",
+  "visa", "mastercard", "leidos", "hp", "dell", "qualcomm", "amd", "atlassian", "dropbox",
+  "shopify", "square", "block", "intuit", "linkedin", "tiktok", "bytedance", "snap", "zoom",
+  # Florida tech employers
+  "kaseya", "knowbe4", "motorola solutions", "chewy", "raymond james", "jabil", "citrix",
+  "cloud software group", "ukg", "ultimate kronos", "modernizing medicine", "modmed",
+  "magic leap", "reliaquest", "jm family", "nextera", "carnival", "royal caribbean", "lennar",
+  "ryder", "autonation", "sba communications", "florida blue", "publix", "tech data", "td synnex",
+  "citadel", "kforce",
+]

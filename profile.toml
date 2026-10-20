@@ -1,0 +1,274 @@
+# =====================================================================
+#  Elijah's matching profile
+#  Built from his resume. There is NO contact info in here on purpose,
+#  because this repo is public. Edit freely: the next run uses it.
+# =====================================================================
+
+[student]
+name = "Elijah"
+major = "Computer Science"
+degree = "B.S. in Computer Science"
+school = "Florida International University"
+# Already graduated. Postings with grad-date windows are checked against this.
+graduation_year = 2025
+graduation_month = "December"
+# Optional. Leave at 0.0 to skip GPA checks (the repo is public).
+gpa = 0.0
+# Many government and defense jobs require U.S. citizenship or a clearance.
+# Set this to true or false so those requirements get checked; leave it
+# commented out and they show as "confirm".
+# us_citizen = true
+# What the qualification checker says when a posting asks for project work.
+project_blurb = "Your Lokr project (Rust + React encrypted file sharing)"
+# Fed to Claude for the optional fit reviews (see README). Keep it factual.
+summary = """Recent graduate: B.S. in Computer Science from Florida International University (December 2025).
+Project: Lokr, a secure file-sharing app built by a student team (Jan to Jun 2025). He was the frontend
+and UI developer: React UI with a Rust (Axum) backend, client-side RSA-OAEP and AES-GCM encryption through
+the Web Crypto API, a custom video player and file navigation. Work: stock clerk at Publix since Nov 2022,
+held through his whole degree. Focus: Python development and machine learning / AI engineering
+(currently on a one-year self-study roadmap). No professional software internship yet."""
+
+[search]
+# Postings that ask for more than this many years of experience are hidden.
+max_years_experience = 4
+# Show internships too? Most want a current student, so they score lower
+# for a graduate, but some take recent grads.
+include_internships = true
+# Anything scoring below this is hidden from the page.
+min_score = 40
+# Drop postings older than this many days (when the date is known).
+max_age_days = 30
+# Drop postings outside the U.S. (ones with an unclear location are kept).
+us_only = true
+
+# Places that count as "near home" (the Florida / remote filter on the page).
+[location]
+home = [
+  "florida", "fl", "miami", "fort lauderdale", "ft. lauderdale", "ft lauderdale", "boca raton",
+  "west palm beach", "palm beach", "broward", "plantation", "sunrise", "weston", "tamarac",
+  "coral springs", "pompano beach", "deerfield beach", "dania beach", "hollywood, fl", "doral",
+  "miramar", "pembroke pines", "davie", "coral gables", "orlando", "tampa", "jacksonville",
+  "st. petersburg", "melbourne, fl", "tallahassee", "gainesville", "lake mary", "clearwater",
+]
+remote = ["remote", "work from home", "anywhere in the u.s", "united states (remote)", "us remote"]
+
+[ai]
+# Optional: a short written fit review by Claude for top matches.
+# Only runs if you add an ANTHROPIC_API_KEY secret (see README).
+enabled = true
+model = "claude-haiku-5-5"
+max_reviews_per_run = 20
+min_score_to_review = 55
+
+# ---------------------------------------------------------------------
+#  What makes a posting a software / AI / data role
+#  A trailing * means "starts with" (develop* matches developer, development).
+# ---------------------------------------------------------------------
+[relevance]
+title_strong = [
+  "software", "developer", "swe", "sde", "programmer", "machine learning", "ml", "ai",
+  "artificial intelligence", "python", "rust", "frontend", "front-end", "front end",
+  "backend", "back-end", "back end", "full stack", "full-stack", "fullstack", "web",
+  "data engineer*", "ml engineer*", "ai engineer*", "llm", "genai", "generative ai",
+  "cryptograph*", "application security", "product security", "react",
+]
+title_medium = [
+  "data", "analytics", "cloud", "devops", "site reliability", "sre", "platform",
+  "infrastructure", "security", "cyber*", "qa", "quality assurance", "test automation",
+  "sdet", "automation", "solutions engineer*", "research engineer*", "it", "technology",
+  "technical", "systems", "applications", "computer", "database", "mobile", "ios", "android",
+]
+title_weak = ["engineer", "engineering", "analyst", "associate", "specialist", "consultant", "rotational"]
+# Words in the job description that signal software / AI / data work.
+text_keywords = [
+  "software development", "programming", "python", "java", "typescript", "javascript", "react",
+  "sql", "api*", "git", "cloud", "machine learning", "data structures", "algorithms",
+  "computer science", "coding", "debugging", "web application*", "database*", "backend", "frontend",
+]
+# Bonus points when the posting lists these majors.
+[relevance.majors]
+"computer science" = 10
+"software engineering" = 8
+"computer engineering" = 6
+"data science" = 6
+"cybersecurity" = 5
+"information technology" = 4
+"information systems" = 4
+"mathematics" = 3
+
+# Words in a title that mark a role as entry level.
+[relevance.entry]
+title = [
+  "new grad*", "new college grad*", "university grad*", "recent grad*", "college grad*",
+  "early career", "early-career", "entry level", "entry-level", "junior", "jr", "jr.",
+  "associate", "graduate", "engineer i", "developer i", "analyst i", "level 1", "level i",
+  "apprentice*", "residency", "rotational", "development program", "trainee", "fellow*",
+  "class of 2026", "2026 start", "2027 start",
+]
+
+# Titles containing any of these are dropped, unless the title also
+# contains a strong software word (so "Software Engineer, Security" survives).
+[relevance.exclude]
+title = [
+  "sales", "account executive", "account manager", "marketing", "finance", "financial",
+  "accounting", "legal", "counsel", "recruit*", "talent", "human resources", "hr", "nurse",
+  "pharmac*", "clinical", "mechanical", "electrical", "civil", "chemical", "hardware", "asic",
+  "fpga", "rf", "analog", "silicon", "manufacturing", "process engineer*", "supply chain",
+  "warehouse", "driver", "technician", "field service", "business development", "real estate",
+  "audit", "tax", "payroll", "graphic design", "content", "writer", "copywriter", "store",
+  "retail", "underwriter", "actuar*", "physician", "therapist", "teacher", "construction",
+]
+# Titles containing these are always dropped (too senior or grad-degree only).
+title_always = [
+  "senior", "sr", "sr.", "staff", "principal", "lead", "manager", "management", "director",
+  "head of", "vp", "vice president", "chief", "architect", "distinguished", "expert",
+  "lmts", "smts", "pmts",
+  "ii", "iii", "iv", "level 2", "level 3", "phd", "ph.d", "master's", "masters", "mba",
+  "postdoc*", "doctoral", "graduate student", "high school",
+]
+
+# ---------------------------------------------------------------------
+#  Elijah's skills (from his resume)
+#  weight: 3 = core strength, 2 = solid, 1 = some exposure
+#  related: tools close enough that he could ramp up fast
+# ---------------------------------------------------------------------
+[[skill]]
+name = "Python"
+weight = 3
+aliases = ["python"]
+related = ["django", "flask", "fastapi"]
+
+[[skill]]
+name = "React / frontend UI"
+weight = 3
+aliases = ["react", "react.js", "reactjs", "frontend", "front-end", "front end", "user interface*", "ui components", "ui development"]
+related = ["vue", "vue.js", "angular", "next.js", "nextjs", "svelte"]
+
+[[skill]]
+name = "TypeScript / JavaScript"
+weight = 3
+aliases = ["typescript", "javascript", "js", "es6"]
+related = ["node.js", "nodejs", "node"]
+
+[[skill]]
+name = "Rust"
+weight = 3
+aliases = ["rust"]
+related = ["c++", "golang", "c/c++"]
+
+[[skill]]
+name = "Cryptography / secure apps"
+weight = 3
+aliases = ["cryptograph*", "encryption", "encrypt*", "rsa", "aes", "web crypto", "secure coding", "data privacy"]
+related = ["tls", "pki", "oauth", "authentication", "identity and access"]
+
+[[skill]]
+name = "Java"
+weight = 2
+aliases = ["java"]
+related = ["kotlin", "c#", "scala"]
+
+[[skill]]
+name = "SQL / databases"
+weight = 2
+aliases = ["sql", "postgres*", "mysql", "sqlite", "relational database*", "database*"]
+related = ["nosql", "mongodb", "dynamodb", "redis", "cassandra"]
+
+[[skill]]
+name = "Backend / REST APIs (Axum)"
+weight = 2
+aliases = ["axum", "restful", "rest api*", "web service*", "backend", "back-end", "back end"]
+related = ["express", "spring", "spring boot", "graphql", "grpc"]
+
+[[skill]]
+name = "Full-stack web apps"
+weight = 2
+aliases = ["full stack", "full-stack", "fullstack", "web application*", "web app*", "web development"]
+
+[[skill]]
+name = "Machine learning / AI (learning)"
+weight = 2
+aliases = ["machine learning", "ml", "artificial intelligence", "ai", "deep learning", "llm*", "large language model*", "generative ai", "genai"]
+related = ["pytorch", "tensorflow", "scikit-learn", "sklearn", "keras", "hugging face"]
+
+[[skill]]
+name = "Team software project"
+weight = 1
+aliases = ["team environment", "cross-functional", "collaborat*", "capstone", "senior project"]
+
+[[skill]]
+name = "Customer service / communication"
+weight = 1
+aliases = ["customer service", "customer-facing", "customer facing", "communication skills", "client-facing"]
+
+# ---------------------------------------------------------------------
+#  Skills employers often ask for that aren't on the resume yet.
+#  The page counts how often these show up so he knows what to learn.
+# ---------------------------------------------------------------------
+[[gap]]
+name = "Git / GitHub"
+aliases = ["git", "github", "version control", "gitlab"]
+
+[[gap]]
+name = "Cloud (AWS / Azure / GCP)"
+aliases = ["aws", "amazon web services", "azure", "gcp", "google cloud", "cloud platform*", "lambda", "s3", "ec2"]
+
+[[gap]]
+name = "Docker / Kubernetes"
+aliases = ["docker", "kubernetes", "k8s", "container*"]
+
+[[gap]]
+name = "Linux / shell"
+aliases = ["linux", "unix", "bash", "shell script*", "command line"]
+
+[[gap]]
+name = "C / C++"
+aliases = ["c++", "c/c++", "cpp", "embedded c"]
+
+[[gap]]
+name = "C# / .NET"
+aliases = ["c#", ".net", "dotnet", "asp.net"]
+
+[[gap]]
+name = "Go"
+aliases = ["golang", "go programming", "go language"]
+
+[[gap]]
+name = "Node.js"
+aliases = ["node.js", "nodejs", "express.js"]
+
+[[gap]]
+name = "PyTorch / TensorFlow"
+aliases = ["pytorch", "tensorflow", "keras", "jax"]
+
+[[gap]]
+name = "pandas / NumPy / scikit-learn"
+aliases = ["pandas", "numpy", "scikit-learn", "sklearn", "scipy", "jupyter"]
+
+[[gap]]
+name = "Testing (unit / integration)"
+aliases = ["unit test*", "integration test*", "pytest", "jest", "junit", "test-driven", "tdd", "automated test*"]
+
+[[gap]]
+name = "CI/CD"
+aliases = ["ci/cd", "continuous integration", "github actions", "jenkins", "deployment pipeline*"]
+
+[[gap]]
+name = "Data structures & algorithms"
+aliases = ["data structures", "algorithms", "object-oriented", "object oriented", "oop"]
+
+[[gap]]
+name = "Agile / Scrum"
+aliases = ["agile", "scrum", "jira", "sprint*"]
+
+[[gap]]
+name = "Spark / big data"
+aliases = ["spark", "pyspark", "hadoop", "databricks", "snowflake", "airflow", "etl"]
+
+[[gap]]
+name = "Tableau / Power BI"
+aliases = ["tableau", "power bi", "looker"]
+
+[[gap]]
+name = "Statistics"
+aliases = ["statistics", "statistical", "probability", "a/b test*", "regression"]
