@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:49:27+00:00",
+ "updated": "2026-10-21T18:45:54+00:00",
  "jobs": [
   {
    "company": "Affirm",
@@ -641,14 +641,14 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer - Forward Deployed Engineer",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-   "source": "Microsoft careers",
-   "posted": "2026-10-20",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557004814",
+   "company": "Mastercard",
+   "title": "Software Engineer I",
+   "location": "O'Fallon, Missouri",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+   "source": "Mastercard careers",
+   "posted": "2026-10-21",
+   "source_id": "Mastercard",
+   "key": "wd:mastercard:r-291661",
    "score": 100,
    "tier": "strong",
    "parts": {
@@ -661,67 +661,107 @@
    "quals": {
     "required": [
      {
-      "text": "Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Jav",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
+      "text": "Strong understanding of programming fundamentals, data structures, algorithms, and object-oriented design concepts.",
+      "status": "check",
+      "why": "Coursework: Data structures & algorithms (check his classes)"
      },
      {
-      "text": "OR equivalent experience.",
+      "text": "Knowledge of software design principles and the ability to develop maintainable, scalable, and reusable software solutions.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Understanding common architectural concepts and patterns such as layered architectures, microservices, event-driven systems, and distributed applications.",
       "status": "check",
       "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Bachelor's Degree (or currently pursuing) in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in language",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
      },
      {
-      "text": "Experience through coursework, projects, internships, or employment building software, data, cloud, or AI-enabled solutions.",
+      "text": "Working experience in Java, Golang, Kotlin, or similar programming languages.",
       "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
+      "why": "Has: Java"
      },
      {
-      "text": "Interest in working directly with customers and supporting solutions from early concept through deployment and ongoing improvement.",
+      "text": "Familiarity with Spring Boot, Spring, Hibernate, or similar frameworks.",
+      "status": "partial",
+      "why": "Close: Spring ≈ Backend / REST APIs (Axum)"
+     },
+     {
+      "text": "Exposure to React, Angular, or similar front-end technologies.",
+      "status": "met",
+      "why": "Has: React / frontend UI"
+     },
+     {
+      "text": "Understanding REST APIs, microservices, relational databases, SQL, and software testing practices.",
+      "status": "met",
+      "why": "Has: SQL / databases, Backend / REST APIs (Axum)"
+     },
+     {
+      "text": "Familiarity with unit testing frameworks and automated testing methodologies.",
+      "status": "check",
+      "why": "Coursework: Testing (unit / integration) (check his classes)"
+     },
+     {
+      "text": "Familiarity with Git, CI/CD pipelines, cloud platforms, DevOps practices, and Agile software development methodologies.",
+      "status": "check",
+      "why": "Coursework: Git / GitHub, Cloud (AWS / Azure / GCP) (check his classes)"
+     },
+     {
+      "text": "Basic understanding of application performance, scalability, monitoring, and observability concepts.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Understanding troubleshooting methodologies, root cause analysis, and problem-solving techniques.",
       "status": "soft",
       "why": ""
      },
      {
-      "text": "Familiarity with AI or machine learning concepts, cloud platforms, data pipelines, application development, or deploying technical solutions.",
+      "text": "Basic understanding of secure coding principles, OWASP guidelines, and application security best practices.",
       "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
+      "why": "Has: Cryptography / secure apps"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Bachelor's degree in computer science, Engineering, Information Technology, or a related field, or equivalent practical experience is preferred.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
      },
      {
-      "text": "Demonstrated ability to collaborate with technical and non-technical stakeholders, learn in ambiguous environments, and communicate clearly.",
-      "status": "met",
-      "why": "Has: Team software project"
+      "text": "Exposure to AWS, PCF, Docker, Kubernetes, Kafka, NATS.io, Splunk, Dynatrace, or similar technologies is a plus.",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP), Docker / Kubernetes"
      }
     ],
     "summary": {
-     "required_checked": 1,
-     "required_met": 1.0,
+     "required_checked": 5,
+     "required_met": 4.5,
      "required_missing": 0,
-     "to_check": 0,
-     "preferred_met": 3,
-     "preferred_total": 4
+     "to_check": 5,
+     "preferred_met": 1,
+     "preferred_total": 2
     }
    },
    "matched": [
-    "Python",
-    "TypeScript / JavaScript",
+    "React / frontend UI",
+    "Cryptography / secure apps",
     "Java",
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
     "Machine learning / AI (learning)",
     "Team software project"
    ],
    "related": [
-    "C++ (close to Rust)"
+    "Golang (close to Rust)"
    ],
    "gaps": [
+    "Git / GitHub",
     "Cloud (AWS / Azure / GCP)",
-    "C# / .NET",
+    "Docker / Kubernetes",
     "Testing (unit / integration)",
-    "CI/CD"
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
    ],
    "flags": [
     {
@@ -733,7 +773,7 @@
    "near": "",
    "years": null,
    "has_description": true,
-   "first_seen": "2026-10-20",
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -4442,6 +4482,48 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "NVIDIA",
+   "title": "High-Performance LLM Training Engineer - New College Grad 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+   "source": "NVIDIA careers",
+   "posted": "2026-10-21",
+   "source_id": "NVIDIA",
+   "key": "wd:nvidia:jr2028237",
+   "score": 91,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 26,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "Machine learning / AI (learning)"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "PyTorch / TensorFlow"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "Cisco",
    "title": "Software Consulting Engineer I (Full Time) United States",
    "location": "RTP, North Carolina, US; Richardson, Texas, US",
@@ -7986,12 +8068,12 @@
   {
    "company": "Databricks",
    "title": "Solutions Engineer",
-   "location": "Chicago, Illinois",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
    "source": "Databricks careers",
-   "posted": "2026-10-15",
+   "posted": "2026-10-14",
    "source_id": "Databricks",
-   "key": "gr:8886944002",
+   "key": "gr:8886384002",
    "score": 86,
    "tier": "strong",
    "parts": {
@@ -8039,12 +8121,12 @@
   {
    "company": "Databricks",
    "title": "Solutions Engineer",
-   "location": "New York City, New York",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+   "location": "Chicago, Illinois",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
    "source": "Databricks careers",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "source_id": "Databricks",
-   "key": "gr:8886384002",
+   "key": "gr:8886944002",
    "score": 86,
    "tier": "strong",
    "parts": {
@@ -12896,6 +12978,132 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "Leidos",
+   "title": "Junior Automation Developer (UiPath)",
+   "location": "Alexandria, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Junior-Automation-Developer--UiPath-_R-00195094",
+   "source": "Leidos careers",
+   "posted": "2026-10-21",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00195094",
+   "score": 77,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 27,
+    "eligibility": 15,
+    "requirements": -5,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "​​Bachelor's degree in Computer Science, Information Systems, Engineering, or related field (or equivalent experience) and 2-4 years of experience.",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "​2+ years of hands-on RPA development experience, with 2+ years specifically in UiPath",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "​UiPath Certified Advanced RPA Developer (or willingness to obtain within 90 days)",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "​Strong proficiency in UiPath Studio, Orchestrator, REFramework, and Robot deployment/administration",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "​Solid understanding of .NET, VB.NET or C#, and object-oriented programming concepts",
+      "status": "partial",
+      "why": "Close: C# ≈ Java"
+     },
+     {
+      "text": "​Experience with SQL and relational databases",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "​Experience integrating automations with APIs (REST/SOAP) and enterprise applications",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "​Strong analytical and problem-solving skills with ability to troubleshoot complex workflow issues",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "​Excellent communication skills; ability to work directly with business and technical stakeholders",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "​Experience with UiPath, Ansible, AWS console, Elastic, AWS, Azure, Jira, Confluence, Git, Bitbucket and various cloud Software as a Service (SaaS) offerings",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), Agile / Scrum"
+     },
+     {
+      "text": "​Ability to obtain an Entry of Duty (EOD) Public Trust",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "​Active Public Trust clearance already in hand a plus",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 6,
+     "required_met": 2.5,
+     "required_missing": 3,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "C# (close to Java)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "C# / .NET",
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 2+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 2,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "NVIDIA",
    "title": "Software Engineer, Agent Performance Modeling - New College Grad 2026",
    "location": "US, CA, Santa Clara",
@@ -14271,11 +14479,11 @@
    "company": "CrowdStrike",
    "title": "Analyst I, Falcon Complete (Remote, PST/MST)",
    "location": "USA - Remote",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote--PST-MST-_R30480",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete_R30082",
    "source": "CrowdStrike careers",
-   "posted": "2026-10-21",
+   "posted": "2026-10-13",
    "source_id": "CrowdStrike",
-   "key": "wd:crowdstrike:r30480",
+   "key": "wd:crowdstrike:r30082",
    "score": 75,
    "tier": "strong",
    "parts": {
@@ -14349,120 +14557,6 @@
      "required_met": 2.0,
      "required_missing": 0,
      "to_check": 7,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)"
-   ],
-   "related": [
-    "Authentication (close to Cryptography / secure apps)"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Linux / shell"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Remote"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    }
-   ],
-   "kind": "full-time",
-   "near": "remote",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "CrowdStrike",
-   "title": "Analyst I, Falcon Complete GovCloud (Hybrid, St. Louis)",
-   "location": "USA - Remote; USA - St. Louis, MO",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete-GovCloud--Hybrid--St-Louis-_R30476",
-   "source": "CrowdStrike careers",
-   "posted": "2026-10-21",
-   "source_id": "CrowdStrike",
-   "key": "wd:crowdstrike:r30476",
-   "score": 75,
-   "tier": "strong",
-   "parts": {
-    "role": 30,
-    "skills": 20,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Incident Handling : hands-on experience conducting and coordinating incident response across a broad range of security events, including the ability to manage m",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Threat Landscape Awareness : strong working knowledge of attack vectors, threat actor tactics, techniques, and procedures (TTPs), with demonstrated experience a",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Computer Forensic Analysis : hands-on experience using forensic analysis tools in incident response investigations to determine the extent and scope of compromi",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Malware Analysis : demonstrated ability to perform basic static and dynamic malware analysis to understand the nature and behavior of malicious code.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Operating System Fundamentals : strong understanding of Windows, Mac, and/or Linux operating systems with emphasis on Windows internals such as the file system,",
-      "status": "check",
-      "why": "Coursework: Linux / shell (check his classes)"
-     },
-     {
-      "text": "Systems Administration : hands-on experience administering networks and resolving connectivity, authentication, and configuration issues across small to large e",
-      "status": "partial",
-      "why": "Close: Authentication ≈ Cryptography / secure apps"
-     },
-     {
-      "text": "Network Analysis Fundamentals : strong working knowledge of network protocols and analysis tools, with experience analyzing network traffic to support incident ",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Identity Platform Awareness : experience working with identity and access management platforms such as Okta, Microsoft Entra ID, Active Directory, and similar e",
-      "status": "partial",
-      "why": "Close: Identity And Access ≈ Cryptography / secure apps"
-     },
-     {
-      "text": "Email Security Awareness : experience investigating Microsoft 365 security incidents, including business email compromise (BEC) and adversary-in-the-middle (AIT",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Third-Party Log Analysis : working knowledge of log sources across cloud platforms, network devices, identity providers, email platforms, and other enterprise t",
-      "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP) (check his classes)"
-     },
-     {
-      "text": "Incident Remediation : basic understanding of surgical remediation actions needed to contain threats across compromised hosts, including third-party platform co",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     }
-    ],
-    "preferred": [],
-    "summary": {
-     "required_checked": 2,
-     "required_met": 1.0,
-     "required_missing": 0,
-     "to_check": 5,
      "preferred_met": 0,
      "preferred_total": 0
     }
@@ -18683,45 +18777,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "SRC, Inc",
-   "title": "AI/ML Engineer",
-   "location": "Syracuse, NY; Fairborn, OH",
-   "url": "https://jobs.jobvite.com/src-inc/job/oXnXAfwB?nl=1&nl=1&fr=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-15",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://jobs.jobvite.com/src-inc/job/oxnxafwb",
-   "score": 67,
-   "tier": "good",
-   "parts": {
-    "role": 30,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "TMEIC Corporation Americas",
    "title": "Associate Software Developer - AI",
    "location": "Houston, TX",
@@ -20060,13 +20115,13 @@
   },
   {
    "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Redmond, WA; Reston, VA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+   "title": "Software Engineer - Forward Deployed Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
    "source": "Simplify New Grad list",
-   "posted": "2026-10-07",
+   "posted": "2026-10-01",
    "source_id": "Simplify New Grad list",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557022487",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557004814",
    "score": 65,
    "tier": "good",
    "parts": {
@@ -20099,13 +20154,13 @@
   },
   {
    "company": "Microsoft",
-   "title": "Software Engineer - Forward Deployed Engineer",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+   "title": "Software Engineer",
+   "location": "Redmond, WA; Reston, VA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
    "source": "Simplify New Grad list",
-   "posted": "2026-10-16",
+   "posted": "2026-10-07",
    "source_id": "Simplify New Grad list",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557027406",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557022487",
    "score": 65,
    "tier": "good",
    "parts": {
@@ -22052,45 +22107,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "KLA Corporation",
-   "title": "Software Engineer - Metrology Systems",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:kla:2641468",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "Keysight Technologies",
    "title": "R&D Software Engineer - Electronic Measurement Systems",
    "location": "Colorado Springs, CO",
@@ -22910,45 +22926,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "Specter Aerospace",
-   "title": "Full Stack Developer 1/2",
-   "location": "Boston, MA",
-   "url": "https://specteraerospace.bamboohr.com/careers/152/",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-21",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://specteraerospace.bamboohr.com/careers/152",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "Stifel",
    "title": "Developer – Credit Analytics",
    "location": "St. Louis, MO",
@@ -23417,47 +23394,6 @@
    "near": "",
    "years": null,
    "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "HP",
-   "title": "Presales Technical Consultant, Print & Solutions – NWAI",
-   "location": "Casablanca, Casablanca, Morocco",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Casablanca-Casablanca-Morocco/Presales-Technical-Consultant--Print---Solutions---NWAI_3168410-1",
-   "source": "HP careers",
-   "posted": "2026-10-13",
-   "source_id": "HP",
-   "key": "wd:hp:3168410-1",
-   "score": 62,
-   "tier": "good",
-   "parts": {
-    "role": 38,
-    "skills": 9,
-    "eligibility": 15,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [
-    "Backend / REST APIs (Axum)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Spark / big data"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 2+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 2,
-   "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-21"
   },
@@ -27983,6 +27919,45 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "Frost",
+   "title": "Trust Programmer Analyst 1",
+   "location": "San Antonio, TX",
+   "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---Downtown/Trust-Programmer-Analyst-I_R262045",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:frostbank:r262045",
+   "score": 59,
+   "tier": "good",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "Funnel Leasing",
    "title": "Software Engineer Entry to Mid-Level",
    "location": "Remote in USA",
@@ -29678,84 +29653,6 @@
   {
    "company": "RTX",
    "title": "Software Engineer 1",
-   "location": "Cedar Rapids, IA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-12",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01873100",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer 1",
-   "location": "Marlborough, MA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-13",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01882283",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer 1",
    "location": "Tucson, AZ",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518",
    "source": "Simplify New Grad list",
@@ -29790,6 +29687,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "location": "Cedar Rapids, IA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882227",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-19",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01882227",
+   "score": 59,
+   "tier": "good",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -30698,45 +30634,6 @@
    "posted": "2026-10-18",
    "source_id": "Simplify New Grad list",
    "key": "url:https://careers.vtgdefense.com/jobs/9669",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Varsity Brands",
-   "title": "Software Engineer 1 - .Net",
-   "location": "Memphis, TN",
-   "url": "https://careers.varsitybrands.com/global/en/job/JR114518",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-26",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers.varsitybrands.com/global/en/job/jr114518",
    "score": 59,
    "tier": "good",
    "parts": {
@@ -31811,45 +31708,6 @@
     {
      "kind": "info",
      "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "H&R Block",
-   "title": "Machine Learning Intern",
-   "location": "Kansas City, MO",
-   "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-hrblock.icims.com/jobs/76992/job",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 28,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
     },
     {
      "kind": "info",
@@ -33568,6 +33426,45 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "Waymo",
+   "title": "Software Engineer Intern - Driver Refinement Foundations",
+   "location": "Mountain View, CA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+   "source": "Simplify internship list",
+   "posted": "2026-09-25",
+   "source_id": "Simplify internship list",
+   "key": "gr:8224900",
+   "score": 58,
+   "tier": "good",
+   "parts": {
+    "role": 28,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 58
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "West Bend Insurance",
    "title": "IT Data Engineer Intern",
    "location": "Madison, WI; West Bend, WI",
@@ -34646,6 +34543,45 @@
     {
      "kind": "info",
      "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Expedia Group",
+   "title": "Software Developer 1 Intern",
+   "location": "Springfield, MO",
+   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+   "source": "Simplify internship list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify internship list",
+   "key": "wd:expedia:r-110635",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
     },
     {
      "kind": "info",
@@ -40520,6 +40456,481 @@
   },
   {
    "company": "Capital One",
+   "title": "AI Engineer 4 (AI Foundations, VLM Customization)",
+   "location": "San Jose, CA; McLean, VA; Cambridge, MA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--AI-Foundations--VLM-Customization-_R1004261-1",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004261-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 4 years of experience programming with Python, Go, Scala, CUDA, or Java",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience leading development AI systems with tradeoff decisions around cost, latency, throughput and accuracy",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud)",
+      "status": "missing",
+      "why": "Experience: asks for 6+ years (new grad)"
+     },
+     {
+      "text": "Experience designing, developing, delivering, and supporting AI services",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java",
+      "status": "met",
+      "why": "Has: Python, Java, Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughp",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience in building agentic AI systems and agentic workflows",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Proficiency in designing distributed systems for model training, evaluation, and online inference at petabyte scale",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 0.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 5,
+     "preferred_total": 6
+    }
+   },
+   "matched": [
+    "Python",
+    "Java",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "C# / .NET",
+    "PyTorch / TensorFlow",
+    "Data structures & algorithms"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-Stack Engineer 4 (Mobile)",
+   "location": "Richmond, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--Mobile-_R1002855-2",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1002855-2",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Swift, Kotlin, Go, Java, JavaScript/TypeScript, Python",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "McLean, VA; San Jose, CA; Richmond, VA; Plano, TX",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001687-1",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1001687-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "Richmond, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1004204",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004204",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Node.js, React",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
    "title": "Full-stack Engineer 4",
    "location": "McLean, VA; Chicago, IL",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004158-1",
@@ -42956,375 +43367,6 @@
   },
   {
    "company": "Capital One",
-   "title": "Full-stack Engineer 4",
-   "location": "McLean, VA; San Jose, CA; Richmond, VA; Chicago, IL; New York, NY; Plano, TX",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1003615-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-16",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1003615-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4",
-   "location": "McLean, VA; Plano, TX; Chicago, IL",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001613-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-16",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1001613-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4 (Python, Typescript, React, AWS)",
-   "location": "Cambridge, MA; McLean, VA; Richmond, VA; New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Full-stack-Engineer-4--Python--Typescript--React--AWS-_R1002586-2",
-   "source": "Capital One careers",
-   "posted": "2026-10-16",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1002586-2",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
    "title": "Full-Stack Engineer 4 (SQL Server DBA)",
    "location": "Riverwoods, IL; Chicago, IL",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Full-Stack-Engineer-4--SQL-Server-DBA-_R1002993-1",
@@ -43686,6 +43728,375 @@
      "kind": "info",
      "label": "Clearance",
      "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "McLean, VA; San Jose, CA; Richmond, VA; Chicago, IL; New York, NY; Plano, TX",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1003615-1",
+   "source": "Capital One careers",
+   "posted": "2026-10-16",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1003615-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "McLean, VA; Plano, TX; Chicago, IL",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001613-1",
+   "source": "Capital One careers",
+   "posted": "2026-10-16",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1001613-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4 (Python, Typescript, React, AWS)",
+   "location": "Cambridge, MA; McLean, VA; Richmond, VA; New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Full-stack-Engineer-4--Python--Typescript--React--AWS-_R1002586-2",
+   "source": "Capital One careers",
+   "posted": "2026-10-16",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1002586-2",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
     }
    ],
    "kind": "full-time",
@@ -44062,142 +44473,6 @@
     "Testing (unit / integration)",
     "CI/CD",
     "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Data Engineer 4 (Python/AWS)",
-   "location": "McLean, VA; Cambridge, MA; Richmond, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer-4--Python-AWS-_R1001694",
-   "source": "Capital One careers",
-   "posted": "2026-10-15",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1001694",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in application development (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience in distributed data",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with SQL",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with one programming language (Python, Java, or Scala)",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience in data pipeline design and development",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 1 year of experience in data modeling and designing end-to-end data solutions using both relational and non-relational database systems",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "7+ years of experience in application development with demonstrated proficiency in Python, SQL, Scala, or Java",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "4+ years of hands-on experience designing, deploying and operating data workloads in at least one public cloud environment (AWS, Microsoft Azure, or Google Clou",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience building or supporting distributed data or compute workloads using tools such as EMR, Spark, Glue, or Databricks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience designing, implementing, and operating real-time or streaming data pipelines",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "2+ years of experience working on data observability (e.g., Monte Carlo, Splunk) or data orchestration tools (e.g., Airflow, Dagster)",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience working with unstructured or semistructured data using NoSQL databases (e.g., MongoDB, Cassandra, DynamoDB)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience designing and supporting data warehousing solutions (e.g., Snowflake, Redshift)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "2+ years of experience working in an Agile development environment",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 7,
-     "required_met": 1.5,
-     "required_missing": 5,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "Cryptography / secure apps",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Agile / Scrum",
-    "Spark / big data",
     "Statistics"
    ],
    "flags": [
@@ -45178,739 +45453,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "Capital One",
-   "title": "Mobile Engineer 4 (Android)",
-   "location": "McLean, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Mobile-Engineer-4--Android-_R1003374-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1003374-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 21,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of professional software engineering experience (internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 3 years of experience building native mobile applications for Android (Kotlin) or iOS (Swift)",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "4+ years of experience building native mobile applications for Android (Kotlin) or iOS (Swift)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "Demonstrated experience with modern native UI frameworks (e.g., SwiftUI, Jetpack Compose)",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing and building automated testing suites for mobile (e.g., Swift Testing, XCUI, JUnit, Espresso)",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration)"
-     },
-     {
-      "text": "Proven experience with performance tuning and optimization on native mobile platforms",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing scalable mobile architectures and reusable component libraries",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience implementing and maintaining comprehensive automated testing",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration)"
-     },
-     {
-      "text": "Demonstrated experience with modular architecture and modern state management patterns",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing and developing client Backend-for-Frontends (BFFs) to orchestrate data for mobile clients using technologies like GraphQL and ",
-      "status": "met",
-      "why": "Has: Backend / REST APIs (Axum)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 4
-    }
-   },
-   "matched": [
-    "Backend / REST APIs (Axum)",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "Kotlin (close to Java)"
-   ],
-   "gaps": [
-    "PyTorch / TensorFlow",
-    "Testing (unit / integration)",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Mobile Engineer 4 (iOS)",
-   "location": "McLean, VA; Richmond, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Mobile-Engineer-4--iOS-_R1002658-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1002658-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 21,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of professional software engineering experience (internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 3 years of experience building native mobile applications for Android (Kotlin) or iOS (Swift)",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "4+ years of experience building native mobile applications for Android (Kotlin) or iOS (Swift)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "Demonstrated experience with modern native UI frameworks (e.g., SwiftUI, Jetpack Compose)",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing and building automated testing suites for mobile (e.g., Swift Testing, XCUI, JUnit, Espresso)",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration)"
-     },
-     {
-      "text": "Proven experience with performance tuning and optimization on native mobile platforms",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing scalable mobile architectures and reusable component libraries",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience implementing and maintaining comprehensive automated testing",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration)"
-     },
-     {
-      "text": "Demonstrated experience with modular architecture and modern state management patterns",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated experience designing and developing client Backend-for-Frontends (BFFs) to orchestrate data for mobile clients using technologies like GraphQL and ",
-      "status": "met",
-      "why": "Has: Backend / REST APIs (Axum)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 4
-    }
-   },
-   "matched": [
-    "Backend / REST APIs (Axum)",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "Kotlin (close to Java)"
-   ],
-   "gaps": [
-    "PyTorch / TensorFlow",
-    "Testing (unit / integration)",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Data Engineer 4 (Python, AWS)",
-   "location": "Richmond, VA; Plano, TX",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Data-Engineer-4--Python--AWS-_R1001519-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1001519-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in application development (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience in distributed data",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with SQL",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with one programming language (Python, Java, or Scala)",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience in data pipeline design and development",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "At least 1 year of experience in data modeling and designing end-to-end data solutions using both relational and non-relational database systems",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "7+ years of experience in application development with demonstrated proficiency in Python, SQL, Scala, or Java",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "4+ years of hands-on experience designing, deploying and operating data workloads in at least one public cloud environment (AWS, Microsoft Azure, or Google Clou",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience building or supporting distributed data or compute workloads using tools such as EMR, Spark, Glue, or Databricks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience designing, implementing, and operating real-time or streaming data pipelines",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "2+ years of experience working on data observability (e.g., Monte Carlo, Splunk) or data orchestration tools (e.g., Airflow, Dagster)",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience working with unstructured or semistructured data using NoSQL databases (e.g., MongoDB, Cassandra, DynamoDB)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience designing and supporting data warehousing solutions (e.g., Snowflake, Redshift)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "2+ years of experience working in an Agile development environment",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 7,
-     "required_met": 1.5,
-     "required_missing": 5,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "Cryptography / secure apps",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Agile / Scrum",
-    "Spark / big data",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4 (Global Payment Network)",
-   "location": "Chicago, IL; McLean, VA; Riverwoods, IL",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--Global-Payment-Network-_R1003455-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1003455-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4 (Enterprise Platforms Technology) (MEG)",
-   "location": "McLean, VA; Richmond, VA; New York, NY; Plano, TX",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Enterprise-Platforms-Technology---MEG-_R1003671-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1003671-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Capital One",
-   "title": "Engineer 4 ( Cloud Operations Resilience Engineering) (MEG)",
-   "location": "McLean, VA; Richmond, VA; New York, NY; Plano, TX",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Engineer-4---Cloud-Operations-Resilience-Engineering---MEG-_R1003659-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-14",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1003659-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "Cisco",
    "title": "Solutions Engineer - Splunk (Remote)",
    "location": "San Jose, California, US",
@@ -46236,6 +45778,127 @@
     "CI/CD",
     "Agile / Scrum",
     "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Cisco",
+   "title": "Module Configuration Engineer",
+   "location": "Maynard, Massachusetts, US; Holmdel, New Jersey, US",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Hardware-Engineer_2023313",
+   "source": "Cisco careers",
+   "posted": "2026-10-21",
+   "source_id": "Cisco",
+   "key": "wd:cisco:2023313",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 32,
+    "skills": 33,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor’s degree in Engineering, Information Systems, Computer Science, or a related field, or equivalent practical experience.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "3+ years of experience in configuration management, technical documentation, engineering operations, manufacturing support, or a related role.",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "Applied experience with Microsoft Excel, including formulas, lookup functions, pivot tables, data validation, and macros.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience reviewing technical documents and structured data for accuracy and consistency.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Strong attention to detail, organizational skills, and written and verbal communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience supporting hardware or software configuration processes.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience processing engineering change orders or working in a formal change-control environment.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience supporting manufacturing operations, production ramps, or contract manufacturers.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Familiarity with hardware or software testing.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Software development proficiency in Python.",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Experience with source control systems such as Git.",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub"
+     },
+     {
+      "text": "Experience with label-design software, Adobe Photoshop, or similar tools.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Working knowledge of relational databases and the ability to write basic SQL queries.",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 1,
+     "preferred_met": 2,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub"
    ],
    "flags": [
     {
@@ -48159,11 +47822,11 @@
   },
   {
    "company": "Leidos",
-   "title": "Software Engineer",
+   "title": "Software Engineer(CUDA Develpment)",
    "location": "Bowie, MD",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Junior-Software-Engineer_R-00189125",
    "source": "Leidos careers",
-   "posted": "2026-10-09",
+   "posted": "2026-10-21",
    "source_id": "Leidos",
    "key": "wd:leidos:r-00189125",
    "score": 55,
@@ -48532,6 +48195,103 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Motorola Solutions",
+   "title": "Systems Integration Engineering Intern (Summer 2027)",
+   "location": "Greater Chicago Area",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Systems-Integration-Engineering-Intern--Summer-2027-_R68894",
+   "source": "Motorola Solutions careers",
+   "posted": "2026-09-24",
+   "source_id": "Motorola Solutions",
+   "key": "wd:motorolasolutions:r68894",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 34,
+    "skills": 14,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Working towards a Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, IT Networking, or a related discipline.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Must have an expected graduation date between 12/2028 and 6/2030.",
+      "status": "missing",
+      "why": "Grad date rule (2028–2030) doesn't fit December 2025"
+     },
+     {
+      "text": "Legal authorization to work in the U.S. indefinitely is required. Employer work permit sponsorship is not available for this position.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "AI & Tech Fluency: Familiarity with generative AI tools for coding efficiency, data analysis, or process automation.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Data-Driven Mindset: Experience with data analysis and statistical concepts to identify trends, interpret data, and drive continuous improvements.",
+      "status": "missing",
+      "why": "Not on the resume: Statistics"
+     },
+     {
+      "text": "Communication & Collaboration: Strong ability to explain complex technical issues or methodologies clearly to cross-functional, non-technical stakeholders.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Structured Problem-Solving: Ability to approach technical challenges logically, prioritize tasks effectively, and drive results in a team setting.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Linux / shell",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Ask if grads can apply"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2028–2030"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -49089,114 +48849,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "Perplexity",
-   "title": "Software Engineer, Enterprise Knowledge Platform",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b",
-   "source": "Perplexity careers",
-   "posted": "2026-10-21",
-   "source_id": "Perplexity",
-   "key": "as:0113c03a-69d0-489d-bd11-451d11a9f64b",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "4+ years of software engineering experience, with a track record of owning complex backend systems from design through production operation.",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "Strong system design skills, including building reliable, scalable platforms that integrate heterogeneous APIs and services with clear security and isolation bo",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong proficiency in a backend language such as Python, Go, or Rust, and hands-on experience with cloud infrastructure such as AWS and Kubernetes.",
-      "status": "met",
-      "why": "Has: Python, Rust, Backend / REST APIs (Axum)"
-     },
-     {
-      "text": "Connector runtimes, API platforms, or MCP servers, including authentication and authorization.",
-      "status": "partial",
-      "why": "Close: Authentication ≈ Cryptography / secure apps"
-     },
-     {
-      "text": "Schema design, semantic modeling, or knowledge systems that capture relationships and organizational context.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Search, ranking, recommendation, or tool discovery systems.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Marketplaces, developer platforms, or enterprise onboarding and activation experiences.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Ability to work across backend infrastructure and customer-facing product experiences, translating complex integration requirements into clear APIs, developer t",
-      "status": "met",
-      "why": "Has: Backend / REST APIs (Axum), Customer service / communication"
-     },
-     {
-      "text": "Sound technical judgment in security-sensitive, distributed systems, balancing credential isolation, permission correctness, and failure behavior with performan",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "A track record of leading ambiguous, cross-team initiatives from architecture through adoption, setting technical direction for shared platforms, and raising en",
-      "status": "soft",
-      "why": ""
-     }
-    ],
-    "preferred": [],
-    "summary": {
-     "required_checked": 4,
-     "required_met": 2.5,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Python",
-    "Rust",
-    "Backend / REST APIs (Axum)",
-    "Machine learning / AI (learning)",
-    "Customer service / communication"
-   ],
-   "related": [
-    "Authentication (close to Cryptography / secure apps)"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "Power Design",
    "title": "AI Innovation Engineer - BIM",
    "location": "St. Petersburg, FL",
@@ -49419,6 +49071,55 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Software Engineer, DNS & Cloud Infrastructure",
+   "location": "Washington - Bellevue; California - San Francisco",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
+   "source": "Salesforce careers",
+   "posted": "2026-10-21",
+   "source_id": "Salesforce",
+   "key": "wd:salesforce:jr357256",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
+    "Machine learning / AI (learning)",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "Linux / shell",
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -50388,6 +50089,117 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Intel",
+   "title": "Memory Firmware Engineer",
+   "location": "US, Oregon, Hillsboro",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Memory-Firmware-Engineer_JR0288422",
+   "source": "Intel careers",
+   "posted": "2026-10-21",
+   "source_id": "Intel",
+   "key": "wd:intel:jr0288422",
+   "score": 54,
+   "tier": "look",
+   "parts": {
+    "role": 30,
+    "skills": 9,
+    "eligibility": 15,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's degree in Computer Engineering, Electrical Engineering, Computer Science, or a related technical discipline with 2+ years of relevant experience . Or",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "Experience programming in C and/or C++.",
+      "status": "partial",
+      "why": "Close: C++ ≈ Rust"
+     },
+     {
+      "text": "Basic understanding of computer architecture, embedded systems, or low-level software development.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Knowledge of firmware debugging, software testing, or simulation methodologies.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirem",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Exposure to memory technologies such as DDR, LPDDR, HBM, or related memory architectures.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Familiarity with memory controllers, memory training concepts, or hardware-software interfaces.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience with silicon validation, firmware validation, or hardware debugging.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Knowledge of JEDEC standards.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience using debugging, emulation, or simulation tools.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Coursework or project experience involving embedded systems, firmware development, or computer architecture.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 0.5,
+     "required_missing": 1,
+     "to_check": 5,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 2+ years experience"
+    },
+    {
+     "kind": "good",
+     "label": "Open to new grads"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 2,
+   "has_description": true,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -53098,45 +52910,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "General Dynamics Information Technology",
-   "title": "Software Development Intern",
-   "location": "Falls Church, VA",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
-   "source": "Simplify internship list",
-   "posted": "2026-10-12",
-   "source_id": "Simplify internship list",
-   "key": "wd:gdit:rq228406-1",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "General Dynamics Mission Systems",
    "title": "Software Engineer Intern - CWL",
    "location": "Manassas, VA",
@@ -55087,6 +54860,45 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern",
+   "location": "Roy, UT",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+   "source": "Simplify internship list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify internship list",
+   "key": "wd:ngc:r10257053",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "Pacific Life",
    "title": "Software Engineering Intern",
    "location": "Newport Beach, CA",
@@ -55789,6 +55601,45 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "location": "Tewksbury, MA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
+   "source": "Simplify internship list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify internship list",
+   "key": "wd:globalhr:01880127",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "Radiance Technologies",
    "title": "Software Engineer Intern",
    "location": "Dayton, OH",
@@ -56399,45 +56250,6 @@
     {
      "kind": "info",
      "label": "Internship · Spring 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Sierra Nevada Corporation",
-   "title": "Software Engineer Intern",
-   "location": "Lone Tree, CO",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098",
-   "source": "Simplify internship list",
-   "posted": "2026-10-15",
-   "source_id": "Simplify internship list",
-   "key": "wd:snc:r0031098",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
     },
     {
      "kind": "info",
@@ -57929,45 +57741,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "Analytical Mechanics Associates",
-   "title": "Data Analyst",
-   "location": "Hampton, VA; NYC; Ohio",
-   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Data-Analyst_R-100777-1",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-25",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:amainc:r-100777-1",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "AssetMark",
    "title": "Associate Data Stewardship",
    "location": "Charlotte, NC",
@@ -58335,123 +58108,6 @@
    "near": "",
    "years": null,
    "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "CrowdStrike",
-   "title": "Incident Response Consultant (Remote)",
-   "location": "USA - Remote",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Incident-Response-Consultant--Remote-_R30289",
-   "source": "CrowdStrike careers",
-   "posted": "2026-10-15",
-   "source_id": "CrowdStrike",
-   "key": "wd:crowdstrike:r30289",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 26,
-    "skills": 6,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Incident Response: experience conducting or managing incident response investigations for organizations, investigating targeted threats such as the Nation-State",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Computer Forensic Analysis: a background using forensic analysis tools in incident response investigations to determine the extent and scope of compromise.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Network Forensic Analysis: strong knowledge of network protocols, network analysis tools like Bro/Zeek or Suricata, and ability to perform analysis of associate",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Reverse Engineering: ability to understand the capabilities of static and dynamic malware analysis.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Incident Remediation: strong understanding of targeted attacks and able to support creating customized tactical and strategic remediation plans for compromised ",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Network Operations and Architecture/Engineering: understanding of secure network architecture and strong background in performing network operations.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Cloud Incident Response: knowledge of AWS, Azure, or GCP incident response methodologies.",
-      "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP) (check his classes)"
-     },
-     {
-      "text": "Communications: strong ability to communicate executive and/or detailed level findings to clients; ability to effectively communicate tasks, guidance, and metho",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Capable of completing technical tasks with limited supervision.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Desire to grow and expand both technical and soft skills.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Ability to foster a positive work environment and attitude.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 1.0,
-     "required_missing": 0,
-     "to_check": 8,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)"
-   ],
-   "related": [],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Linux / shell"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Remote"
-    },
-    {
-     "kind": "info",
-     "label": "Level not stated"
-    }
-   ],
-   "kind": "full-time",
-   "near": "remote",
-   "years": null,
-   "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-21"
   },
@@ -59120,6 +58776,106 @@
   },
   {
    "company": "Leidos",
+   "title": "Cloud Infrastructure Engineer",
+   "location": "Remote, US",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Cloud-Infrastructure-Engineer_R-00193640",
+   "source": "Leidos careers",
+   "posted": "2026-10-21",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00193640",
+   "score": 51,
+   "tier": "look",
+   "parts": {
+    "role": 33,
+    "skills": 9,
+    "eligibility": 19,
+    "requirements": -10,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor’s degree in information systems or relevant field and 1-3 years of practical experience in the field",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Ability to obtain public trust clearance",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Ability to independently manage assigned work, document technical activities, communicate issues, and seek assistance when appropriate.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Demonstrated self-initiative to build enterprise-like AWS systems and resources that align with well-architected frameworks",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
+     },
+     {
+      "text": "Understanding of fundamental networking concepts including TCP/IP, DNS, routing, subnets, and firewalls/security groups, with the ability to apply systematic tr",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Basic understanding of infrastructure security concepts such as least privilege, vulnerability remediation, system hardening, and security baselines.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Hands-on experience building solutions with Cloudformation, Terraform, Python, or other tools",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Cloud related certifications (Solutions Architect, Azure Administrator, etc)",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
+     },
+     {
+      "text": "Exposure to CIS Benchmarks, STIGs, or similar security and compliance frameworks",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 4,
+     "required_met": 2.0,
+     "required_missing": 2,
+     "to_check": 2,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python"
+   ],
+   "related": [],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Remote"
+    },
+    {
+     "kind": "info",
+     "label": "Level not stated"
+    }
+   ],
+   "kind": "full-time",
+   "near": "remote",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Leidos",
    "title": "Systems Engineer",
    "location": "Huntsville, AL",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Systems-Engineer_R-00193989",
@@ -59713,6 +59469,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Thorlabs",
+   "title": "Data Analyst 1",
+   "location": "Newton, NJ",
+   "url": "https://apply.workable.com/thorlabs/j/B3CD05F790/apply",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://apply.workable.com/thorlabs/j/b3cd05f790",
+   "score": 51,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -61997,332 +61792,6 @@
    "last_seen": "2026-10-21"
   },
   {
-   "company": "HP",
-   "title": "Software and Engineering Intern Roles - Imaging and Print",
-   "location": "Corvallis, Oregon, United States of America",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
-   "source": "HP careers",
-   "posted": "2026-10-01",
-   "source_id": "HP",
-   "key": "wd:hp:3168142-1",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [],
-    "preferred": [
-     {
-      "text": "Computer Science",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Electrical Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Mechanical Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Computer Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Chemical Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Materials Science",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Mechatronics Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Artificial Intelligence/Data Science",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 0,
-     "required_met": 0.0,
-     "required_missing": 0,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "Python",
-    "TypeScript / JavaScript",
-    "Java",
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "C# / .NET",
-    "Data structures & algorithms",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "HP",
-   "title": "Engineering & Technical Internship Roles - HP Solutions (HPS)",
-   "location": "Spring, Texas, United States of America; Scotts Valley, California, United States of America; Fort Collins, Colorado, United States of America; Austin, Texas, United States of America",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Engineering---Technical-Internship-Roles---HP-Solutions--HPS-_3167904-1",
-   "source": "HP careers",
-   "posted": "2026-09-30",
-   "source_id": "HP",
-   "key": "wd:hp:3167904-1",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [],
-    "preferred": [
-     {
-      "text": "Computer Science",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Electrical Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Mechanical Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Computer Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Software Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Systems Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Project experience demonstrating strong analytical, modeling and research skills",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong executive-level presentation skills (storyboarding, development, and delivery)",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 0,
-     "required_met": 0.0,
-     "required_missing": 0,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Python",
-    "TypeScript / JavaScript",
-    "Cryptography / secure apps",
-    "Java",
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "Linux / shell",
-    "Data structures & algorithms",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "HP",
-   "title": "Software Internship Roles - HP Solutions (HPS)",
-   "location": "Spring, Texas, United States of America; Fort Collins, Colorado, United States of America; Austin, Texas, United States of America",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1",
-   "source": "HP careers",
-   "posted": "2026-09-30",
-   "source_id": "HP",
-   "key": "wd:hp:3167906-1",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [],
-    "preferred": [
-     {
-      "text": "Computer Science",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Software Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Computer Engineering",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Information Technology / Information Systems",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Data Science",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Cybersecurity",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Project experience demonstrating strong analytical, modeling and research skills",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong executive-level presentation skills (storyboarding, development, and delivery)",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 0,
-     "required_met": 0.0,
-     "required_missing": 0,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Cryptography / secure apps",
-    "Java",
-    "SQL / databases",
-    "Backend / REST APIs (Axum)",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "Linux / shell",
-    "Node.js",
-    "PyTorch / TensorFlow",
-    "CI/CD",
-    "Data structures & algorithms",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
-  },
-  {
    "company": "Harvey",
    "title": "Software Engineering Intern (Summer 2027)",
    "location": "New York",
@@ -62760,6 +62229,150 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "KnowBe4",
+   "title": "AI Customer Success Intern",
+   "location": "Clearwater, Florida",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8903101002",
+   "source": "KnowBe4 careers",
+   "posted": "2026-10-21",
+   "source_id": "KnowBe4",
+   "key": "gr:8903101002",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 34,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently pursuing or recently completed a diploma/degree in Computer Science, Data Analytics, Business, Information Systems, or a related field",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Hands-on use of an AI assistant for real work, and interest in prompt design",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Basic SQL or Python",
+      "status": "met",
+      "why": "Has: Python, SQL / databases"
+     },
+     {
+      "text": "Comfortable with spreadsheets and documents (Excel/Google Sheets; Word/Google Docs)",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Familiarity with email and collaboration tools (Gmail, Google Workspace)",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Strong verbal and written communications",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Organized, detail-oriented, and able to manage multiple tasks with guidance",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Curious, coachable, and comfortable working in a team environment",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Able to explain AI outputs and their limits to non-technical stakeholders",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Comfortable checking AI outputs against source data",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "IT experience/exposure is a plus",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Interest in AI, SaaS, or customer-facing roles",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning), Customer service / communication"
+     },
+     {
+      "text": "Exposure to CRM tools (e.g., Salesforce) and customer success platforms (e.g., ChurnZero)",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience building with an LLM API, Claude, or a no-code automation tool",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Exposure to MCP connectors or API integrations",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience on projects involving customer support, onboarding, training, or account management (school, part-time, or internships)",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 7,
+     "required_met": 6.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Spark / big data"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -65635,99 +65248,6 @@
   },
   {
    "company": "Waymo",
-   "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
-   "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-   "source": "Waymo careers",
-   "posted": "2026-09-25",
-   "source_id": "Waymo",
-   "key": "gr:8224900",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 16,
-    "eligibility": 11,
-    "requirements": -5,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Pursuing a Bachelor’s in software engineering or a related field",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Strong C++ coding ability",
-      "status": "partial",
-      "why": "Close: C++ ≈ Rust"
-     },
-     {
-      "text": "Solid understanding of fundamental algorithms and data structures",
-      "status": "check",
-      "why": "Coursework: Data structures & algorithms (check his classes)"
-     },
-     {
-      "text": "Proficiency with software testing (unit testing, integration testing, regression testing)",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration), Statistics"
-     },
-     {
-      "text": "Comfortable working with data and designing metrics",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Ability to communicate and collaborate well. Experience working in teams",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "preferred": [],
-    "summary": {
-     "required_checked": 4,
-     "required_met": 1.5,
-     "required_missing": 2,
-     "to_check": 1,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "Linux / shell",
-    "Testing (unit / integration)",
-    "Data structures & algorithms",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Waymo",
    "title": "2027 Summer Intern, BS, Depot Automation",
    "location": "San Francisco, California",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
@@ -65875,85 +65395,6 @@
     "Linux / shell",
     "Testing (unit / integration)",
     "Data structures & algorithms"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "company": "Waymo",
-   "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-   "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-   "source": "Waymo careers",
-   "posted": "2026-10-06",
-   "source_id": "Waymo",
-   "key": "gr:8257660",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 38,
-    "skills": 28,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently pursuing a Bachelor’s degree in software engineering or a related field",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Working knowledge of Python",
-      "status": "met",
-      "why": "Has: Python"
-     },
-     {
-      "text": "Understanding of ML fundamentals of training and evaluating models",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "The ability to use agents for learning and implementation, and the wisdom to know when each is appropriate",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 2.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Statistics"
    ],
    "flags": [
     {
@@ -68792,6 +68233,145 @@
    "last_seen": "2026-10-21"
   },
   {
+   "company": "Leidos",
+   "title": "Embedded Design Engineering Intern – Firmware",
+   "location": "Huntsville, AL",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
+   "source": "Leidos careers",
+   "posted": "2026-10-21",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00193574",
+   "score": 46,
+   "tier": "look",
+   "parts": {
+    "role": 20,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in an accredited college / university and currently working towards a degree in Computer Engineering or a related field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Experience with C, C++, or Rust embedded software programming through course work, lab projects, and previous internships.",
+      "status": "met",
+      "why": "Has: Rust"
+     },
+     {
+      "text": "Demonstrates problem solving, teamwork, and communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "Holds a GPA of 3.0 or higher.",
+      "status": "check",
+      "why": "Needs GPA 3.0+"
+     },
+     {
+      "text": "Includes resume and unofficial transcripts in application.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "​Must be a US Citizen and be able to obtain and maintain a DoD Secret security clearance.",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Utilizing modern Xilinx FPGA and SoC families and design tools (RFSoC, Xilinx IP Cores, AXI4, AXI-Stream)",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Basic knowledge of FPGA/Firmware languages (VHDL, Verilog, SystemVerilog, assembly, Rust)",
+      "status": "met",
+      "why": "Has: Rust"
+     },
+     {
+      "text": "Experience with simulation and test frameworks",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "RISC microprocessors architectures (ARM Cortex, Microblaze, PowerPC, RISC-V)",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Memory architectures, types, and caching",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "GNU/Linux and developing kernel drivers",
+      "status": "check",
+      "why": "Coursework: Linux / shell (check his classes)"
+     },
+     {
+      "text": "Communication protocols such as: UART, Ethernet, SPI, I2C, CAN bus, etc.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 8,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Rust",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Linux / shell",
+    "C / C++",
+    "Testing (unit / integration)"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "company": "Motorola",
    "title": "CPE Software End-to-End Triage Intern - Summer 2027",
    "location": "Plantation, FL",
@@ -69570,6 +69150,160 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "IT Support Engineer",
+   "location": "Nottingham,  Eng",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/IT-Support-Engineer_R1004016",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004016",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 20,
+    "skills": 6,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Level not stated"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Capital One",
+   "title": "Integration Engineer 4",
+   "location": "Richmond, VA; McLean, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Integration-Engineer-4_R1004224-1",
+   "source": "Capital One careers",
+   "posted": "2026-10-21",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004224-1",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 24,
+    "skills": 14,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience designing and maintaining cross-platform or cloud integrations",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 3 years of experience automating system configuration or data workflows",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "5+ years of experience working in a cloud-based environment (AWS, Azure, GCP)",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience developing or supporting API-based integrations using scripting or orchestration tools (AWS Lambda, Step Functions, MuleSoft)",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "5+ years of experience with deployment tooling (Jenkins, GitHub, Artifactory)",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience in Agile practices",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "Experience managing identity and access within systems",
+      "status": "partial",
+      "why": "Close: Identity And Access ≈ Cryptography / secure apps"
+     },
+     {
+      "text": "5+ years of experience implementing large-scale integration solutions or data pipelines in cloud environments",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "Experience developing integration frameworks or reusable components used across multiple teams or applications",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience collaborating with enterprise architects to define integration reference architectures",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 7
+    }
+   },
+   "matched": [
+    "Full-stack web apps",
+    "Team software project"
+   ],
+   "related": [
+    "Identity And Access (close to Cryptography / secure apps)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "CI/CD",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -71727,6 +71461,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Massachusetts School Building Authority",
+   "title": "Capital Planning Data Assistant Co-op",
+   "location": "Boston, MA",
+   "url": "https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply",
+   "source": "Simplify internship list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify internship list",
+   "key": "le:d50b947b-cfb4-463a-8a1b-44fcbe26de6e",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {
@@ -75364,6 +75137,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "company": "Provectus",
+   "title": "Associate Forward Deployed Engineer",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2/apply",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify New Grad list",
+   "key": "le:62394851-693e-47fe-a86c-f8d9acf43ec2",
+   "score": 43,
+   "tier": "look",
+   "parts": {
+    "role": 6,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
   {

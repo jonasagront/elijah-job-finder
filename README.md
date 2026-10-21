@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1288 matches** as of Oct 21, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1286 matches** as of Oct 21, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | HP | Software Applications Engineer | Full-time | – | Fort Collins, Colorado, United States of | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
 | 100 | Justworks | Associate Software Engineer, Frontend | Full-time | 4 of 4 | New York, New York | 2026-10-13 | [Apply](https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815) |
-| 100 | Microsoft | Software Engineer - Forward Deployed Engineer | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-10-20 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557004814) |
+| 100 | Mastercard | Software Engineer I 🆕 | Full-time | 4.5 of 5 | O'Fallon, Missouri | 2026-10-21 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
 | 100 | Microsoft | Software Engineering IC2 🆕 | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-10-20 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043616) |
 | 100 | Nuro | New Grad Software Engineer, Product Engineering | Full-time | 5 of 5 | Mountain View, California (HQ) | 2026-10-05 | [Apply](https://nuro.ai/careersitem?gh_jid=8248317) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
