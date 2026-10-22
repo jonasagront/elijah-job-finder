@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1290 matches** as of Oct 22, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1291 matches** as of Oct 22, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -20,7 +20,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | HP | Software Applications Engineer | Full-time | – | Fort Collins, Colorado, United States of | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | HP Inc. | Software Applications Engineer 🆕 | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
 | 100 | Mastercard | Software Engineer I | Full-time | 4.5 of 5 | O'Fallon, Missouri | 2026-10-21 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
-| 100 | Microsoft | Software Engineering IC2 | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-10-20 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043616) |
 | 100 | Nuro | New Grad Software Engineer, Product Engineering | Full-time | 5 of 5 | Mountain View, California (HQ) | 2026-10-05 | [Apply](https://nuro.ai/careersitem?gh_jid=8248317) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Pinterest | University Grad Software Engineer 2027 (USA) | Full-time | 5 of 5 | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 95 | Chewy | Software Engineer I 🆕 | Full-time | 5 of 6 | Plantation, FL; Boston, MA | 2026-10-21 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1) |
 | 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Virginia, Reston; United  | 2026-09-29 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
 | 94 | Anthropic | Applied AI Demo Engineer | Full-time | – | San Francisco, CA | New York City, NY | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) |
+| 94 | Anthropic | Product Designer, Claude Developer Platform | Full-time | 3 of 3 | San Francisco, CA | New York City, NY |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5397654008) |
 <!-- JOBS:END -->
 
 ---
