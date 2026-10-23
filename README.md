@@ -15,7 +15,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 |---|---|---|---|---|---|---|---|
 | 100 | Affirm | Software Engineer I, Fullstack (Search) | Full-time | – | Remote US | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
-| 100 | Citi | Angular Developer / Frontend Engineer (Entry-Level) | Full-time | 6.5 of 7 | Irving Texas United States | 2026-10-19 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
 | 100 | HP | Software Applications Engineer | Full-time | – | Fort Collins, Colorado, United States of | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 94 | Anthropic | Applied AI Demo Engineer | Full-time | – | San Francisco, CA | New York City, NY | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) |
 | 94 | Anthropic | Product Designer, Claude Developer Platform | Full-time | 3 of 3 | San Francisco, CA | New York City, NY |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5397654008) |
 | 94 | Anthropic | Research Engineer / Performance Engineer, RL Distributed Systems | Full-time | 1 of 1 | San Francisco, CA | New York City, NY |  | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438030008) |
+| 94 | Anthropic | Security Engineer / Research Engineer, RL Security | Full-time | 1 of 1 | San Francisco, CA | New York City, NY |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5458420008) |
 <!-- JOBS:END -->
 
 ---
