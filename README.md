@@ -9,12 +9,13 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1338 matches** as of Oct 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1301 matches** as of Oct 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
 | 100 | Affirm | Software Engineer I, Fullstack (Search) | Full-time | – | Remote US | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
+| 100 | Astranis | Software Developer Associate - Network Software | Full-time | 2.5 of 4 | SF | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705615006) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
 | 100 | HP | Software Applications Engineer | Full-time | – | Fort Collins, Colorado, United States of | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | HP Inc. | Software Applications Engineer 🆕 | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
@@ -28,6 +29,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Salesforce | Software Engineering MTS | Full-time | 2 of 2 | California - San Francisco; Washington - | 2026-10-22 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941) |
 | 100 | SpruceID | Full-Stack Software Engineer New Grad | Full-time | 5 of 5 | Remote in USA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
+| 100 | ZipRecruiter | Software Engineer New Grad - Multiple Teams | Full-time | 3 of 4 | Santa Monica, CA | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) |
 | 98 | ServiceNow | Associate Software Engineer 🆕 | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-09-28 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-09-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) |
@@ -36,8 +38,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 96 | Roblox | Software Engineer, GenAI Platform | Full-time | 4.5 of 5 | San Mateo, CA, United States | 2026-09-25 | [Apply](https://careers.roblox.com/jobs/8171283?gh_jid=8171283) |
 | 96 | Roblox | Software Engineer, ROS | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-10-09 | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) |
 | 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Virginia, Reston; United  | 2026-09-29 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
-| 94 | Anthropic | Applied AI Demo Engineer | Full-time | – | San Francisco, CA | New York City, NY | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) |
-| 94 | Anthropic | Product Designer, Claude Developer Platform | Full-time | 3 of 3 | San Francisco, CA | New York City, NY |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5397654008) |
 <!-- JOBS:END -->
 
 ---

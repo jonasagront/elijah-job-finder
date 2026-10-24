@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:44:44+00:00",
+ "updated": "2026-10-24T18:39:36+00:00",
  "jobs": [
   {
    "company": "Affirm",
@@ -91,6 +91,95 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-22",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Astranis",
+   "title": "Software Developer Associate - Network Software",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-24",
+   "source_id": "Simplify New Grad list",
+   "key": "gr:4705615006",
+   "score": 100,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently pursuing a B.S. in Computer Science, Electrical or Computer Engineering, or equivalent technical degree",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Experience with Django or similar frameworks",
+      "status": "partial",
+      "why": "Close: Django ≈ Python"
+     },
+     {
+      "text": "Experience working with relational/SQL databases (e.g. Postgres)",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Comfortable rapidly prototyping and fully developing user interface concepts with focus on overall user experience",
+      "status": "met",
+      "why": "Has: React / frontend UI"
+     },
+     {
+      "text": "Demonstrated ability to personally design, write, and test software from scratch",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Don't meet them all? Not a problem. Please apply even if you do not meet all these criteria.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 4,
+     "required_met": 2.5,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "React / frontend UI",
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
+    "Team software project"
+   ],
+   "related": [
+    "Django (close to Python)"
+   ],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-23",
    "last_seen": "2026-10-24"
   },
   {
@@ -1438,6 +1527,126 @@
     {
      "kind": "good",
      "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "ZipRecruiter",
+   "title": "Software Engineer New Grad - Multiple Teams",
+   "location": "Santa Monica, CA",
+   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-24",
+   "source_id": "Simplify New Grad list",
+   "key": "gr:8127108",
+   "score": 100,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a full-time, Computer Science degree-seeking program or related technical field with an expected graduation date in 2027",
+      "status": "missing",
+      "why": "Grad date rule (2027) doesn't fit December 2025"
+     },
+     {
+      "text": "*OR a recent graduate with a graduation date from Spring 2025 to Fall 2026",
+      "status": "met",
+      "why": "Grad date rule (2025–2026) fits December 2025"
+     },
+     {
+      "text": "Demonstrated foundation in software engineering through previous internship experience or equivalent practical experience",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Fluency with at least 1 general purpose programming language (e.g., Python, Java, Go, C++, Javascript)",
+      "status": "met",
+      "why": "Has: Python, TypeScript / JavaScript, Java"
+     },
+     {
+      "text": "An interest in becoming more specialized in at least one of the following disciplines: Big Data, Full Stack, or Machine Learning",
+      "status": "met",
+      "why": "Has: Full-stack web apps, Machine learning / AI (learning)"
+     },
+     {
+      "text": "Ability to work a hybrid schedule from our Santa Monica headquarters.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Fluency in multiple programming languages or ability to pick up new languages quickly",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience working with both non-relational and relational database systems",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Exposure to developing client side interactions using frameworks like React along with Vanilla Javascript, CSS, and HTML",
+      "status": "met",
+      "why": "Has: React / frontend UI, TypeScript / JavaScript"
+     },
+     {
+      "text": "Analytical and problem-solving skills along with a self-starter mentality",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Passion for and experience with creating an intuitive, user-friendly experience",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 4,
+     "required_met": 3.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)"
+   ],
+   "related": [
+    "C++ (close to Rust)",
+    "Spring (close to Backend / REST APIs (Axum))"
+   ],
+   "gaps": [
+    "Docker / Kubernetes"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "good",
+     "label": "Grad window 2025–2027 fits"
     }
    ],
    "kind": "full-time",
@@ -5762,6 +5971,111 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "Mach9",
+   "title": "Machine Learning Engineer - Product",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/mach9/622a014b-ff77-45bd-9caa-61a6506884ed/application?embed=true",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-01",
+   "source_id": "Simplify New Grad list",
+   "key": "as:622a014b-ff77-45bd-9caa-61a6506884ed",
+   "score": 89,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 24,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "BS or MS in Computer Science, EE, Robotics, or a related field, or equivalent experience.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Strong coding abilities (preferably Python + Pytorch), and comfortable working with a large codebase.",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Hands-on experience training or fine-tuning a vision model (segmentation, detection, or 3D) through work, internships, or projects.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Working knowledge of geometry for 3D perception: coordinate systems, transforms, projecting between images and point clouds.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Curiosity and speed: you pick up new frameworks and papers quickly and can explain what you learned to teammates.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Clear communicator with engineers, product, and the surveyors who use what you build.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Fluent with AI coding assistants.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Have used open-source vision foundation models (SAM family, DINO, Grounding DINO, or similar) in a task before.",
+      "status": "met",
+      "why": "Your Lokr project (Rust + React encrypted file sharing)"
+     },
+     {
+      "text": "Experience with point clouds or LiDAR data (Open3D, PDAL, PyTorch3D, sparse convolution libraries).",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience deploying models to production: ONNX or TensorRT, batch inference on cloud GPUs.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 3.0,
+     "required_missing": 0,
+     "to_check": 1,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Python",
+    "Machine learning / AI (learning)",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "PyTorch / TensorFlow",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "OpenAI",
    "title": "Machine Learning Engineer, Core Experimentation",
    "location": "Seattle",
@@ -6777,6 +7091,133 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Associate Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-01",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:costar:r39942",
+   "score": 88,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 13,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently pursuing a bachelor’s degree from an accredited, not-for-profit university or college in Computer Science, Software Engineering, or a comparable major",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Must have an expected graduation date of December 2026 - June 2027.",
+      "status": "missing",
+      "why": "Grad date rule (2026–2027) doesn't fit December 2025"
+     },
+     {
+      "text": "Minimum 3.0 cumulative GPA.",
+      "status": "check",
+      "why": "Needs GPA 3.0+"
+     },
+     {
+      "text": "At least 2 months of previous relevant internship or co-op experience.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience applying software engineering fundamentals through coursework, projects, internships, or work experience.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Ability to discuss prior internship, project, or academic work, including the problem solved, technical approach, collaboration, and outcomes.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience writing understandable, maintainable, and well-documented code.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Interest in learning new technologies and building high-quality software.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Demonstrated initiative and collaboration through academic, internship, extracurricular, or team-based experiences.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Familiarity with Agile development practices, the Software Development Lifecycle, APIs, web services, or application design concepts.",
+      "status": "met",
+      "why": "Has: Backend / REST APIs (Axum)"
+     },
+     {
+      "text": "Exposure to programming languages, databases, cloud concepts, AI/machine learning, frameworks, or other technical tools through coursework, projects, internship",
+      "status": "met",
+      "why": "Has: SQL / databases, Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 2,
+     "preferred_met": 3,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Testing (unit / integration)",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2026–2027"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-23",
    "last_seen": "2026-10-24"
   },
   {
@@ -8986,6 +9427,113 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "Laminar",
+   "title": "Junior Machine Learning Engineer - ML - Developer",
+   "location": "Somerville, MA",
+   "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-29",
+   "source_id": "Simplify New Grad list",
+   "key": "le:827f30da-67cd-4274-91e7-87fb12019a23",
+   "score": 85,
+   "tier": "strong",
+   "parts": {
+    "role": 36,
+    "skills": 24,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Proficient in at least one Python ML framework (PyTorch, JAX, TensorFlow)",
+      "status": "met",
+      "why": "Has: Python, Machine learning / AI (learning)"
+     },
+     {
+      "text": "Fluent with Python packages for numeric computing and data workflows (e.g. NumPy, Polars, Pandas, scikit-learn)",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "An engineer who favors clean, testable code and has a proven track record of delivering high-quality work on a timeline",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "An executor who thrives with direction and can independently complete technical project objectives",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Someone detail-oriented who has a natural curiosity about data. You are enthusiastic to test out hypotheses, understand in detail how our models work, and run p",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Chemical engineering, process engineering, or manufacturing domain knowledge (highly valued)",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with cloud environments (AWS, GCP) and/or Databricks",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP), Spark / big data"
+     },
+     {
+      "text": "Familiarity with spectral data, time-series modeling, or sensor-driven ML",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Familiarity with Bayesian modeling and probabilistic reasoning",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience building real products (ideally utilizing machine learning) and practicing user-centric design",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 2.0,
+     "required_missing": 0,
+     "to_check": 1,
+     "preferred_met": 2,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Python",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "PyTorch / TensorFlow",
+    "pandas / NumPy / scikit-learn",
+    "Spark / big data"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "Leidos",
    "title": "Software Engineering Professionals - 25k Sign on Bonus",
    "location": "Columbia, MD; Laurel, MD; Fort Meade, MD; Annapolis Junction, MD",
@@ -10588,6 +11136,478 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "RTX",
+   "title": "Software Engineer/Developer 1",
+   "location": "Woburn, MA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-30",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01879028",
+   "score": 83,
+   "tier": "strong",
+   "parts": {
+    "role": 39,
+    "skills": 34,
+    "eligibility": 25,
+    "requirements": -15,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are elig",
+      "status": "missing",
+      "why": "Needs a clearance you'd already have to hold"
+     },
+     {
+      "text": "Bachlor's degree in Science, Technology, Engineering, or Mathematics (STEM) or similar technical degree",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Experience designing and programming with C++, Java or other object-oriented language",
+      "status": "met",
+      "why": "Has: Java"
+     },
+     {
+      "text": "Knowledge of data structures, algorithms, memory management, and multithreaded applications",
+      "status": "check",
+      "why": "Coursework: Data structures & algorithms (check his classes)"
+     },
+     {
+      "text": "Experience utilizing Generative AI tools or machine learning-assisted technologies to accelerate technical workflows, automate repetitive tasks, improve code qu",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience with open systems architecture (OSA) and modular design principles, including designing or developing loosely coupled software components, standardiz",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience identifying and resolving operational, technical, or documentation deficiencies within an engineering environment (Technical Problem Solving)",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Experience with CI/CD (Continuous Integration/Continuous Delivery) tools (e.g., Git, Atlassian Suite, Azure, Jenkins)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), CI/CD"
+     },
+     {
+      "text": "Experience with configuration management tools (e.g., Azure, Jira, Git, Bitbucket, Artifactory)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), Agile / Scrum"
+     },
+     {
+      "text": "Experience with data analysis tools (e.g., MATLAB, Python)",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Experience using Agile frameworks such as Scrum, Scaled Agile (SAFe), or Scrum@Scale, Test-Driven Development (TDD) or DevOps principles",
+      "status": "missing",
+      "why": "Not on the resume: Testing (unit / integration), Agile / Scrum"
+     },
+     {
+      "text": "Experience developing, building, or debugging software across diverse operating system environments, such as enterprise Linux distributions (e.g., Red Hat Enter",
+      "status": "missing",
+      "why": "Not on the resume: Linux / shell"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 9,
+     "required_met": 4.0,
+     "required_missing": 5,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "Java",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Linux / shell",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "RTX",
+   "title": "Software Engineer/Developer 1",
+   "location": "Marlborough, MA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-30",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01879030",
+   "score": 83,
+   "tier": "strong",
+   "parts": {
+    "role": 39,
+    "skills": 34,
+    "eligibility": 25,
+    "requirements": -15,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are elig",
+      "status": "missing",
+      "why": "Needs a clearance you'd already have to hold"
+     },
+     {
+      "text": "Bachlor's degree in Science, Technology, Engineering, or Mathematics (STEM) or similar technical degree",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Experience designing and programming with C++, Java or other object-oriented language",
+      "status": "met",
+      "why": "Has: Java"
+     },
+     {
+      "text": "Knowledge of data structures, algorithms, memory management, and multithreaded applications",
+      "status": "check",
+      "why": "Coursework: Data structures & algorithms (check his classes)"
+     },
+     {
+      "text": "Experience utilizing Generative AI tools or machine learning-assisted technologies to accelerate technical workflows, automate repetitive tasks, improve code qu",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience with open systems architecture (OSA) and modular design principles, including designing or developing loosely coupled software components, standardiz",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience identifying and resolving operational, technical, or documentation deficiencies within an engineering environment (Technical Problem Solving)",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Experience with CI/CD (Continuous Integration/Continuous Delivery) tools (e.g., Git, Atlassian Suite, Azure, Jenkins)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), CI/CD"
+     },
+     {
+      "text": "Experience with configuration management tools (e.g., Azure, Jira, Git, Bitbucket, Artifactory)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), Agile / Scrum"
+     },
+     {
+      "text": "Experience with data analysis tools (e.g., MATLAB, Python)",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Experience using Agile frameworks such as Scrum, Scaled Agile (SAFe), or Scrum@Scale, Test-Driven Development (TDD) or DevOps principles",
+      "status": "missing",
+      "why": "Not on the resume: Testing (unit / integration), Agile / Scrum"
+     },
+     {
+      "text": "Experience developing, building, or debugging software across diverse operating system environments, such as enterprise Linux distributions (e.g., Red Hat Enter",
+      "status": "missing",
+      "why": "Not on the resume: Linux / shell"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 9,
+     "required_met": 4.0,
+     "required_missing": 5,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "Java",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Linux / shell",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "RTX",
+   "title": "Software Engineer/Developer 1",
+   "location": "Tewksbury, MA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-30",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01879022",
+   "score": 83,
+   "tier": "strong",
+   "parts": {
+    "role": 39,
+    "skills": 34,
+    "eligibility": 25,
+    "requirements": -15,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are elig",
+      "status": "missing",
+      "why": "Needs a clearance you'd already have to hold"
+     },
+     {
+      "text": "Bachlor's degree in Science, Technology, Engineering, or Mathematics (STEM) or similar technical degree",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Experience designing and programming with C++, Java or other object-oriented language",
+      "status": "met",
+      "why": "Has: Java"
+     },
+     {
+      "text": "Knowledge of data structures, algorithms, memory management, and multithreaded applications",
+      "status": "check",
+      "why": "Coursework: Data structures & algorithms (check his classes)"
+     },
+     {
+      "text": "Experience utilizing Generative AI tools or machine learning-assisted technologies to accelerate technical workflows, automate repetitive tasks, improve code qu",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience with open systems architecture (OSA) and modular design principles, including designing or developing loosely coupled software components, standardiz",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience identifying and resolving operational, technical, or documentation deficiencies within an engineering environment (Technical Problem Solving)",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Experience with CI/CD (Continuous Integration/Continuous Delivery) tools (e.g., Git, Atlassian Suite, Azure, Jenkins)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), CI/CD"
+     },
+     {
+      "text": "Experience with configuration management tools (e.g., Azure, Jira, Git, Bitbucket, Artifactory)",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub, Cloud (AWS / Azure / GCP), Agile / Scrum"
+     },
+     {
+      "text": "Experience with data analysis tools (e.g., MATLAB, Python)",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Experience using Agile frameworks such as Scrum, Scaled Agile (SAFe), or Scrum@Scale, Test-Driven Development (TDD) or DevOps principles",
+      "status": "missing",
+      "why": "Not on the resume: Testing (unit / integration), Agile / Scrum"
+     },
+     {
+      "text": "Experience developing, building, or debugging software across diverse operating system environments, such as enterprise Linux distributions (e.g., Red Hat Enter",
+      "status": "missing",
+      "why": "Not on the resume: Linux / shell"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 9,
+     "required_met": 4.0,
+     "required_missing": 5,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "Java",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Linux / shell",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Reddit",
+   "title": "Software Engineer, Ad Signals",
+   "location": "Remote - United States",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
+   "source": "Reddit careers",
+   "posted": "2026-10-24",
+   "source_id": "Reddit",
+   "key": "gr:8319655",
+   "score": 83,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 24,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Demonstrated senior-level backend software engineering experience delivering and operating scalable production systems.",
+      "status": "met",
+      "why": "Has: Backend / REST APIs (Axum)"
+     },
+     {
+      "text": "Hands-on app ads signals or mobile measurement experience, with depth in MMP integrations, SKAN, or app conversion APIs.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Strong programming, API design, distributed systems, and SQL skills, supported by independent problem solving and data investigation.",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Clear communication and a record of delivering results with cross-functional teams and stakeholders.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 3.0,
+     "required_missing": 0,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Remote"
+    },
+    {
+     "kind": "info",
+     "label": "Level not stated"
+    }
+   ],
+   "kind": "full-time",
+   "near": "remote",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "Roblox",
    "title": "Software Engineer, Test Frameworks & Tooling",
    "location": "San Mateo, CA, United States",
@@ -11384,6 +12404,114 @@
    "kind": "full-time",
    "near": "",
    "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Trunk Tools",
+   "title": "Forward Deployed Engineer",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application?embed=true",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-24",
+   "source_id": "Simplify New Grad list",
+   "key": "as:414cdb32-9e5e-4679-8736-93cc28f7cf44",
+   "score": 82,
+   "tier": "strong",
+   "parts": {
+    "role": 24,
+    "skills": 33,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "0 to 3 years of software engineering experience with strong computer-science fundamentals. Recent graduates with substantial project or internship experience ar",
+      "status": "met",
+      "why": "No experience required"
+     },
+     {
+      "text": "Working proficiency in Python and/or TypeScript, and comfort with APIs, data, and building integrations between systems.",
+      "status": "met",
+      "why": "Has: Python, TypeScript / JavaScript"
+     },
+     {
+      "text": "Clear, direct communication and genuine comfort in front of customers. We hire engineer-diplomats: people who can write code in the morning and earn a superinte",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Willingness to travel to jobsites and customer offices, and real comfort working in the field, hard hat included.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "A bias to action. You ship, you watch what breaks, you fix it, and you pick up a new domain quickly.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Low ego and a builder's respect for the people doing the work.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Exposure to construction, architecture, or engineering, or genuine curiosity about how buildings get built.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Familiarity with data, machine learning, or retrieval systems.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Prior customer-facing, deployment, or forward-deployed work.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "Hands-on experience with Procore or Autodesk Construction Cloud.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 2.0,
+     "required_missing": 0,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "TypeScript / JavaScript",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "good",
+     "label": "No experience required"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 0,
    "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
@@ -13811,6 +14939,78 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-21",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "M&T Bank",
+   "title": "Technology Development Program - Software Engineering",
+   "location": "Buffalo, NY",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-01",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:mtb:r90039",
+   "score": 77,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [],
+    "preferred": [
+     {
+      "text": "Intermediate to advanced programming skills in one or more pertinent languages",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Minimum Cumulative Grade Point Average (GPA) of 3.2",
+      "status": "check",
+      "why": "Needs GPA 3.2+"
+     },
+     {
+      "text": "Experience from technology internships",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 0,
+     "required_met": 0.0,
+     "required_missing": 0,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "SQL / databases",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -17894,45 +19094,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Atlassian",
-   "title": "Data Engineer New Grad",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-   "score": 69,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "OpenAI",
    "title": "Agent Post-Training, Computer Use Research",
    "location": "San Francisco",
@@ -18541,80 +19702,107 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Barrios",
-   "title": "Data Analytics Developer 1",
+   "company": "Bot Auto",
+   "title": "Planning & Control Engineer – Early Career",
    "location": "Houston, TX",
-   "url": "https://careers-barrios.icims.com/jobs/2904/job?mobile=true&needsRedirect=false",
+   "url": "https://job-boards.greenhouse.io/botauto/jobs/5441694008",
    "source": "Simplify New Grad list",
-   "posted": "2026-10-05",
+   "posted": "2026-10-01",
    "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-barrios.icims.com/jobs/2904/job",
+   "key": "gr:5441694008",
    "score": 67,
    "tier": "good",
    "parts": {
-    "role": 30,
-    "skills": 12,
+    "role": 26,
+    "skills": 16,
     "eligibility": 25,
     "requirements": 0,
     "capped": 0
    },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
+   "quals": {
+    "required": [
+     {
+      "text": "Demonstrated strong experimental habits: the ability to formulate a clear question, establish a baseline, design a comparison that meaningfully tests a hypothes",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Strong programming fundamentals and hands-on experience in C++ and Python , including implementing, debugging, and testing algorithms.",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "A solid foundation in at least one relevant area, such as motion planning, decision-making, optimization, robotics, or feedback control. Depth in one area is mo",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience completing a substantive technical project that involved both implementation and evaluation. Research, internships, robotics competitions, and substa",
+      "status": "met",
+      "why": "Your Lokr project (Rust + React encrypted file sharing)"
+     },
+     {
+      "text": "Ability to communicate technical reasoning clearly, distinguish observations from assumptions, and explain both the strengths and limitations of a proposed solu",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "A bachelor’s degree or higher in Robotics, Computer Science, Electrical Engineering, Mechanical Engineering, Applied Mathematics, or a related field, or equival",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience with closed-loop simulation, physical robots, or vehicle-based experiments.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Familiarity with vehicle dynamics, system identification, or interactions between planning and control.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience with decision-making under uncertainty, dynamic environments, or interactions with other road users.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 3.0,
+     "required_missing": 0,
+     "to_check": 2,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Data structures & algorithms",
+    "Statistics"
+   ],
    "flags": [
     {
      "kind": "good",
      "label": "Entry level"
     },
     {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Barrios",
-   "title": "Software Developer 1 - Applications and Data",
-   "location": "Houston, TX",
-   "url": "https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-barrios.icims.com/jobs/2903/job",
-   "score": 67,
-   "tier": "good",
-   "parts": {
-    "role": 30,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
      "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
+     "label": "No experience required"
     }
    ],
    "kind": "full-time",
    "near": "",
-   "years": null,
-   "has_description": false,
+   "years": 0,
+   "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
@@ -19056,45 +20244,6 @@
    "near": "",
    "years": 2,
    "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Laminar",
-   "title": "Junior Machine Learning Engineer - ML - Developer",
-   "location": "Somerville, MA",
-   "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify New Grad list",
-   "key": "le:827f30da-67cd-4274-91e7-87fb12019a23",
-   "score": 67,
-   "tier": "good",
-   "parts": {
-    "role": 30,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
@@ -19832,6 +20981,129 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "ConocoPhillips",
+   "title": "Graduate Analyst - Trading Analytics 2027",
+   "location": "Houston, TX",
+   "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-29",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:conocophillips:req-006637",
+   "score": 66,
+   "tier": "good",
+   "parts": {
+    "role": 32,
+    "skills": 21,
+    "eligibility": 13,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Must be legally authorized to work in the United States on a full-time basis for anyone other than current employer and/or education institution",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Bachelor's degree or higher in Mathematics, Statistics, Economics, Finance, Data Science, Engineering, Computer Science, Physics, Business, or other related qua",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Current level in college: Senior or Graduate Student",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Expected graduation date: Fall 2026 through Summer 2027",
+      "status": "missing",
+      "why": "Grad date rule (2026–2027) doesn't fit December 2025"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "A minimum cumulative and major GPA of 3.25 on a 4.0 scale",
+      "status": "check",
+      "why": "Needs GPA 3.25+"
+     },
+     {
+      "text": "Strong foundational skills in Excel including exposure to at least one programming or statistical language (e.g., Python and R)",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Exposure to analysis, modeling and visualization using common programs and applications (e.g., Python, R, SQL, Excel/VBA)",
+      "status": "met",
+      "why": "Has: Python, SQL / databases"
+     },
+     {
+      "text": "Coursework or project experience in statistics, econometrics, financial modeling, optimization, or data science",
+      "status": "check",
+      "why": "Coursework: Statistics (check his classes)"
+     },
+     {
+      "text": "Interest in energy or commodity markets (crude oil, natural gas, NGLs, power, or LNG)",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Genuine intellectual curiosity and a desire to deeply understand the logic, mathematics, and mechanics underlying the models and tools being built",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Understands how key financial and quantitative indicators impact the business",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Proficiency with Microsoft Office Products",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 2,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2026–2027"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.2"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "Oscar Health",
    "title": "Operations Analyst, Plan Loading",
    "location": "Remote",
@@ -20403,45 +21675,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Atlassian",
-   "title": "Machine Learning Engineer - 2027 Graduate",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-   "score": 65,
-   "tier": "good",
-   "parts": {
-    "role": 28,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -21635,6 +22868,111 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "RTX",
+   "title": "Systems Engineer 1",
+   "location": "Fulton, MD",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
+   "source": "Simplify New Grad list",
+   "posted": "2026-09-29",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01876828",
+   "score": 64,
+   "tier": "good",
+   "parts": {
+    "role": 22,
+    "skills": 22,
+    "eligibility": 25,
+    "requirements": -5,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible fo",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Bachelor’s degree or higher in Computer, Software, Electrical Engineering or a STEM major obtained by start date.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "GPA of 3.0 or higher.",
+      "status": "check",
+      "why": "Needs GPA 3.0+"
+     },
+     {
+      "text": "Knowledge with any of these systems: Link 16 Tactical Data Link (J series messages), Command and Control (C2), Surveillance/Radars, Air Traffic Control, Mission",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Knowledge in software testing across multiple operating environments such as Linux, Windows, Virtual Machines, and Containers.",
+      "status": "missing",
+      "why": "Not on the resume: Docker / Kubernetes, Linux / shell"
+     },
+     {
+      "text": "Knowledge of software development in Java and C++ and scripting in Linux shells, Windows PowerShell, and Python.",
+      "status": "met",
+      "why": "Has: Python, Java"
+     },
+     {
+      "text": "Experience as an intern or summer hire working for a DoD contractor.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 2,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "Java",
+    "Team software project"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Docker / Kubernetes",
+    "Linux / shell"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "Toast",
    "title": "GTM Engineer, Web",
    "location": "Remote",
@@ -22042,45 +23380,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Astranis",
-   "title": "Software Developer Associate - Network Software",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "gr:4705615006",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-23",
    "last_seen": "2026-10-24"
   },
   {
@@ -22813,45 +24112,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Frontier Technology",
-   "title": "Associate Software Developer",
-   "location": "Norfolk, VA",
-   "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-ftidefense.icims.com/jobs/7097/job",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Fuel Cycle",
    "title": "Associate AI Engineer",
    "location": "LA",
@@ -23164,45 +24424,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "M&T Bank",
-   "title": "Technology Development Program - Software Engineering",
-   "location": "Buffalo, NY",
-   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:mtb:r90039",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Magna",
    "title": "Junior AI Engineer",
    "location": "Troy, MI",
@@ -23360,123 +24581,6 @@
   },
   {
    "company": "RTX",
-   "title": "Software Engineer/Developer 1",
-   "location": "Woburn, MA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01879028",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer/Developer 1",
-   "location": "Marlborough, MA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01879030",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer/Developer 1",
-   "location": "Tewksbury, MA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01879022",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RTX",
    "title": "Software Engineer 1 - Next Gen Systems",
    "location": "Cedar Rapids, IA",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
@@ -23512,45 +24616,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RWS",
-   "title": "General AI Data Annotator - German - United States",
-   "location": "Milwaukee, WI",
-   "url": "https://jobs.lever.co/rws/cd843b41-a48b-4fa5-aae7-ead7b0a27d51/apply",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "le:cd843b41-a48b-4fa5-aae7-ead7b0a27d51",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-23",
    "last_seen": "2026-10-24"
   },
   {
@@ -23718,84 +24783,6 @@
    "posted": "2026-10-06",
    "source_id": "Simplify New Grad list",
    "key": "gr:8188704",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RoviSys",
-   "title": "Software Engineer/Developer",
-   "location": "Thousand Oaks, CA",
-   "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "SAS",
-   "title": "Software Developer - Emerging Careers",
-   "location": "Cary, NC",
-   "url": "https://careers-sas.icims.com/jobs/42297/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-sas.icims.com/jobs/42297/job",
    "score": 63,
    "tier": "good",
    "parts": {
@@ -28773,49 +29760,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "AmTrust Financial",
-   "title": "Software Engineer 1",
-   "location": "Florida",
-   "url": "https://careers-amtrustgroup.icims.com/jobs/21073/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-09",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-amtrustgroup.icims.com/jobs/21073/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Florida"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "home",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Amentum",
    "title": "Software Engineer 1",
    "location": "Hanover, MD",
@@ -29779,45 +30723,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "CoStar Group",
-   "title": "Associate Software Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:costar:r39942",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Collier Aerospace",
    "title": "Software Engineer – Entry Level",
    "location": "Raleigh, NC; Newport News, VA",
@@ -29904,45 +30809,6 @@
    "posted": "2026-10-05",
    "source_id": "Simplify New Grad list",
    "key": "gr:8212432",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "D'Addario",
-   "title": "Junior Full Stack Engineer",
-   "location": "Farmingdale, NY",
-   "url": "https://careers-daddario.icims.com/jobs/2680/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-daddario.icims.com/jobs/2680/job",
    "score": 59,
    "tier": "good",
    "parts": {
@@ -30450,84 +31316,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer",
-   "location": "Port Orchard, WA",
-   "url": "https://careers-gdms.icims.com/jobs/75179/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75179/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer",
-   "location": "Middletown, RI",
-   "url": "https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75205/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "GlobalFoundries",
    "title": "Software Engineer New Grad",
    "location": "Austin, TX; Santa Clara, CA",
@@ -30918,49 +31706,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "LMI",
-   "title": "Junior Power BI Developer",
-   "location": "Remote in USA",
-   "url": "https://careers-lmi.icims.com/jobs/14673/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-lmi.icims.com/jobs/14673/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Remote"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "remote",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Lear",
    "title": "Palantir Foundry Developer",
    "location": "Southfield, MI",
@@ -31181,45 +31926,6 @@
    "posted": "2026-10-06",
    "source_id": "Simplify New Grad list",
    "key": "gr:4401995009",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Mach9",
-   "title": "Machine Learning Engineer - Product",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/mach9/622a014b-ff77-45bd-9caa-61a6506884ed/application?embed=true",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "as:622a014b-ff77-45bd-9caa-61a6506884ed",
    "score": 59,
    "tier": "good",
    "parts": {
@@ -31797,6 +32503,45 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "RTX",
+   "title": "Engineer 1 - Software Engineer - Test Engineering",
+   "location": "Burnsville, MN",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01883521",
+   "score": 59,
+   "tier": "good",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "RoboForce",
    "title": "AI Resident",
    "location": "Milpitas, CA",
@@ -32117,45 +32862,6 @@
    "posted": "2026-10-13",
    "source_id": "Simplify New Grad list",
    "key": "url:https://apply.workable.com/sigmadefense/j/f207c966c1",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Southern Star Central Gas Pipeline",
-   "title": "Software Engineer 1",
-   "location": "Owensboro, KY",
-   "url": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-sscgp.icims.com/jobs/3060/job",
    "score": 59,
    "tier": "good",
    "parts": {
@@ -32827,84 +33533,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Zebra Technologies",
-   "title": "Software Engineer",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-20",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:zebra:jr103780",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "ZipRecruiter",
-   "title": "Software Engineer New Grad - Multiple Teams",
-   "location": "Santa Monica, CA",
-   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "gr:8127108",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "eClerx",
    "title": "Software Engineer",
    "location": "NYC",
@@ -32938,49 +33566,6 @@
    ],
    "kind": "full-time",
    "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "iPipeline",
-   "title": "Associate Software Development Engineer - Emerging Professionals",
-   "location": "Fort Lauderdale, FL",
-   "url": "https://careers-ipipeline.icims.com/jobs/1718/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-02",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-ipipeline.icims.com/jobs/1718/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Florida"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "home",
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
@@ -33416,45 +34001,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Atlassian",
-   "title": "Data Engineer Intern",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
-   "source": "Simplify internship list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify internship list",
-   "key": "url:https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Booz Allen",
    "title": "Data Scientist",
    "location": "Honolulu, HI; Annapolis Junction, MD; Colorado Springs, CO; McLean, VA; Rome, NY; Panama City, FL; Charleston, SC; Atlanta, GA; Huntsville, AL; San Diego, CA; El Segundo, CA",
@@ -33597,45 +34143,6 @@
    "tier": "good",
    "parts": {
     "role": 28,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Enterprise Holdings",
-   "title": "Data Engineer Intern - IT",
-   "location": "St. Louis, MO",
-   "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify internship list",
-   "key": "url:https://us-erac.icims.com/jobs/567651/job",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 30,
     "skills": 12,
     "eligibility": 19,
     "requirements": 0,
@@ -33933,45 +34440,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "ITT",
-   "title": "Data Analytics / AI Intern - Summer 2027",
-   "location": "Irvine, CA",
-   "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careersenus-itt-inc.icims.com/jobs/17657/job",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 30,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -36786,45 +37254,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software/Systems Engineering Intern",
-   "location": "Middletown, RI",
-   "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-08",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75463/job",
-   "score": 57,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "General Motors",
    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
    "location": "Milford, MI; Warren, MI",
@@ -38301,6 +38730,43 @@
    "near": "",
    "years": null,
    "has_description": false,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "RWS",
+   "title": "General AI Data Annotator - German - United States",
+   "location": "Milwaukee, WI",
+   "url": "https://jobs.lever.co/rws/cd843b41-a48b-4fa5-aae7-ead7b0a27d51/apply",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-01",
+   "source_id": "Simplify New Grad list",
+   "key": "le:cd843b41-a48b-4fa5-aae7-ead7b0a27d51",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 6,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Machine learning / AI (learning)"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
    "first_seen": "2026-10-23",
    "last_seen": "2026-10-24"
   },
@@ -40690,12 +41156,12 @@
   {
    "company": "Brex",
    "title": "Fraud Strategy Associate",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8907584002?gh_jid=8907584002",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8907563002?gh_jid=8907563002",
    "source": "Brex careers",
    "posted": "2026-10-21",
    "source_id": "Brex",
-   "key": "gr:8907584002",
+   "key": "gr:8907563002",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -40790,12 +41256,12 @@
   {
    "company": "Brex",
    "title": "Fraud Strategy Associate",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8907563002?gh_jid=8907563002",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8907584002?gh_jid=8907584002",
    "source": "Brex careers",
    "posted": "2026-10-21",
    "source_id": "Brex",
-   "key": "gr:8907563002",
+   "key": "gr:8907584002",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -47424,11 +47890,11 @@
    "company": "Cloudflare",
    "title": "Data Center Network Operations Engineer",
    "location": "Hybrid",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8311366?gh_jid=8311366",
    "source": "Cloudflare careers",
    "posted": "2026-10-23",
    "source_id": "Cloudflare",
-   "key": "gr:8311378",
+   "key": "gr:8311366",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -47558,7 +48024,7 @@
    "near": "",
    "years": 4,
    "has_description": true,
-   "first_seen": "2026-10-23",
+   "first_seen": "2026-10-24",
    "last_seen": "2026-10-24"
   },
   {
@@ -50949,6 +51415,51 @@
   },
   {
    "company": "Supabase",
+   "title": "Data API Engineer",
+   "location": "Remote, Global",
+   "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+   "source": "Supabase careers",
+   "posted": "2026-10-24",
+   "source_id": "Supabase",
+   "key": "as:950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 30,
+    "skills": 21,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": null,
+   "matched": [
+    "SQL / databases",
+    "Backend / REST APIs (Axum)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Linux / shell"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Remote"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "remote",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Supabase",
    "title": "Platform Engineer - Compute",
    "location": "Remote, Global",
    "url": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757",
@@ -53457,45 +53968,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Corgan",
-   "title": "Software Development Intern",
-   "location": "Dallas, TX",
-   "url": "https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify internship list",
-   "key": "url:https://campus-us-corgan.icims.com/jobs/4109/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Courier Health",
    "title": "Software Engineer Intern",
    "location": "NYC",
@@ -54353,84 +54825,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer Intern - CWL",
-   "location": "Manassas, VA",
-   "url": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75346/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer Intern",
-   "location": "Fort Wayne, IN",
-   "url": "https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-08",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75159/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "General Motors",
    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
    "location": "Sunnyvale, CA",
@@ -55055,45 +55449,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "IDEMIA",
-   "title": "Software Engineer Intern",
-   "location": "Reston, VA",
-   "url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify internship list",
-   "key": "url:https://uscareers-idemia.icims.com/jobs/8650/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "IMC Trading",
    "title": "Machine Learning Engineer Intern",
    "location": "NYC",
@@ -55180,45 +55535,6 @@
    "posted": "2026-10-16",
    "source_id": "Simplify internship list",
    "key": "url:https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Iridium Communications",
-   "title": "Software Engineering Intern",
-   "location": "Tempe, AZ; McLean, VA",
-   "url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-iridium.icims.com/jobs/5136/job",
    "score": 53,
    "tier": "look",
    "parts": {
@@ -56563,84 +56879,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Peraton",
-   "title": "Software Engineering Co-op",
-   "location": "San Diego, CA",
-   "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-peraton.icims.com/jobs/171547/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Spring 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Peraton",
-   "title": "Software Development Intern",
-   "location": "Topeka, KS",
-   "url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-08",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-peraton.icims.com/jobs/172061/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Point72",
    "title": "Software Engineer Intern",
    "location": "NYC",
@@ -57304,45 +57542,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "SAS",
-   "title": "Software Development and Testing Intern",
-   "location": "Cary, NC",
-   "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-sas.icims.com/jobs/42964/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "SPS Commerce",
    "title": "Software Engineer Intern",
    "location": "Minneapolis, MN",
@@ -57535,45 +57734,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Sentinel Technologies",
-   "title": "AI Intern",
-   "location": "Downers Grove, IL",
-   "url": "https://careers-sentinel.icims.com/jobs/5122/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify internship list",
-   "key": "url:https://careers-sentinel.icims.com/jobs/5122/job",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -59308,45 +59468,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "ConocoPhillips",
-   "title": "Graduate Analyst - Trading Analytics 2027",
-   "location": "Houston, TX",
-   "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:conocophillips:req-006637",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "CrowdStrike",
    "title": "Incident Response Consultant (Remote)",
    "location": "USA - Remote",
@@ -59667,201 +59788,6 @@
    "posted": "2026-10-13",
    "source_id": "Simplify New Grad list",
    "key": "gr:4590702006",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Frontier Technology",
-   "title": "Associate Data Scientist",
-   "location": "Norfolk, VA",
-   "url": "https://careers-ftidefense.icims.com/jobs/7095/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-ftidefense.icims.com/jobs/7095/job",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Frontier Technology",
-   "title": "Early Career Associate Data Scientist",
-   "location": "Norfolk, VA",
-   "url": "https://careers-ftidefense.icims.com/jobs/7093/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-ftidefense.icims.com/jobs/7093/job",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "General Dynamics",
-   "title": "Configuration and Logistics Data Analyst 1 - Multiple Teams",
-   "location": "Brunswick, ME",
-   "url": "https://careers-gdbiw.icims.com/jobs/5403/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-gdbiw.icims.com/jobs/5403/job",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Goldbelt",
-   "title": "Junior Data Analyst",
-   "location": "Falls Church, VA",
-   "url": "https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-goldbeltapex.icims.com/jobs/20717/job",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "HumanSignal",
-   "title": "Field Data Collection Specialist",
-   "location": "Columbus, OH",
-   "url": "https://job-boards.greenhouse.io/humansignal/jobs/6208927004",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-25",
-   "source_id": "Simplify New Grad list",
-   "key": "gr:6208927004",
    "score": 51,
    "tier": "look",
    "parts": {
@@ -60253,45 +60179,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Milwaukee Brewers",
-   "title": "Associate – Baseball Systems",
-   "location": "Milwaukee, WI",
-   "url": "https://careers-brewers.icims.com/jobs/2791/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-brewers.icims.com/jobs/2791/job",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "N1 Health",
    "title": "Associate Data Ops Engineer",
    "location": "Boston, MA",
@@ -60448,45 +60335,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "RTX",
-   "title": "Systems Engineer 1",
-   "location": "Fulton, MD",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-29",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01876828",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -66895,204 +66743,6 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Machine Learning for Biology and Healthcare",
-   "location": "United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-   "source": "Microsoft careers",
-   "posted": "2026-10-13",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040333",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 12,
-    "eligibility": 0,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctoral Degree program in Computer Science, Biomedical Informatics, Biomedical Engineering/Bioengineering, Chemical Engineering, Comput",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Other Requirements",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Application Instructions: Please submit a research statement, with one paragraph describing your research interests and one paragraph describing your research a",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Please submit your application, including the required research statement, by 15 Dec 2026 for full consideration.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated ability to develop original research agendas.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Collaborate effectively with other researchers.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Preferred Qualifications",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 2.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    },
-    {
-     "kind": "warn",
-     "label": "Grad students only?"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Data Systems",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-   "source": "Microsoft careers",
-   "posted": "2026-09-25",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557008574",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 24,
-    "eligibility": 0,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Accepted or currently enrolled in a PhD program in Computer Science or related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Familiarity with data systems internals.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Proficient in application of AI/Machine Learning technologies to data management problems.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 1,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    },
-    {
-     "kind": "warn",
-     "label": "Grad students only?"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Microsoft",
    "title": "Research Intern - Agentic Data Memory",
    "location": "United States, Washington, Redmond",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
@@ -67172,6 +66822,83 @@
    "gaps": [
     "PyTorch / TensorFlow",
     "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning at MSR NYC",
+   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "source": "Microsoft careers",
+   "posted": "2026-10-16",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "PyTorch / TensorFlow"
    ],
    "flags": [
     {
@@ -67287,6 +67014,117 @@
   },
   {
    "company": "Microsoft",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "United States, Massachusetts, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "source": "Microsoft careers",
+   "posted": "2026-10-13",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 12,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctoral Degree program in Computer Science, Biomedical Informatics, Biomedical Engineering/Bioengineering, Chemical Engineering, Comput",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Other Requirements",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Application Instructions: Please submit a research statement, with one paragraph describing your research interests and one paragraph describing your research a",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Please submit your application, including the required research statement, by 15 Dec 2026 for full consideration.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Demonstrated ability to develop original research agendas.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Collaborate effectively with other researchers.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Preferred Qualifications",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad students only?"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "company": "Microsoft",
    "title": "Research Intern - Machine Learning and Statistics",
    "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
@@ -67379,26 +67217,26 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Machine Learning at MSR NYC",
-   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "title": "Research Intern - Data Systems",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
    "source": "Microsoft careers",
-   "posted": "2026-10-16",
+   "posted": "2026-09-25",
    "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557008574",
    "score": 50,
    "tier": "look",
    "parts": {
     "role": 40,
-    "skills": 15,
-    "eligibility": 11,
+    "skills": 24,
+    "eligibility": 0,
     "requirements": 0,
     "capped": 50
    },
    "quals": {
     "required": [
      {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "text": "Accepted or currently enrolled in a PhD program in Computer Science or related STEM field.",
       "status": "missing",
       "why": "Wants a current student (graduated December 2025)"
      },
@@ -67415,7 +67253,12 @@
     ],
     "preferred": [
      {
-      "text": "Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).",
+      "text": "Familiarity with data systems internals.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Proficient in application of AI/Machine Learning technologies to data management problems.",
       "status": "met",
       "why": "Has: Machine learning / AI (learning)"
      }
@@ -67424,18 +67267,19 @@
      "required_checked": 1,
      "required_met": 0.0,
      "required_missing": 1,
-     "to_check": 0,
+     "to_check": 1,
      "preferred_met": 1,
      "preferred_total": 1
     }
    },
    "matched": [
+    "SQL / databases",
     "Machine learning / AI (learning)",
     "Team software project"
    ],
    "related": [],
    "gaps": [
-    "PyTorch / TensorFlow"
+    "Cloud (AWS / Azure / GCP)"
    ],
    "flags": [
     {
@@ -67445,6 +67289,10 @@
     {
      "kind": "warn",
      "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad students only?"
     }
    ],
    "kind": "intern",
@@ -70092,6 +69940,45 @@
    "last_seen": "2026-10-24"
   },
   {
+   "company": "HCSC",
+   "title": "Security Data Classification Intern",
+   "location": "Richardson, TX",
+   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
+   "source": "Simplify internship list",
+   "posted": "2026-10-08",
+   "source_id": "Simplify internship list",
+   "key": "wd:hcsc:r0059513",
+   "score": 49,
+   "tier": "look",
+   "parts": {
+    "role": 18,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
    "company": "ICF International",
    "title": "Data Analytics Intern",
    "location": "Reston, VA",
@@ -72718,45 +72605,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "American Enterprise Institute",
-   "title": "Spring Data Analyst and Education Policy Intern",
-   "location": "Washington, DC",
-   "url": "https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-05",
-   "source_id": "Simplify internship list",
-   "key": "url:https://internships-aei.icims.com/jobs/2699/job",
-   "score": 45,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Spring 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
@@ -75473,45 +75321,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Liberty Mutual",
-   "title": "Data Science Co-op",
-   "location": "Boston, MA",
-   "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
-   "source": "Simplify internship list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify internship list",
-   "key": "url:https://campus-libertymutual.icims.com/jobs/261811/job",
-   "score": 45,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Winter 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Live Nation Entertainment",
    "title": "Venue Analytics Intern",
    "location": "Chicago, IL",
@@ -78220,84 +78029,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "AMERICAN SYSTEMS",
-   "title": "Junior Operations Research Analyst",
-   "location": "Arlington County, Arlington, VA",
-   "url": "https://careers-americansystems.icims.com/jobs/5007/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-americansystems.icims.com/jobs/5007/job",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Advantage Solutions",
-   "title": "Category Insights Analyst",
-   "location": "Chicago, IL; St. Louis, MO; Trenton, NJ",
-   "url": "https://uscareers2-asm.icims.com/jobs/441209/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-09",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://uscareers2-asm.icims.com/jobs/441209/job",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Amazon",
    "title": "Business Intelligence Engineer Intern",
    "location": "Seattle, WA",
@@ -78618,45 +78349,6 @@
    "posted": "2026-10-16",
    "source_id": "Simplify New Grad list",
    "key": "url:https://bookofthemonth.applytojob.com/apply/giekxw88sl/associate-product-engineer",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Bot Auto",
-   "title": "Planning & Control Engineer – Early Career",
-   "location": "Houston, TX",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5441694008",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-01",
-   "source_id": "Simplify New Grad list",
-   "key": "gr:5441694008",
    "score": 43,
    "tier": "look",
    "parts": {
@@ -79139,45 +78831,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "General Dynamics Mission Systems",
-   "title": "Operations Analyst",
-   "location": "Pittsburgh, PA",
-   "url": "https://careers-gdms.icims.com/jobs/75274/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-30",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers-gdms.icims.com/jobs/75274/job",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Google",
    "title": "Forward Deployed Engineer Intern",
    "location": "NYC; Sunnyvale, CA",
@@ -79542,45 +79195,6 @@
    "near": "remote",
    "years": null,
    "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Liberty Mutual",
-   "title": "Analyst Development Program",
-   "location": "Boston, MA; Seattle, WA; Plano, TX",
-   "url": "https://campus-libertymutual.icims.com/jobs/122765/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://campus-libertymutual.icims.com/jobs/122765/job",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
@@ -80333,45 +79947,6 @@
    "last_seen": "2026-10-24"
   },
   {
-   "company": "Sim",
-   "title": "Forward Deployed Engineer",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application?embed=true",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-25",
-   "source_id": "Simplify New Grad list",
-   "key": "as:b26bbbec-f7cb-446a-8882-3f3d034c24d8",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24"
-  },
-  {
    "company": "Sola",
    "title": "Forward Deployed Engineer",
    "location": "NYC",
@@ -80603,45 +80178,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
-  },
-  {
-   "company": "Trunk Tools",
-   "title": "Forward Deployed Engineer",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application?embed=true",
-   "source": "Simplify New Grad list",
-   "posted": "2026-09-24",
-   "source_id": "Simplify New Grad list",
-   "key": "as:414cdb32-9e5e-4679-8736-93cc28f7cf44",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
    "last_seen": "2026-10-24"
   },
   {
