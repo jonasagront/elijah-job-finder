@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1320 matches** as of Oct 23, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1351 matches** as of Oct 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -24,20 +24,20 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
 | 100 | Salesforce | Database Engineering Associate | Full-time | – | California - San Francisco; Virginia - H | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2) |
-| 100 | Salesforce | Software Engineering MTS 🆕 | Full-time | 2 of 2 | California - San Francisco; Washington - | 2026-10-22 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941) |
+| 100 | Salesforce | Software Engineering MTS | Full-time | 2 of 2 | California - San Francisco; Washington - | 2026-10-22 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941) |
 | 100 | SpruceID | Full-Stack Software Engineer New Grad | Full-time | 5 of 5 | Remote in USA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
+| 98 | ServiceNow | Associate Software Engineer 🆕 | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-09-28 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-09-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-02 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
-| 96 | Booz Allen | Software Developer 🆕 | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
+| 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
 | 96 | Roblox | Software Engineer, GenAI Platform | Full-time | 4.5 of 5 | San Mateo, CA, United States | 2026-09-25 | [Apply](https://careers.roblox.com/jobs/8171283?gh_jid=8171283) |
 | 96 | Roblox | Software Engineer, ROS | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-10-09 | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) |
 | 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Virginia, Reston; United  | 2026-09-29 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
 | 94 | Anthropic | Applied AI Demo Engineer | Full-time | – | San Francisco, CA | New York City, NY | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) |
 | 94 | Anthropic | Product Designer, Claude Developer Platform | Full-time | 3 of 3 | San Francisco, CA | New York City, NY |  | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5397654008) |
 | 94 | Anthropic | Research Engineer / Performance Engineer, RL Distributed Systems | Full-time | 1 of 1 | San Francisco, CA | New York City, NY |  | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438030008) |
-| 94 | Anthropic | Security Engineer / Research Engineer, RL Security | Full-time | 1 of 1 | San Francisco, CA | New York City, NY |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5458420008) |
 <!-- JOBS:END -->
 
 ---
