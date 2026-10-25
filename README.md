@@ -17,7 +17,8 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | 100 | Constant Contact | Software Engineering Development Program | Full-time | 1 of 1 | Waltham, MA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
-| 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
+| 100 | HP | Software Applications Engineer | Full-time | – | Fort Collins, Colorado, United States of | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
+| 100 | HP Inc. | Software Applications Engineer 🆕 | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
 | 100 | ID.me | Software Development Engineer 2 New Grad - Life Hub - Super App | Full-time | 5 of 5 | Mountain View, CA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/idme/jobs/8011095003) |
 | 100 | ID.me | Software Engineer 2 New Grad - Developer Portal | Full-time | 7 of 7 | Mountain View, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
 | 100 | Mastercard | Software Engineer I | Full-time | 4.5 of 5 | O'Fallon, Missouri | 2026-10-21 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
@@ -37,7 +38,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-02 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
 | 96 | Roblox | Software Engineer, GenAI Platform | Full-time | 4.5 of 5 | San Mateo, CA, United States | 2026-09-25 | [Apply](https://careers.roblox.com/jobs/8171283?gh_jid=8171283) |
-| 96 | Roblox | Software Engineer, ROS | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-10-09 | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) |
 <!-- JOBS:END -->
 
 ---
