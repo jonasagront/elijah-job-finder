@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1230 matches** as of Oct 26, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1207 matches** as of Oct 26, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485) |
 | 100 | ID.me | Software Development Engineer 2 New Grad - Life Hub - Super App | Full-time | 5 of 5 | Mountain View, CA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/idme/jobs/8011095003) |
 | 100 | ID.me | Software Engineer 2 New Grad - Developer Portal | Full-time | 7 of 7 | Mountain View, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
-| 100 | Mastercard | Software Engineer I | Full-time | 4.5 of 5 | O'Fallon, Missouri | 2026-10-21 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
 | 100 | Microsoft | Software Engineering IC2 🆕 | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-10-20 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043616) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Pinterest | University Grad Software Engineer 2027 (USA) | Full-time | 5 of 5 | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 99 | Astera Labs | Applied AI New Grad - Non Silicon | Full-time | 5 of 5 | San Jose, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
 | 98 | ServiceNow | Associate Software Engineer | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-09-28 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
+| 97 | Evolent | Associate Software Engineer 🆕 | Full-time | 3 of 3 | Remote in USA | 2026-10-26 | [Apply](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896) |
 <!-- JOBS:END -->
 
 ---
