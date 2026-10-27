@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1191 matches** as of Oct 26, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1245 matches** as of Oct 27, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
 | 100 | Salesforce | Database Engineering Associate | Full-time | – | California - San Francisco; Virginia - H | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2) |
-| 100 | Salesforce | Software Engineering MTS | Full-time | 2 of 2 | California - San Francisco; Washington - | 2026-10-22 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941) |
 | 100 | Sentry Insurance | Software Engineer | Full-time | – | Stevens Point, WI | 2026-10-05 | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1) |
 | 100 | SpruceID | Full-Stack Software Engineer New Grad | Full-time | 5 of 5 | Remote in USA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Whoop | Software Engineer 1 (Frontend) - AI Platform | Full-time | 4 of 4 | Boston, MA | 2026-10-06 | [Apply](https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application?embed=true) |
 | 99 | Astera Labs | Applied AI New Grad - Non Silicon | Full-time | 5 of 5 | San Jose, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
 | 98 | ServiceNow | Associate Software Engineer | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
+| 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-09-28 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W) |
 <!-- JOBS:END -->
 
 ---
