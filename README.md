@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1420 matches** as of Oct 30, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1418 matches** as of Oct 30, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -34,10 +34,10 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Salesforce | Database Engineering Associate | Full-time | – | California - San Francisco; Virginia - H | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2) |
 | 100 | Sentry Insurance | Software Engineer | Full-time | – | Stevens Point, WI | 2026-10-05 | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1) |
 | 100 | SpruceID | Full-Stack Software Engineer New Grad | Full-time | 5 of 5 | Remote in USA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
+| 100 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) 🆕 | Full-time | 2 of 2 | Temple Terrace, FL | 2026-10-30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
 | 100 | Vizient | Associate Software Engineer | Full-time | 5 of 5 | Cape Girardeau, MO; Irving, TX | 2026-10-09 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1) |
 | 99 | Astera Labs | Applied AI New Grad - Non Silicon | Full-time | 5 of 5 | San Jose, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
-| 98 | ServiceNow | Associate Software Engineer | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 <!-- JOBS:END -->
 
 ---
