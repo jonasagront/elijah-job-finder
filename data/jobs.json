@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T06:55:53+00:00",
+ "updated": "2026-10-31T12:53:04+00:00",
  "jobs": [
   {
    "company": "Affirm",
@@ -2239,12 +2239,12 @@
   },
   {
    "company": "Visa",
-   "title": "Software Engineer Operations and Infrastructure",
-   "location": "Austin, TX",
+   "title": "Software Engineer- Operations and Infrastructure",
+   "location": "US - Austin, TX",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-07",
-   "source_id": "Simplify New Grad list",
+   "source": "Visa careers",
+   "posted": "2026-10-06",
+   "source_id": "Visa",
    "key": "wd:visa:software-engineer--operations-and-infrastructure_ref082600w",
    "score": 100,
    "tier": "strong",
@@ -9753,6 +9753,62 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "Citi",
+   "title": "Technology, Application Development, Full-Time Analyst, New York or New Jersey - USA, 2027",
+   "location": "Jersey City New Jersey United States; New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
+   "source": "Citi careers",
+   "posted": "2026-10-23",
+   "source_id": "Citi",
+   "key": "wd:citi:261004399-1",
+   "score": 88,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 13,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "Backend / REST APIs (Axum)",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Agile / Scrum",
+    "Tableau / Power BI"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2026–2027"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "CoStar Group",
    "title": "Associate Software Engineer",
    "location": "Sunnyvale, CA",
@@ -11726,12 +11782,12 @@
   {
    "company": "Databricks",
    "title": "Solutions Engineer",
-   "location": "Chicago, Illinois",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
    "source": "Databricks careers",
-   "posted": "2026-10-15",
+   "posted": "2026-10-14",
    "source_id": "Databricks",
-   "key": "gr:8886944002",
+   "key": "gr:8886384002",
    "score": 86,
    "tier": "strong",
    "parts": {
@@ -11779,12 +11835,12 @@
   {
    "company": "Databricks",
    "title": "Solutions Engineer",
-   "location": "New York City, New York",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+   "location": "Chicago, Illinois",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
    "source": "Databricks careers",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "source_id": "Databricks",
-   "key": "gr:8886384002",
+   "key": "gr:8886944002",
    "score": 86,
    "tier": "strong",
    "parts": {
@@ -12515,125 +12571,6 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Cisco",
-   "title": "Data Science Analyst 1 - United States GSC/SCT ETR",
-   "location": "San Jose, CA",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Analyst-I--Full-Time----United-States-GSC-SCT-ETR_2028889-1",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-28",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:cisco:2028889-1",
-   "score": 85,
-   "tier": "strong",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 15,
-    "requirements": -5,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "A Bachelor's degree with 0 years of work experience; or",
-      "status": "met",
-      "why": "No experience required"
-     },
-     {
-      "text": "An educational or workforce development program (e.g., Associate’s, Apprenticeship, Boot camp, or Certification) with 1 year of work experience; or",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "High school diploma (or equivalent) with 2 years of work experience.",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "Qualifying education and work experience should be in Data analysis, Computer Science, Data Science, Statistics, or a related program",
-      "status": "missing",
-      "why": "Not on the resume: Statistics"
-     },
-     {
-      "text": "Python, Python libraries, and R with proficiency in statistical analysis and data visualization",
-      "status": "met",
-      "why": "Has: Python"
-     },
-     {
-      "text": "Strong mathematical skills",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Able to legally live and work in the country for which you are applying, without visa support or sponsorship",
-      "status": "soft",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience with big-data platforms (Hadoop, Spark)",
-      "status": "missing",
-      "why": "Not on the resume: Spark / big data"
-     },
-     {
-      "text": "Familiarity with programming languages such as Java, Scala, or C++",
-      "status": "met",
-      "why": "Has: Java"
-     },
-     {
-      "text": "Exposure to Machine Learning",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Knowledge of Cloud Computing Platforms (AWS, Google Cloud, Microsoft Azure)",
-      "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP) (check his classes)"
-     }
-    ],
-    "summary": {
-     "required_checked": 5,
-     "required_met": 2.5,
-     "required_missing": 2,
-     "to_check": 1,
-     "preferred_met": 2,
-     "preferred_total": 3
-    }
-   },
-   "matched": [
-    "Python",
-    "Cryptography / secure apps",
-    "Java",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Spark / big data",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 2+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 2,
-   "has_description": true,
-   "first_seen": "2026-10-28",
    "last_seen": "2026-10-31"
   },
   {
@@ -13913,6 +13850,77 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "Motorola Solutions",
+   "title": "Android Applications Developer",
+   "location": "Chicago, IL",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135",
+   "source": "Motorola Solutions careers",
+   "posted": "2026-10-28",
+   "source_id": "Motorola Solutions",
+   "key": "wd:motorolasolutions:r68135",
+   "score": 83,
+   "tier": "strong",
+   "parts": {
+    "role": 40,
+    "skills": 18,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree.",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "US citizenship required",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 1.0,
+     "required_missing": 0,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Java",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "NVIDIA",
    "title": "SoC Software Engineer New Grad",
    "location": "Santa Clara, CA",
@@ -14551,119 +14559,6 @@
    "kind": "full-time",
    "near": "",
    "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Cisco",
-   "title": "Data Analyst I (Full Time) - United States",
-   "location": "San Jose, California, US; Austin, Texas, US; RTP, North Carolina, US",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1",
-   "source": "Cisco careers",
-   "posted": "2026-10-07",
-   "source_id": "Cisco",
-   "key": "wd:cisco:2024556-1",
-   "score": 82,
-   "tier": "strong",
-   "parts": {
-    "role": 40,
-    "skills": 32,
-    "eligibility": 15,
-    "requirements": -5,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "A Bachelor's degree with 0 years of work experience; or",
-      "status": "met",
-      "why": "No experience required"
-     },
-     {
-      "text": "An educational or workforce development program (e.g., Associate’s, Apprenticeship, Boot camp, or Certification) with 1 year of work experience; or",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "High school diploma (or equivalent) with 2 years of work experience.",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "Qualifying education and work experience should be in Data analysis, Computer Science, Data Science, Statistics, or a related program",
-      "status": "missing",
-      "why": "Not on the resume: Statistics"
-     },
-     {
-      "text": "Python, Python libraries, and R with proficiency in statistical analysis and data visualization",
-      "status": "met",
-      "why": "Has: Python"
-     },
-     {
-      "text": "Strong mathematical skills",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience with big-data platforms (Hadoop, Spark)",
-      "status": "missing",
-      "why": "Not on the resume: Spark / big data"
-     },
-     {
-      "text": "Familiarity with programming languages such as Java, Scala, or C++",
-      "status": "met",
-      "why": "Has: Java"
-     },
-     {
-      "text": "Exposure to Machine Learning",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Knowledge of Cloud Computing Platforms (AWS, Google Cloud, Microsoft Azure)",
-      "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP) (check his classes)"
-     }
-    ],
-    "summary": {
-     "required_checked": 5,
-     "required_met": 2.5,
-     "required_missing": 2,
-     "to_check": 1,
-     "preferred_met": 2,
-     "preferred_total": 3
-    }
-   },
-   "matched": [
-    "Python",
-    "Java",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "Spark / big data",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 2+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 2,
    "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-31"
@@ -16403,6 +16298,51 @@
    ],
    "kind": "full-time",
    "near": "remote",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Jabil",
+   "title": "Operations Business Analyst",
+   "location": "St. Petersburg/Tampa, FL",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Business-Analyst_J2470556",
+   "source": "Jabil careers",
+   "posted": "2026-10-30",
+   "source_id": "Jabil",
+   "key": "wd:jabil:j2470556",
+   "score": 79,
+   "tier": "strong",
+   "parts": {
+    "role": 30,
+    "skills": 24,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)"
+   ],
+   "related": [],
+   "gaps": [
+    "Tableau / Power BI"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "good",
+     "label": "Entry level"
+    }
+   ],
+   "kind": "full-time",
+   "near": "home",
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-31",
@@ -21437,45 +21377,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Motorola Solutions",
-   "title": "Android Applications Developer",
-   "location": "Chicago, IL",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-23",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:motorolasolutions:r68135",
-   "score": 73,
-   "tier": "strong",
-   "parts": {
-    "role": 36,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "NVIDIA",
    "title": "Software Verification Engineer - Networking",
    "location": "US, TX, Austin",
@@ -26228,6 +26129,76 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "Capital One",
+   "title": "Full Stack Engineer 4 (ATM)",
+   "location": "2 Locations",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--ATM-_R1001150-1",
+   "source": "Capital One careers",
+   "posted": "",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1001150-1",
+   "score": 65,
+   "tier": "good",
+   "parts": {
+    "role": 28,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+   "location": "3 Locations",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1004243-1",
+   "source": "Capital One careers",
+   "posted": "",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004243-1",
+   "score": 65,
+   "tier": "good",
+   "parts": {
+    "role": 28,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "Intel",
    "title": "Compiler Engineer for AI DSLs",
    "location": "Austin, TX; Santa Clara, CA; Hillsboro, OR; Worcester, MA",
@@ -28906,45 +28877,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "OSF HealthCare",
-   "title": "Data Engineer 1",
-   "location": "Peoria, IL",
-   "url": "https://www.osfcareers.org/jobs/112750?icims=1",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-19",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://www.osfcareers.org/jobs/112750",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Otter.ai",
    "title": "Software Engineer New Grad - Front-End",
    "location": "Mountain View, CA",
@@ -29020,6 +28952,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Peraton",
+   "title": "Artificial Intelligence/Machine Learning Engineer 1 - Top Secret/SCI w/Poly",
+   "location": "Laurel, MD",
+   "url": "https://peraton.jibeapply.com/jobs/171539?icims=1",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-02",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://peraton.jibeapply.com/jobs/171539",
+   "score": 63,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -29492,6 +29463,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Stifel",
+   "title": "Developer Credit Analytics",
+   "location": "St. Louis, MO",
+   "url": "https://stifel.jibeapply.com/jobs/10047?icims=1",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-09",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://stifel.jibeapply.com/jobs/10047",
+   "score": 63,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -32169,6 +32179,66 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "Citi",
+   "title": "Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027",
+   "location": "Jersey City New Jersey United States; New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378",
+   "source": "Citi careers",
+   "posted": "2026-10-23",
+   "source_id": "Citi",
+   "key": "wd:citi:261004378",
+   "score": 60,
+   "tier": "good",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 60
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "Backend / REST APIs (Axum)",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Agile / Scrum",
+    "Tableau / Power BI"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Ask if grads can apply"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2027–2028"
+    },
+    {
+     "kind": "info",
+     "label": "Min GPA 3.0"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "Databricks",
    "title": "Data+AI Workforce Transformation Practitioner — Customer Delivery",
    "location": "United States",
@@ -32553,11 +32623,11 @@
   {
    "company": "Leidos",
    "title": "Business Systems AI Intern",
-   "location": "Remote in USA",
+   "location": "6314 Remote/Teleworker US",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-   "source": "Simplify internship list",
+   "source": "Leidos careers",
    "posted": "2026-10-06",
-   "source_id": "Simplify internship list",
+   "source_id": "Leidos",
    "key": "wd:leidos:r-00193327",
    "score": 60,
    "tier": "good",
@@ -35649,45 +35719,6 @@
   },
   {
    "company": "Northrop Grumman",
-   "title": "Associate Software Engineer / Software Engineer",
-   "location": "Huntsville, AL",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-28",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:ngc:r10257986",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Northrop Grumman",
    "title": "Associate Software Engineer - Pathways Program",
    "location": "Aurora, CO",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
@@ -37314,45 +37345,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Adobe",
-   "title": "AI & Architecture Intern",
-   "location": "San Jose, CA",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
-   "source": "Simplify internship list",
-   "posted": "2026-10-19",
-   "source_id": "Simplify internship list",
-   "key": "wd:adobe:r172998",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 28,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Amazon",
    "title": "Software Engineer Intern",
    "location": "Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO",
@@ -37827,45 +37819,6 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "CVS Health",
-   "title": "Software Engineer Intern - Platform & Applications",
-   "location": "Dallas, TX; Scottsdale, AZ; Hartford, CT; Woonsocket, RI",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
-   "source": "Simplify internship list",
-   "posted": "2026-10-22",
-   "source_id": "Simplify internship list",
-   "key": "wd:cvshealth:r1081193",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 30,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-29",
    "last_seen": "2026-10-31"
   },
   {
@@ -38589,123 +38542,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Leidos",
-   "title": "Systems Integration and Software Engineer Intern",
-   "location": "Atlantic City, NJ",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
-   "source": "Simplify internship list",
-   "posted": "2026-10-08",
-   "source_id": "Simplify internship list",
-   "key": "wd:leidos:r-00194152",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Leidos",
-   "title": "Data Engineer Intern",
-   "location": "Fort Belvoir, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-   "source": "Simplify internship list",
-   "posted": "2026-10-28",
-   "source_id": "Simplify internship list",
-   "key": "wd:leidos:r-00195576",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Leidos",
-   "title": "Software Developer Intern",
-   "location": "Annapolis Junction, MD",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
-   "source": "Simplify internship list",
-   "posted": "2026-10-29",
-   "source_id": "Simplify internship list",
-   "key": "wd:leidos:r-00195829",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-29",
    "last_seen": "2026-10-31"
   },
   {
@@ -39492,45 +39328,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer Intern - Security & Identity",
-   "location": "United States",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-   "source": "Simplify internship list",
-   "posted": "2026-10-23",
-   "source_id": "Simplify internship list",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557044771",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "NVIDIA",
    "title": "Compiler Software Engineer Intern",
    "location": "Redmond, WA",
@@ -39840,6 +39637,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-24",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineering & Analytics Tools Intern",
+   "location": "Washington, DC",
+   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-16",
+   "source_id": "Simplify internship list",
+   "key": "url:https://spa.jibeapply.com/jobs/23634",
+   "score": 58,
+   "tier": "good",
+   "parts": {
+    "role": 30,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 58
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -40470,11 +40306,11 @@
    "company": "Visa",
    "title": "Data Science Intern - Data and AI Team",
    "location": "Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W",
    "source": "Simplify internship list",
    "posted": "2026-10-27",
    "source_id": "Simplify internship list",
-   "key": "wd:visa:data-science-intern--data-and-ai-team---summer-2027_ref089883w-1",
+   "key": "wd:visa:data-science-intern--data-and-ai-team---summer-2027_ref089883w",
    "score": 58,
    "tier": "good",
    "parts": {
@@ -40502,7 +40338,7 @@
    "near": "",
    "years": null,
    "has_description": false,
-   "first_seen": "2026-10-27",
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -41754,45 +41590,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Cisco",
-   "title": "Data Science Analyst 1",
-   "location": "San Jose, CA",
-   "url": "https://careers.cisco.com/global/en/job/2028889",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-29",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://careers.cisco.com/global/en/job/2028889",
-   "score": 57,
-   "tier": "good",
-   "parts": {
-    "role": 20,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Clean Harbors",
    "title": "Software & Field Technology Intern IS",
    "location": "Deer Park, TX",
@@ -42570,6 +42367,49 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Agentic AI Data Science Intern",
+   "location": "Jacksonville, FL",
+   "url": "https://ice.jibeapply.com/jobs/14070?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14070",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -43431,6 +43271,84 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "Peraton",
+   "title": "Software Developer Intern",
+   "location": "Topeka, KS",
+   "url": "https://peraton.jibeapply.com/jobs/172061?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-08",
+   "source_id": "Simplify internship list",
+   "key": "url:https://peraton.jibeapply.com/jobs/172061",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Peraton",
+   "title": "Mission Systems Software and Edge Computing Intern",
+   "location": "Oklahoma",
+   "url": "https://peraton.jibeapply.com/jobs/172378?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-14",
+   "source_id": "Simplify internship list",
+   "key": "url:https://peraton.jibeapply.com/jobs/172378",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "Philips",
    "title": "AI & Analytics Analyst Intern",
    "location": "Nashville, TN",
@@ -43700,45 +43618,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Rolls-Royce",
-   "title": "Integrated Control Systems Engineer Intern - Software",
-   "location": "Indianapolis, IN",
-   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
-   "source": "Simplify internship list",
-   "posted": "2026-10-13",
-   "source_id": "Simplify internship list",
-   "key": "wd:rollsroyce:jr6161452",
-   "score": 57,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Scout AI",
    "title": "AI Engineer Intern - Fury Team",
    "location": "Sunnyvale, CA",
@@ -43970,6 +43849,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineer Intern",
+   "location": "Alexandria, VA",
+   "url": "https://spa.jibeapply.com/jobs/23698?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-28",
+   "source_id": "Simplify internship list",
+   "key": "url:https://spa.jibeapply.com/jobs/23698",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -46174,206 +46092,6 @@
   {
    "company": "Brex",
    "title": "Fraud Strategy Associate",
-   "location": "Seattle, Washington, United States",
-   "url": "https://www.brex.com/careers/8907623002?gh_jid=8907623002",
-   "source": "Brex careers",
-   "posted": "2026-10-21",
-   "source_id": "Brex",
-   "key": "gr:8907623002",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 28,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Industry Experience: 3+ years of experience in fraud strategy, risk operations, or data-driven business operations within a financial services or high-growth fi",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Technical Mastery: Capable with SQL and/or Python for data wrangling, statistical modeling, and automation.",
-      "status": "met",
-      "why": "Has: Python, SQL / databases"
-     },
-     {
-      "text": "Operational Mindset: Proven ability to build scalable processes and manage complex projects from data exploration through to operational rollout.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Communication: Exceptional ability to synthesize complex analytical findings into clear, executive-level strategic narratives.",
-      "status": "soft",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Advanced Certification: Certified Fraud Examiner (CFE) designation.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience with Snowflake, Salesforce, and data visualization platforms like Hex.",
-      "status": "missing",
-      "why": "Not on the resume: Spark / big data"
-     },
-     {
-      "text": "Experience managing fraud risk and operational workflows for products spanning multiple geographic jurisdictions.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience utilizing AI tools to enhance internal operational efficiency.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 2,
-     "required_met": 1.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Python",
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Spark / big data",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 3+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 3,
-   "has_description": true,
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Brex",
-   "title": "Fraud Strategy Associate",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8907553002?gh_jid=8907553002",
-   "source": "Brex careers",
-   "posted": "2026-10-21",
-   "source_id": "Brex",
-   "key": "gr:8907553002",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 28,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Technical Mastery: Capable with SQL and/or Python for data wrangling, statistical modeling, and automation.",
-      "status": "met",
-      "why": "Has: Python, SQL / databases"
-     },
-     {
-      "text": "Industry Experience: 3+ years of experience in fraud strategy, risk operations, or data-driven business operations within a financial services or high-growth fi",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Operational Mindset: Proven ability to build scalable processes and manage complex projects from data exploration through to operational rollout.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Communication: Exceptional ability to synthesize complex analytical findings into clear, executive-level strategic narratives.",
-      "status": "soft",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Advanced Certification: Certified Fraud Examiner (CFE) designation.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience with Snowflake, Salesforce, and data visualization platforms like Hex.",
-      "status": "missing",
-      "why": "Not on the resume: Spark / big data"
-     },
-     {
-      "text": "Experience managing fraud risk and operational workflows for products spanning multiple geographic jurisdictions.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience utilizing AI tools to enhance internal operational efficiency.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 2,
-     "required_met": 1.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Python",
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Spark / big data",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 3+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 3,
-   "has_description": true,
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Brex",
-   "title": "Fraud Strategy Associate",
    "location": "San Francisco, California, United States",
    "url": "https://www.brex.com/careers/8907563002?gh_jid=8907563002",
    "source": "Brex careers",
@@ -46500,6 +46218,206 @@
       "text": "Technical Mastery: Capable with SQL and/or Python for data wrangling, statistical modeling, and automation.",
       "status": "met",
       "why": "Has: Python, SQL / databases"
+     },
+     {
+      "text": "Operational Mindset: Proven ability to build scalable processes and manage complex projects from data exploration through to operational rollout.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Communication: Exceptional ability to synthesize complex analytical findings into clear, executive-level strategic narratives.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Advanced Certification: Certified Fraud Examiner (CFE) designation.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with Snowflake, Salesforce, and data visualization platforms like Hex.",
+      "status": "missing",
+      "why": "Not on the resume: Spark / big data"
+     },
+     {
+      "text": "Experience managing fraud risk and operational workflows for products spanning multiple geographic jurisdictions.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience utilizing AI tools to enhance internal operational efficiency.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Spark / big data",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Brex",
+   "title": "Fraud Strategy Associate",
+   "location": "Seattle, Washington, United States",
+   "url": "https://www.brex.com/careers/8907623002?gh_jid=8907623002",
+   "source": "Brex careers",
+   "posted": "2026-10-21",
+   "source_id": "Brex",
+   "key": "gr:8907623002",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 28,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Industry Experience: 3+ years of experience in fraud strategy, risk operations, or data-driven business operations within a financial services or high-growth fi",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "Technical Mastery: Capable with SQL and/or Python for data wrangling, statistical modeling, and automation.",
+      "status": "met",
+      "why": "Has: Python, SQL / databases"
+     },
+     {
+      "text": "Operational Mindset: Proven ability to build scalable processes and manage complex projects from data exploration through to operational rollout.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Communication: Exceptional ability to synthesize complex analytical findings into clear, executive-level strategic narratives.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Advanced Certification: Certified Fraud Examiner (CFE) designation.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with Snowflake, Salesforce, and data visualization platforms like Hex.",
+      "status": "missing",
+      "why": "Not on the resume: Spark / big data"
+     },
+     {
+      "text": "Experience managing fraud risk and operational workflows for products spanning multiple geographic jurisdictions.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience utilizing AI tools to enhance internal operational efficiency.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Spark / big data",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Brex",
+   "title": "Fraud Strategy Associate",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8907553002?gh_jid=8907553002",
+   "source": "Brex careers",
+   "posted": "2026-10-21",
+   "source_id": "Brex",
+   "key": "gr:8907553002",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 28,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Technical Mastery: Capable with SQL and/or Python for data wrangling, statistical modeling, and automation.",
+      "status": "met",
+      "why": "Has: Python, SQL / databases"
+     },
+     {
+      "text": "Industry Experience: 3+ years of experience in fraud strategy, risk operations, or data-driven business operations within a financial services or high-growth fi",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
      },
      {
       "text": "Operational Mindset: Proven ability to build scalable processes and manage complex projects from data exploration through to operational rollout.",
@@ -52108,255 +52026,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Capital One",
-   "title": "Full Stack Engineer 4 (ATM)",
-   "location": "Richmond, VA; McLean, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--ATM-_R1001150-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-27",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1001150-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Enthusiastic about the connectivity between software and hardware, with a drive to innovate across embedded environments, IoT, or emerging tech.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "An assertive communicator who can articulate technical concepts clearly to both technical and non-technical partners.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "A curious tinkerer who thrives in hackathons, innovation sprints, and hands-on problem-solving.",
-      "status": "met",
-      "why": "Your Lokr project (Rust + React encrypted file sharing)"
-     },
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "6+ years of experience developing software on an ATM software stack (e.g., ProFlex 4, NDC/911/912 protocols, or Vendor XFS)",
-      "status": "missing",
-      "why": "Experience: asks for 6+ years (new grad)"
-     },
-     {
-      "text": "6+ years of experience developing in Java, C++, or JavaScript",
-      "status": "missing",
-      "why": "Experience: asks for 6+ years (new grad)"
-     },
-     {
-      "text": "6+ years of experience with Microsoft Windows OS administration and hardware-to-software system integration",
-      "status": "missing",
-      "why": "Experience: asks for 6+ years (new grad)"
-     },
-     {
-      "text": "6+ years of experience leading collaborative software release processes",
-      "status": "missing",
-      "why": "Experience: asks for 6+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience performing log and tracing analysis to troubleshoot complex system issues",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Experience with CI/CD automation, testing frameworks, and cloud-based data streaming or microservices architectures",
-      "status": "missing",
-      "why": "Not on the resume: CI/CD"
-     },
-     {
-      "text": "Experience with interactive AI tooling to accelerate productivity, utilizing capabilities beyond basic code completion",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 4,
-     "required_met": 2.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 7
-    }
-   },
-   "matched": [
-    "TypeScript / JavaScript",
-    "Java",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
-   "location": "McLean, VA; Cambridge, MA; Richmond, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1004243-1",
-   "source": "Capital One careers",
-   "posted": "2026-10-27",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1004243-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Cisco",
    "title": "Software Engineer - Mobile",
    "location": "Bratislava, Slovakia",
@@ -52494,12 +52163,12 @@
   {
    "company": "Cisco",
    "title": "Solutions Engineer - Splunk (Remote)",
-   "location": "New York, New York, US",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1",
+   "location": "San Jose, California, US",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1",
    "source": "Cisco careers",
-   "posted": "2026-10-26",
+   "posted": "2026-10-31",
    "source_id": "Cisco",
-   "key": "wd:cisco:2024727-1",
+   "key": "wd:cisco:2024724-1",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -52537,7 +52206,7 @@
       "why": "Has: Machine learning / AI (learning)"
      },
      {
-      "text": "Ability to travel between 15% and 25% for on-site customer workshops, Executive Briefing Centers (EBCs), and industry conferences (such as Splunk .conf and Cisc",
+      "text": "Willingness and ability to travel within assigned territory to meet business and customer engagement requirements",
       "status": "soft",
       "why": ""
      }
@@ -52600,12 +52269,12 @@
   {
    "company": "Cisco",
    "title": "Solutions Engineer - Splunk (Remote)",
-   "location": "San Jose, California, US",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer---Splunk--Remote-_2024724-1",
+   "location": "New York, New York, US",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/New-York-New-York-US/Solutions-Engineer---Splunk--Remote-_2024727-1",
    "source": "Cisco careers",
-   "posted": "2026-10-26",
+   "posted": "2026-10-31",
    "source_id": "Cisco",
-   "key": "wd:cisco:2024724-1",
+   "key": "wd:cisco:2024727-1",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -52643,7 +52312,7 @@
       "why": "Has: Machine learning / AI (learning)"
      },
      {
-      "text": "Ability to travel between 15% and 25% for on-site customer workshops, Executive Briefing Centers (EBCs), and industry conferences (such as Splunk .conf and Cisc",
+      "text": "Willingness and ability to travel within assigned territory to meet business and customer engagement requirements",
       "status": "soft",
       "why": ""
      }
@@ -52701,6 +52370,121 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Engineer",
+   "location": "Sierra Vista, Arizona, US",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Sierra-Vista-Arizona-US/Software-Engineer_2025407",
+   "source": "Cisco careers",
+   "posted": "2026-10-31",
+   "source_id": "Cisco",
+   "key": "wd:cisco:2025407",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 26,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Experience working with Cisco products",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Demonstrable Experience of IP routing protocols and switching technologies (e.g., LAN/WAN, STP, OSPF, BGP, VRRP/HSRP, IPv4, IPv6)",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Ability to build test networks, including configuration and setup of routers and switches",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Understanding of security concepts and frameworks: SSHv2, PKI, IPSec, TLS, AAA, Zero Trust, NIST 800-53, STIGs",
+      "status": "partial",
+      "why": "Close: TLS ≈ Cryptography / secure apps"
+     },
+     {
+      "text": "Community college or higher education in Information Technology/Systems, Computer Science, or engineering, or a similar background, or 4 years additional work e",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "CCNP or Cisco DevNet Associate certification; familiarity with network automation (Ansible, Terraform), APIs and data models (REST, NETCONF/RESTCONF, YANG, JSON",
+      "status": "check",
+      "why": "Coursework: Git / GitHub (check his classes)"
+     },
+     {
+      "text": "Experience with data center and cloud technologies: Cisco UCS, Nexus, VXLAN/EVPN, ESXi/Hyper-V, Docker/Kubernetes awareness, Windows Server/Active Directory, an",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP), Docker / Kubernetes"
+     },
+     {
+      "text": "Foundational scripting experience with Python and/or Bash",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Familiarity with AI-assisted tooling and responsible, secure AI usage; ability to detail environments with Visio, draw.io, or diagrams-as-code",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Excellent interpersonal, verbal, and written communication skills; detail oriented, self-motivated, strong time management, and able to work independently and i",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 0.5,
+     "required_missing": 1,
+     "to_check": 1,
+     "preferred_met": 3,
+     "preferred_total": 4
+    }
+   },
+   "matched": [
+    "Python",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "TLS (close to Cryptography / secure apps)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "Linux / shell"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -54443,154 +54227,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Leidos",
-   "title": "Full Stack .NET Developer",
-   "location": "Bethesda, MD",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Full-Stack-NET-Developer_R-00194782",
-   "source": "Leidos careers",
-   "posted": "2026-10-16",
-   "source_id": "Leidos",
-   "key": "wd:leidos:r-00194782",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": -5,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor’s degree in Computer Science, Information Technology, or a related field, and 3+ years of relevant software development experience.",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Strong full stack experience with C#, ASP.NET MVC, .NET/.NET Core, REST APIs, Entity Framework, ADO.NET, and SQL Server.",
-      "status": "met",
-      "why": "Has: SQL / databases, Backend / REST APIs (Axum), Full-stack web apps"
-     },
-     {
-      "text": "Hands-on front-end experience with HTML5, CSS3, JavaScript, Bootstrap, jQuery, and AJAX, including responsive design and accessibility.",
-      "status": "met",
-      "why": "Has: React / frontend UI, TypeScript / JavaScript"
-     },
-     {
-      "text": "Experience building and deploying .NET applications in Azure, including Azure Functions and Web APIs.",
-      "status": "missing",
-      "why": "Not on the resume: Cloud (AWS / Azure / GCP), C# / .NET"
-     },
-     {
-      "text": "Practical Azure AI development experience, such as integrating AI services through .NET APIs, implementing search or retrieval features, evaluating output quali",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Hands-on experience implementing authentication and authorization middleware using OAuth 2.0 and OpenID Connect, including integration with Login.gov or a compa",
-      "status": "partial",
-      "why": "Close: Oauth ≈ Cryptography / secure apps"
-     },
-     {
-      "text": "Experience with single sign-on, token validation, claims-based or role-based access control, and securing APIs and user sessions.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong SQL Server and T-SQL skills, including stored procedures and data integration.",
-      "status": "met",
-      "why": "Has: SQL / databases"
-     },
-     {
-      "text": "Proficiency with Git, automated testing, CI/CD, and secure coding practices.",
-      "status": "met",
-      "why": "Has: Cryptography / secure apps"
-     },
-     {
-      "text": "Strong communication skills and the ability to work across both technical and business teams.",
-      "status": "met",
-      "why": "Has: Customer service / communication"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Direct experience integrating applications with Microsoft Entra ID",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience supporting NIH, federal grants administration, scientific peer review operations, or other federal health systems.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience with Copilot Studio, Power BI, SSRS, Telerik UI, MySQL, or legacy SOAP/WCF services.",
-      "status": "met",
-      "why": "Has: SQL / databases"
-     },
-     {
-      "text": "Familiarity with Azure Government environments and Microsoft Entra ID.",
-      "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP) (check his classes)"
-     },
-     {
-      "text": "Azure or Microsoft DevOps certification.",
-      "status": "missing",
-      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
-     }
-    ],
-    "summary": {
-     "required_checked": 9,
-     "required_met": 6.5,
-     "required_missing": 2,
-     "to_check": 1,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Cryptography / secure apps",
-    "SQL / databases",
-    "Backend / REST APIs (Axum)",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [
-    "C# (close to Java)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "C# / .NET",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Tableau / Power BI"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 3+ years experience"
-    },
-    {
-     "kind": "info",
-     "label": "U.S. person / ITAR",
-     "id": "citizen"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 3,
-   "has_description": true,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Meta",
    "title": "Data Scientist Intern - Product Analytics",
    "location": "Menlo Park, CA; NYC",
@@ -55264,130 +54900,12 @@
   {
    "company": "Oscar Health",
    "title": "Strategic Insights Associate, Data Analytics",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
+   "location": "Dallas, Texas, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
    "source": "Oscar Health careers",
    "posted": "2026-10-02",
    "source_id": "Oscar Health",
-   "key": "gr:8249773",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 28,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "3+ years of technical work experience using analytical tools and writing analytical reports",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with a structured and systematic thought process",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong communication skills, verbal and written, around business reporting impact and requirements, as demonstrated by 5+ examples / projects of presenting anal",
-      "status": "met",
-      "why": "Has: Customer service / communication"
-     },
-     {
-      "text": "2+ years experience in SQL, with the ability to filter, aggregate, and build CTEs, or proficiency in R or Python, including experience with Pandas, for loops, a",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "1+ years experience, including proficiency in Google Sheets or Excel skills, with ability to use VLookup, nested if statements and connected Sheets",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "1+ years experience in healthcare, finance or the insurance industry",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "2+ years experience in preparing healthcare analytics and reporting",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "2+ years experience managing value-based contracts at a payer or a provider organization (ACO, CIN, MSO etc.)",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "2+ years experience developing dashboards and working with Looker, or other business intelligence/data visualization tools",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "Exposure to healthcare contract negotiations, risk adjustment, ACA marketplace, quality of care, and/or population health experience",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "This is an authentic Oscar Health job opportunity.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 5,
-     "required_met": 2.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 3
-    }
-   },
-   "matched": [
-    "Python",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [],
-   "gaps": [
-    "pandas / NumPy / scikit-learn",
-    "Tableau / Power BI",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 3+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 3,
-   "has_description": true,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Oscar Health",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
-   "source": "Oscar Health careers",
-   "posted": "2026-10-02",
-   "source_id": "Oscar Health",
-   "key": "gr:8250195",
+   "key": "gr:8250197",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -55608,12 +55126,130 @@
   {
    "company": "Oscar Health",
    "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Dallas, Texas, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
    "source": "Oscar Health careers",
    "posted": "2026-10-02",
    "source_id": "Oscar Health",
-   "key": "gr:8250197",
+   "key": "gr:8249773",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 28,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "3+ years of technical work experience using analytical tools and writing analytical reports",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with a structured and systematic thought process",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Strong communication skills, verbal and written, around business reporting impact and requirements, as demonstrated by 5+ examples / projects of presenting anal",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "2+ years experience in SQL, with the ability to filter, aggregate, and build CTEs, or proficiency in R or Python, including experience with Pandas, for loops, a",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "1+ years experience, including proficiency in Google Sheets or Excel skills, with ability to use VLookup, nested if statements and connected Sheets",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     },
+     {
+      "text": "1+ years experience in healthcare, finance or the insurance industry",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "2+ years experience in preparing healthcare analytics and reporting",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "2+ years experience managing value-based contracts at a payer or a provider organization (ACO, CIN, MSO etc.)",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "2+ years experience developing dashboards and working with Looker, or other business intelligence/data visualization tools",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "Exposure to healthcare contract negotiations, risk adjustment, ACA marketplace, quality of care, and/or population health experience",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "This is an authentic Oscar Health job opportunity.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 5,
+     "required_met": 2.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "pandas / NumPy / scikit-learn",
+    "Tableau / Power BI",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 3+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 3,
+   "has_description": true,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Oscar Health",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
+   "source": "Oscar Health careers",
+   "posted": "2026-10-02",
+   "source_id": "Oscar Health",
+   "key": "gr:8250195",
    "score": 55,
    "tier": "look",
    "parts": {
@@ -60240,6 +59876,45 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "First Citizens BancShares",
+   "title": "Summer Intern - AI Innovation",
+   "location": "Raleigh, NC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-30",
+   "source_id": "Simplify internship list",
+   "key": "url:https://firstcitizens.jibeapply.com/jobs/36311",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "Formlabs",
    "title": "Manufacturing Test Software Intern",
    "location": "Somerville, MA",
@@ -61558,6 +61233,174 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineering Intern",
+   "location": "Jacksonville, FL",
+   "url": "https://ice.jibeapply.com/jobs/14075?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14075",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern",
+   "location": "NYC",
+   "url": "https://ice.jibeapply.com/jobs/14105?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14105",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern - Java",
+   "location": "Jacksonville, FL",
+   "url": "https://ice.jibeapply.com/jobs/14078?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14078",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern",
+   "location": "Jacksonville, FL",
+   "url": "https://ice.jibeapply.com/jobs/14077?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14077",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -66021,45 +65864,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Adobe",
-   "title": "Technical Support Consultant Intern",
-   "location": "San Jose, CA",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
-   "source": "Simplify internship list",
-   "posted": "2026-10-29",
-   "source_id": "Simplify internship list",
-   "key": "wd:adobe:r172785",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 20,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Amazon",
    "title": "Data Science Intern",
    "location": "Seattle, WA",
@@ -66716,45 +66520,6 @@
    "posted": "2026-10-23",
    "source_id": "Simplify internship list",
    "key": "wd:citi:261003288",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 20,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Citi",
-   "title": "Technology Summer Analyst Intern - Application Development",
-   "location": "Jersey City, NJ; NYC",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378",
-   "source": "Simplify internship list",
-   "posted": "2026-10-23",
-   "source_id": "Simplify internship list",
-   "key": "wd:citi:261004378",
    "score": 51,
    "tier": "look",
    "parts": {
@@ -68027,6 +67792,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - MSR Systems Research Group",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
+   "source": "Simplify internship list",
+   "posted": "2026-10-28",
+   "source_id": "Simplify internship list",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557050039",
+   "score": 51,
+   "tier": "look",
+   "parts": {
+    "role": 20,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-28",
    "last_seen": "2026-10-31"
   },
   {
@@ -69471,6 +69275,110 @@
   },
   {
    "company": "Adobe",
+   "title": "2027 Intern - AI & Architecture",
+   "location": "San Jose",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+   "source": "Adobe careers",
+   "posted": "2026-10-19",
+   "source_id": "Adobe",
+   "key": "wd:adobe:r172998",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 18,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": null,
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "Express (close to Backend / REST APIs (Axum))"
+   ],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Adobe",
+   "title": "2027 University Graduate - Technical Support Consultant",
+   "location": "San Jose",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
+   "source": "Adobe careers",
+   "posted": "2026-10-29",
+   "source_id": "Adobe",
+   "key": "wd:adobe:r172785",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": null,
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "Backend / REST APIs (Axum)",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "CI/CD",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Asks 1+ year experience"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2026–2027"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": 1,
+   "has_description": true,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Adobe",
    "title": "2027 Intern- Software Engineer",
    "location": "Basel",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
@@ -69724,10 +69632,32 @@
     "role": 40,
     "skills": 35,
     "eligibility": 11,
-    "requirements": 0,
+    "requirements": -5,
     "capped": 50
    },
-   "quals": null,
+   "quals": {
+    "required": [
+     {
+      "text": "AWS or other PaaS frameworks",
+      "status": "missing",
+      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
+     },
+     {
+      "text": "Compensation is a set amount for the Intern role with no range.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
    "matched": [
     "Python",
     "React / frontend UI",
@@ -70543,6 +70473,111 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "CVS Health",
+   "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
+   "location": "AZ - Scottsdale; TX - Dallas; CT - Hartford; RI - Woonsocket",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
+   "source": "CVS Health careers",
+   "posted": "2026-10-28",
+   "source_id": "CVS Health",
+   "key": "wd:cvshealth:r1081193",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [],
+    "preferred": [
+     {
+      "text": "Have demonstrated leadership experience. Examples include: active roles in student or social organization activities, sports, or school or work-related projects",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Have internship, work, or project experience in related field of Healthcare Technology",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Show strong written and verbal communication skills",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "Possess problem solving skills",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Exhibit an analytical and growth mindset",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Have project management experience",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Have an interest in obtaining full-time position within CVS Health upon graduation",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 0,
+     "required_met": 0.0,
+     "required_missing": 0,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Java",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "C++ (close to Rust)",
+    "Spring (close to Backend / REST APIs (Axum))"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "CI/CD"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2027–2028"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-29",
    "last_seen": "2026-10-31"
   },
   {
@@ -72975,12 +73010,98 @@
   },
   {
    "company": "Leidos",
+   "title": "Systems, Integration and Software Engineer Intern",
+   "location": "Atlantic City, NJ",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+   "source": "Leidos careers",
+   "posted": "2026-10-08",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00194152",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Candidates must be enrolled in a degree program in a relevant discipline, for example, engineering, computer science.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Exposure to system engineering, software engineering, artificial intelligence, or machine learning.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Candidates must have the ability to obtain and maintain a public trust clearance",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Candidates must be US Citizens",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     }
+    ],
+    "preferred": [],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 1,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Python",
+    "TypeScript / JavaScript",
+    "Java",
+    "Machine learning / AI (learning)"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Data structures & algorithms",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Leidos",
    "title": "Performance Enablement AI/ML Intern",
-   "location": "Remote in USA",
+   "location": "6314 Remote/Teleworker US",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
-   "source": "Simplify internship list",
+   "source": "Leidos careers",
    "posted": "2026-10-15",
-   "source_id": "Simplify internship list",
+   "source_id": "Leidos",
    "key": "wd:leidos:r-00194656",
    "score": 50,
    "tier": "look",
@@ -73101,6 +73222,258 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Leidos",
+   "title": "Data Engineer Intern",
+   "location": "Fort Belvoir, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+   "source": "Leidos careers",
+   "posted": "2026-10-28",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00195576",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 39,
+    "skills": 12,
+    "eligibility": 11,
+    "requirements": -5,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Strong organizational skills and attention to detail.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Good written and verbal communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "US Citizenship required",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Interim or active Secret clearance (or ability to obtain and maintain required security clearance).",
+      "status": "missing",
+      "why": "Needs a clearance you'd already have to hold"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Currently enrolled in a degree program (Junior/Senior level preferred).",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Coursework in Information Technology, Cybersecurity, Business Administration, or related field.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Familiarity with scripting and programming language.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Familiarity with LLMs and prompt engineering.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 3,
+     "preferred_met": 1,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Leidos",
+   "title": "Software Developer Intern",
+   "location": "Annapolis Junction, MD",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
+   "source": "Leidos careers",
+   "posted": "2026-10-29",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00195829",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Bachelor’s degree program in Computer Science, Engineering, or related field, going into the Junior or Senior level.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Experience with at least one major programming language (e.g., Java, C++, Python).",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Excellent problem solving and debugging skills.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Ability to work independently and as part of a team.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Strong written and verbal communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "US Citizenship required.",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Ability to obtain a TS/SCI with Polygraph clearance before start date. investigation requires, but is not limited to, an in-person interview in Maryland at inte",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Ability to maintain a TS/SCI with Polygraph clearance after start date.",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Java coding experience.",
+      "status": "met",
+      "why": "Has: Java"
+     },
+     {
+      "text": "Strong understanding of object-oriented programming concepts.",
+      "status": "check",
+      "why": "Coursework: Data structures & algorithms (check his classes)"
+     },
+     {
+      "text": "Experience with multiple programming languages.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with software development tools (e.g., Eclipse, Visual Studio, Git).",
+      "status": "missing",
+      "why": "Not on the resume: Git / GitHub"
+     },
+     {
+      "text": "Experience with databases (e.g., MySQL, Oracle, MongoDB).",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Experience with web development technologies (e.g., HTML, CSS, JavaScript, PHP).",
+      "status": "met",
+      "why": "Has: TypeScript / JavaScript, Full-stack web apps"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 4,
+     "preferred_met": 3,
+     "preferred_total": 4
+    }
+   },
+   "matched": [
+    "Python",
+    "TypeScript / JavaScript",
+    "Cryptography / secure apps",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "C++ (close to Rust)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Data structures & algorithms",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-29",
    "last_seen": "2026-10-31"
   },
   {
@@ -73607,81 +73980,6 @@
    ],
    "kind": "intern",
    "near": "remote",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - MSR Systems Research Group - Redmond",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
-   "source": "Microsoft careers",
-   "posted": "2026-10-28",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557050039",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 36,
-    "skills": 9,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience with systems programming.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-28",
@@ -74920,7 +75218,7 @@
    "flags": [
     {
      "kind": "info",
-     "label": "Internship"
+     "label": "Internship · Summer 2027"
     },
     {
      "kind": "warn",
@@ -76299,6 +76597,126 @@
   },
   {
    "company": "Visa",
+   "title": "Data Science Intern, Data and AI Team – Summer 2027",
+   "location": "US - Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+   "source": "Visa careers",
+   "posted": "2026-10-27",
+   "source_id": "Visa",
+   "key": "wd:visa:data-science-intern--data-and-ai-team---summer-2027_ref089883w-1",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 32,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Pursuing a Bachelor’s or Master’s degree in Computer Science, Data Analytics, Data Science, Information Technology, Statistics, or a related STEM/quantitative f",
+      "status": "missing",
+      "why": "Grad date rule (2027–2028) doesn't fit December 2025"
+     },
+     {
+      "text": "Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications tha",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "This position requires travel 5-10% of the time.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience in understanding and analyzing data using statistical software (e.g., Python, SAS, R, Stata or others).",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "Experience with visualization and reporting tools, such as advanced user of PPT, Power BI, Tableau, open-source tools, or similar.",
+      "status": "met",
+      "why": "Your Lokr project (Rust + React encrypted file sharing)"
+     },
+     {
+      "text": "Exhibits intellectual curiosity and strives to continually learn.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Previous exposure to financial services, credit cards or merchant analytics is a plus, but not required.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with extracting and aggregating data from large data sets using SQL or other tools.",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Understanding of ML techniques.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Competence in Excel, PowerPoint and Tableau.",
+      "status": "missing",
+      "why": "Not on the resume: Tableau / Power BI"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 4,
+     "preferred_total": 5
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Spark / big data",
+    "Tableau / Power BI",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2027–2028"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Visa",
    "title": "Software Engineer, Intern - Foster City 2027",
    "location": "US - Foster City, CA",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
@@ -77593,6 +78011,45 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "AXA",
+   "title": "Underwriting Data & Analytics Intern",
+   "location": "NYC",
+   "url": "https://careers.axa.com/jobs/25498?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-29",
+   "source_id": "Simplify internship list",
+   "key": "url:https://careers.axa.com/jobs/25498",
+   "score": 49,
+   "tier": "look",
+   "parts": {
+    "role": 18,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "Allstate",
    "title": "Data Analytics Engineer Intern",
    "location": "Illinois",
@@ -78069,45 +78526,6 @@
    "last_seen": "2026-10-31"
   },
   {
-   "company": "Citi",
-   "title": "Application Development Analyst New Grad",
-   "location": "Jersey City, NJ; NYC",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-23",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:citi:261004399-1",
-   "score": 49,
-   "tier": "look",
-   "parts": {
-    "role": 12,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-24",
-   "last_seen": "2026-10-31"
-  },
-  {
    "company": "Cloudflare",
    "title": "Infrastructure Network & Supply Engineer - FTC (6 months)",
    "location": "Hybrid",
@@ -78461,49 +78879,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "Jabil",
-   "title": "Operations Business Analyst",
-   "location": "St. Petersburg, FL",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Business-Analyst_J2470556",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-30",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:jabil:j2470556",
-   "score": 49,
-   "tier": "look",
-   "parts": {
-    "role": 12,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Florida"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "home",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -81145,45 +81520,6 @@
   },
   {
    "company": "American Family Insurance Group",
-   "title": "Data Analyst Intern - Agency Performance, Insights and Operations",
-   "location": "Madison, WI",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-   "source": "Simplify internship list",
-   "posted": "2026-10-12",
-   "source_id": "Simplify internship list",
-   "key": "wd:amfam:r39513",
-   "score": 45,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "company": "American Family Insurance Group",
    "title": "Enterprise Data Intern - Enablement, Service & Support",
    "location": "Madison, WI",
    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
@@ -82651,6 +82987,45 @@
    "last_seen": "2026-10-31"
   },
   {
+   "company": "First Citizens BancShares",
+   "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+   "location": "Raleigh, NC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-27",
+   "source_id": "Simplify internship list",
+   "key": "url:https://firstcitizens.jibeapply.com/jobs/36230",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
    "company": "GE Vernova",
    "title": "Systems Architecture Intern",
    "location": "Greenville, SC; Schenectady, NY",
@@ -83455,6 +83830,88 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Data Science Intern",
+   "location": "NYC",
+   "url": "https://ice.jibeapply.com/jobs/14113?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14113",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Data Analyst Intern",
+   "location": "Jacksonville, FL",
+   "url": "https://ice.jibeapply.com/jobs/14089?icims=1",
+   "source": "Simplify internship list",
+   "posted": "2026-10-23",
+   "source_id": "Simplify internship list",
+   "key": "url:https://ice.jibeapply.com/jobs/14089",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Florida"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "home",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
@@ -89315,6 +89772,102 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "company": "CVS Health",
+   "title": "Innovation & Technology Internship - Product & Agile Delivery – Summer 2027 (Undergraduate)",
+   "location": "Hartford-Farmington Ave Rogers; TX - Dallas; AZ - Scottsdale; RI - Woonsocket",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
+   "source": "CVS Health careers",
+   "posted": "2026-10-28",
+   "source_id": "CVS Health",
+   "key": "wd:cvshealth:r1080767",
+   "score": 41,
+   "tier": "look",
+   "parts": {
+    "role": 26,
+    "skills": 15,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [],
+    "preferred": [
+     {
+      "text": "Have demonstrated leadership experience. Examples include: active roles in student or social organization activities, sports, or school or work-related projects",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Have internship, work, or project experience in related field of Healthcare Technology",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Show strong written and verbal communication skills",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "Possess problem solving skills",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Exhibit an analytical and growth mindset",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Have project management experience",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Have an interest in obtaining full-time position within CVS Health upon graduation",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 0,
+     "required_met": 0.0,
+     "required_missing": 0,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad window 2027–2028"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
   },
   {
