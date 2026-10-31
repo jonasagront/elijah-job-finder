@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1421 matches** as of Oct 30, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1446 matches** as of Oct 31, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Becton Dickinson | Software Engineer 1 | Full-time | 3 of 3 | Sparks, MD | 2026-10-09 | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1) |
 | 100 | CACI | Entry Level C# Software Engineer | Full-time | 5 of 5 | Virginia Beach, VA | 2026-10-07 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | 100 | CLEAR | Software Development Engineer 1 | Full-time | – | Austin, TX | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
-| 100 | Citi | Python Developer 🆕 | Full-time | 6 of 6 | NYC | 2026-10-16 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1) |
+| 100 | Citi | Python Developer | Full-time | 6 of 6 | NYC | 2026-10-16 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1) |
 | 100 | Constant Contact | Software Engineering Development Program | Full-time | 1 of 1 | Waltham, MA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) |
 | 100 | DXC Technology | Analyst 1 Software Engineer | Full-time | 5 of 5 | Connecticut | 2026-10-14 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
@@ -33,11 +33,11 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
 | 100 | Salesforce | Database Engineering Associate | Full-time | – | California - San Francisco; Virginia - H | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2) |
 | 100 | Sentry Insurance | Software Engineer | Full-time | – | Stevens Point, WI | 2026-10-05 | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1) |
+| 100 | ServiceTitan | AI Engineer 🆕 | Full-time | 4 of 4 | Remote in USA | 2026-10-30 | [Apply](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391) |
 | 100 | SpruceID | Full-Stack Software Engineer New Grad | Full-time | 5 of 5 | Remote in USA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) |
-| 100 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) 🆕 | Full-time | 2 of 2 | Temple Terrace, FL | 2026-10-30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
+| 100 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) | Full-time | 2 of 2 | Temple Terrace, FL | 2026-10-30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-10-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
 | 100 | Vizient | Associate Software Engineer | Full-time | 5 of 5 | Cape Girardeau, MO; Irving, TX | 2026-10-09 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1) |
-| 99 | Astera Labs | Applied AI New Grad - Non Silicon | Full-time | 5 of 5 | San Jose, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
 <!-- JOBS:END -->
 
 ---
