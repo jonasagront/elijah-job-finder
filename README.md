@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1384 matches** as of Nov 3, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1363 matches** as of Nov 3, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Becton Dickinson | Software Engineer 1 | Full-time | 3 of 3 | Sparks, MD | 2026-10-09 | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1) |
 | 100 | CACI | Entry Level C# Software Engineer | Full-time | 5 of 5 | Virginia Beach, VA | 2026-10-07 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | 100 | CLEAR | Software Development Engineer 1 | Full-time | – | Austin, TX | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
-| 100 | Citi | Python Developer | Full-time | 6 of 6 | NYC | 2026-10-16 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1) |
 | 100 | Constant Contact | Software Engineering Development Program | Full-time | 1 of 1 | Waltham, MA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) |
 | 100 | DXC Technology | Analyst 1 Software Engineer | Full-time | 5 of 5 | Connecticut | 2026-10-14 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 99 | Astera Labs | Applied AI New Grad - Non Silicon | Full-time | 5 of 5 | San Jose, CA | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
 | 98 | ServiceNow | Associate Software Engineer | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-10-13 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W) |
+| 98 | Zoom | AI Engineer | Full-time | 4 of 4 | Seattle, WA | 2026-10-29 | [Apply](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1) |
 <!-- JOBS:END -->
 
 ---
