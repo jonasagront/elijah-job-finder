@@ -9,14 +9,13 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1420 matches** as of Nov 4, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1417 matches** as of Nov 4, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
 | 100 | Affirm | Software Engineer I, Fullstack (Search) | Full-time | – | Remote US | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | 100 | Amentum | Software Engineer 1 | Full-time | 1 of 1 | Hanover, MD | 2026-10-08 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606) |
-| 100 | Becton Dickinson | Software Engineer 1 | Full-time | 3 of 3 | Sparks, MD | 2026-10-09 | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1) |
 | 100 | CACI | Entry Level C# Software Engineer | Full-time | 5 of 5 | Virginia Beach, VA | 2026-10-07 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249) |
 | 100 | CLEAR | Software Development Engineer 1 | Full-time | – | Austin, TX | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
 | 100 | Constant Contact | Software Engineering Development Program | Full-time | 1 of 1 | Waltham, MA | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/constantcontact/jobs/8212432) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 98 | ServiceNow | Associate Software Engineer | Full-time | – | Santa Clara, CA | 2026-10-23 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) |
 | 98 | Visa | Software Engineer | Full-time | 3 of 3 | Austin, TX | 2026-10-13 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W) |
 | 98 | Zoom | AI Engineer | Full-time | 4 of 4 | Seattle, WA | 2026-10-29 | [Apply](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1) |
+| 97 | Jabil | AI and Data Solutions Developer - Global Supply Chain | Full-time | 5 of 5 | Tampa, FL; St. Petersburg, FL | 2026-10-14 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953) |
 <!-- JOBS:END -->
 
 ---
