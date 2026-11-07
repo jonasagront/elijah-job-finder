@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1418 matches** as of Nov 7, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1413 matches** as of Nov 7, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | ICF International | Software Developer 🆕 | Full-time | 1 of 1 | Remote in USA | 2026-11-06 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Richmond-VA/Software-Developer_R2603769) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
+| 100 | Salesforce | Software Engineering AMTS (College Grad) 🆕 | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
 | 100 | Thales | Graduate AI Engineer 🆕 | Full-time | 4 of 4 | Orlando, FL | 2026-10-13 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
 | 100 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) | Full-time | 2 of 2 | Temple Terrace, FL | 2026-10-30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
 | 100 | Visa | Software Engineer- Operations and Infrastructure 🆕 | Full-time | 2 of 2 | US - Austin, TX | 2026-11-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
@@ -37,7 +38,6 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 97 | KLA | Software Engineer 1 | Full-time | 2 of 2 | Ann Arbor, MI | 2026-10-13 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057) |
 | 97 | Mastercard | Site Reliability Engineer I | Full-time | 4 of 4 | O'Fallon, Missouri | 2026-11-05 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
-| 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 <!-- JOBS:END -->
 
 ---
