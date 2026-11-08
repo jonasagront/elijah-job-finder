@@ -9,26 +9,25 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1413 matches** as of Nov 7, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1369 matches** as of Nov 8, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
 | 100 | Affirm | Software Engineer I, Fullstack (Search) | Full-time | – | Remote US | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
-| 100 | Amentum | Software Engineer 1 | Full-time | 1 of 1 | Hanover, MD | 2026-10-08 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606) |
 | 100 | CACI | Junior Software Developer | Full-time | 6 of 6 | Remote in USA | 2026-11-05 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685) |
 | 100 | CLEAR | Software Development Engineer 1 | Full-time | – | Austin, TX | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
 | 100 | Chewy | Software Engineer I, Full Stack, Promotions | Full-time | 5 of 5 | Boston, MA | 2026-11-06 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | 100 | Datacor | Software Engineer | Full-time | 4 of 4 | Remote in USA | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5257433007) |
 | 100 | GlobalFoundries | Software Engineer New Grad | Full-time | 2 of 2 | Austin, TX; Santa Clara, CA | 2026-10-09 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100) |
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
-| 100 | ICF International | Software Developer 🆕 | Full-time | 1 of 1 | Remote in USA | 2026-11-06 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Richmond-VA/Software-Developer_R2603769) |
+| 100 | ICF International | Software Developer | Full-time | 1 of 1 | Remote in USA | 2026-11-06 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Richmond-VA/Software-Developer_R2603769) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
-| 100 | Salesforce | Software Engineering AMTS (College Grad) 🆕 | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
-| 100 | Thales | Graduate AI Engineer 🆕 | Full-time | 4 of 4 | Orlando, FL | 2026-10-13 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
+| 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-10-14 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
+| 100 | Thales | Graduate AI Engineer | Full-time | 4 of 4 | Orlando, FL | 2026-10-13 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
 | 100 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) | Full-time | 2 of 2 | Temple Terrace, FL | 2026-10-30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
-| 100 | Visa | Software Engineer- Operations and Infrastructure 🆕 | Full-time | 2 of 2 | US - Austin, TX | 2026-11-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
+| 100 | Visa | Software Engineer- Operations and Infrastructure | Full-time | 2 of 2 | US - Austin, TX | 2026-11-06 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) |
 | 100 | Vizient | Associate Software Engineer | Full-time | 5 of 5 | Cape Girardeau, MO; Irving, TX | 2026-10-09 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1) |
 | 99 | Booz Allen | Software Sustainment Engineer - Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-11-05 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796) |
 | 98 | Cisco | Junior Software Engineer - Webex - Slovakia | Full-time | 1 of 1 | Bratislava, Slovakia | 2026-11-05 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 97 | KLA | Software Engineer 1 | Full-time | 2 of 2 | Ann Arbor, MI | 2026-10-13 | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057) |
 | 97 | Mastercard | Site Reliability Engineer I | Full-time | 4 of 4 | O'Fallon, Missouri | 2026-11-05 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
+| 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 <!-- JOBS:END -->
 
 ---
