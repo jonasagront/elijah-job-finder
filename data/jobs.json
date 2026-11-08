@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:56:42+00:00",
+ "updated": "2026-11-08T13:19:01+00:00",
  "jobs": [
   {
    "company": "Affirm",
@@ -6187,12 +6187,12 @@
   },
   {
    "company": "Cisco",
-   "title": "Software Engineer Full Stack / Backend I (Full Time) - United States",
-   "location": "Austin, Texas, US; Houston, Texas, US; Charleston, West Virginia, US; Denver, Colorado, US; Irvine, California, US; Knoxville, Tennessee, US; Nashville, Tennessee, US; Chicago, Illinois, US; Philadelphia, Pennsylvania, US; Phoenix, Arizona, US; Boise, Idaho, US; Carlsbad, California, US; San Diego, California, US; RTP, North Carolina, US; Dallas, Texas, US; Atlanta, Georgia, US; Costa Mesa, California, US; Boca Raton, Florida, US; Miami, Florida, US; Tampa, Florida, US; Plano, Texas, US; Coral Gables, Florida, US; Colorado Springs, Colorado, US",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784",
-   "source": "Cisco careers",
+   "title": "Software Engineer Full Stack / Backend 1",
+   "location": "Houston, TX; Research Triangle Park, Durham, NC; Knoxville, TN; Nashville, TN; Austin, TX; Tampa, FL; Miami, FL; Irvine, CA; Colorado Springs, CO; Dallas, TX; Philadelphia, PA; Plano, TX; Boca Raton, FL; Chicago, IL; Boise, ID; Carlsbad, CA; Phoenix, AZ; Denver, CO; Atlanta, GA; San Diego, CA; Coral Gables, FL; Charleston, WV; Costa Mesa, CA",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784",
+   "source": "Simplify New Grad list",
    "posted": "2026-11-04",
-   "source_id": "Cisco",
+   "source_id": "Simplify New Grad list",
    "key": "wd:cisco:2028784",
    "score": 90,
    "tier": "strong",
@@ -30393,45 +30393,6 @@
    "last_seen": "2026-11-08"
   },
   {
-   "company": "Charles Schwab",
-   "title": "Associate Software Engineer",
-   "location": "Austin, TX",
-   "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://career-schwab.icims.com/jobs/127949/job",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
    "company": "Citi",
    "title": "Junior Application Developer",
    "location": "Tampa Florida United States",
@@ -32103,45 +32064,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer",
-   "location": "Boulder, CO",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-27",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:ngc:r10257908",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-07",
    "last_seen": "2026-11-08"
   },
   {
@@ -62219,45 +62141,6 @@
    "last_seen": "2026-11-08"
   },
   {
-   "company": "SAIC",
-   "title": "Geographic Information Systems Analyst",
-   "location": "California, MD",
-   "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-01",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://eihu.fa.us8.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/2618675",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-01",
-   "last_seen": "2026-11-08"
-  },
-  {
    "company": "Sony",
    "title": "Associate Data Analyst",
    "location": "San Diego, CA",
@@ -67263,129 +67146,18 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Machine Learning for Biology and Healthcare",
-   "location": "United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "title": "Research Intern - Gray Systems Lab (GSL)",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
    "source": "Microsoft careers",
-   "posted": "2026-10-13",
+   "posted": "2026-10-22",
    "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557045445",
    "score": 50,
    "tier": "look",
    "parts": {
     "role": 40,
-    "skills": 12,
-    "eligibility": 0,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctoral Degree program in Computer Science, Biomedical Informatics, Biomedical Engineering/Bioengineering, Chemical Engineering, Comput",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Other Requirements",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Application Instructions: Please submit a research statement, with one paragraph describing your research interests and one paragraph describing your research a",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Please submit your application, including the required research statement, by 15 Dec 2026 for full consideration.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Demonstrated ability to develop original research agendas.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Collaborate effectively with other researchers.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Preferred Qualifications",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 2.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    },
-    {
-     "kind": "warn",
-     "label": "Grad students only?"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-01",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning at MSR NYC",
-   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042145",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
+    "skills": 35,
     "eligibility": 11,
     "requirements": 0,
     "capped": 50
@@ -67393,7 +67165,7 @@
    "quals": {
     "required": [
      {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "text": "Currently enrolled in a Doctorate Degree program in computer science, statistics, mathematics, or relevant field.",
       "status": "missing",
       "why": "Wants a current student (graduated December 2025)"
      },
@@ -67410,422 +67182,29 @@
     ],
     "preferred": [
      {
-      "text": "Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).",
+      "text": "Experience with one or more general purpose programming languages, such as Python, Java, C#, C++, Rust.",
       "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "PyTorch / TensorFlow"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-   "source": "Microsoft careers",
-   "posted": "2026-11-05",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557054069",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 12,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
+      "why": "Has: Python, Rust, Java"
      },
      {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience defining research questions and methods for an academic, professional, or independent research project.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience collaborating with researchers and/or product development teams on a research or applied project.",
+      "text": "Experience with one of the following: PostgreSQL, MySQL, SQL Server, Spark, Apache Iceberg, CUDA, or other database or big data systems.",
       "status": "met",
-      "why": "Has: Team software project"
+      "why": "Has: SQL / databases"
      },
      {
-      "text": "Experience collaborating across organizational groups and/or cultural contexts on a research, academic, or applied project.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Experience comparing alternative methods, prototypes, or analytical approaches to address a research or applied problem.",
+      "text": "Experience contributing to research communities and/or efforts, including publishing papers (being listed as author) at academic conferences.",
       "status": "check",
       "why": ""
      },
      {
-      "text": "Prior research experience evidenced by publications or research projects.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience designing or conducting experiments and analyzing qualitative or quantitative results.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience communicating research findings through a presentation, poster, report, or publication.",
+      "text": "Ability to take initiative but also follow a research/productization plan and work well as part of a team.",
       "status": "soft",
       "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 2,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Efficient AI Software Systems",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-   "source": "Microsoft careers",
-   "posted": "2026-10-15",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557041731",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
      },
      {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "1+ year(s) of experience (classroom or work-related) in one or more of the following areas: machine learning, deep learning, natural language processing, large ",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "1+ completed courses in probability and statistics, machine learning, or optimization.",
+      "text": "Proficient critical thinking and communication skills.",
       "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience conducting research on the efficiency, cost, or performance of machine learning models or systems (e.g., inference optimization, model selection, mod",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience building or evaluating applications or agents that use large language models.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience designing benchmarks or experiments to evaluate machine learning systems, and analyzing quantitative results.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience comparing alternative methods, prototypes, or analytical approaches to address a research or applied problem.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience collaborating with researchers or engineering teams on a research or applied project.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Prior research experience evidenced by publications, preprints, or open-source research projects.",
-      "status": "met",
-      "why": "Your Lokr project (Rust + React encrypted file sharing)"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 6,
-     "preferred_total": 7
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Agentic Data Memory",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040344",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 38,
-    "skills": 24,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "1+ year(s) of research experience in natural language processing, information retrieval, machine learning, graph machine learning, or systems for AI, demonstrat",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "Experience building or evaluating LLM-based agents, retrieval-augmented generation (RAG), knowledge graphs, or memory systems for agents is strongly preferred.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience designing benchmarks, evaluation protocols, or controlled experiments, including statistical analysis of results, is a significant plus.",
-      "status": "missing",
-      "why": "Not on the resume: Statistics"
-     },
-     {
-      "text": "1+ year(s) experience in Python and domain-relevant libraries and frameworks (e.g., PyTorch); familiarity with running experiments on GPU clusters or cloud infr",
-      "status": "met",
-      "why": "Has: Python"
-     },
-     {
-      "text": "1+ year(s) experience in Calculus, Probability and Statistics and/or Machine Learning.",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 2,
-     "preferred_total": 5
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "PyTorch / TensorFlow",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - MSR AI Interaction and Learning",
-   "location": "United States, Washington, Redmond; United States, New York, New York",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042156",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Electrical Engineering or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "2+ years of experience conducting research, developing research software, and/or writing peer-reviewed publications.",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "Ability to identify important research problems and develop creative, rigorous approaches to addressing them.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Active research experience in one or more of the following areas: Foundation Models, Reinforcement Learning and Post-Training, Agents, Natural Language Processi",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning), Team software project"
-     },
-     {
-      "text": "Ability to collaborate effectively with a research mentor and with researchers, engineers, and product partners across Microsoft.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal, cross-group, and cross-cultural collaboration skills.",
-      "status": "met",
-      "why": "Has: Team software project"
+      "why": "Has: Customer service / communication"
      }
     ],
     "summary": {
@@ -67834,105 +67213,26 @@
      "required_missing": 1,
      "to_check": 0,
      "preferred_met": 3,
-     "preferred_total": 4
+     "preferred_total": 3
     }
    },
    "matched": [
+    "Python",
+    "Rust",
+    "Java",
+    "SQL / databases",
     "Machine learning / AI (learning)",
-    "Team software project"
+    "Team software project",
+    "Customer service / communication"
    ],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
+   "related": [
+    "Express (close to Backend / REST APIs (Axum))"
    ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning and Statistics",
-   "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-   "source": "Microsoft careers",
-   "posted": "2026-10-13",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040502",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Candidates can upload other documents under the “Resume Manager” tab in the top right of their Microsoft careers profile.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Demonstrated ability to develop original research agendas.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Able to collaborate effectively with other researchers and product development teams.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 2,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
    "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "C / C++",
+    "C# / .NET",
+    "Spark / big data",
     "Statistics"
    ],
    "flags": [
@@ -67950,102 +67250,6 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning and Optimization - Redmond",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
-   "source": "Microsoft careers",
-   "posted": "2026-10-28",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557049981",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 32,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Operations Research or a related STEM field",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "3+ years of experience in C# or C++ or Python (or similar language)",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Experience in optimization/algorithm design",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in machine learning and LLMs (e.g., data curation, post-training, agentic frameworks)",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Demonstrated ability to run simulations and analyze results",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)",
-    "C# (close to Java)"
-   ],
-   "gaps": [
-    "Data structures & algorithms"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-28",
    "last_seen": "2026-11-08"
   },
   {
@@ -68196,18 +67400,18 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Gray Systems Lab (GSL)",
-   "location": "United States, Washington, Redmond; United States, California, Mountain View",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
+   "title": "Research Intern - Machine Learning and Optimization - Redmond",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
    "source": "Microsoft careers",
-   "posted": "2026-10-22",
+   "posted": "2026-10-28",
    "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557045445",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557049981",
    "score": 50,
    "tier": "look",
    "parts": {
     "role": 40,
-    "skills": 35,
+    "skills": 32,
     "eligibility": 11,
     "requirements": 0,
     "capped": 50
@@ -68215,7 +67419,7 @@
    "quals": {
     "required": [
      {
-      "text": "Currently enrolled in a Doctorate Degree program in computer science, statistics, mathematics, or relevant field.",
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Operations Research or a related STEM field",
       "status": "missing",
       "why": "Wants a current student (graduated December 2025)"
      },
@@ -68232,29 +67436,24 @@
     ],
     "preferred": [
      {
-      "text": "Experience with one or more general purpose programming languages, such as Python, Java, C#, C++, Rust.",
-      "status": "met",
-      "why": "Has: Python, Rust, Java"
+      "text": "3+ years of experience in C# or C++ or Python (or similar language)",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
      },
      {
-      "text": "Experience with one of the following: PostgreSQL, MySQL, SQL Server, Spark, Apache Iceberg, CUDA, or other database or big data systems.",
-      "status": "met",
-      "why": "Has: SQL / databases"
-     },
-     {
-      "text": "Experience contributing to research communities and/or efforts, including publishing papers (being listed as author) at academic conferences.",
+      "text": "Experience in optimization/algorithm design",
       "status": "check",
       "why": ""
      },
      {
-      "text": "Ability to take initiative but also follow a research/productization plan and work well as part of a team.",
-      "status": "soft",
-      "why": ""
+      "text": "Experience in machine learning and LLMs (e.g., data curation, post-training, agentic frameworks)",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
      },
      {
-      "text": "Proficient critical thinking and communication skills.",
-      "status": "met",
-      "why": "Has: Customer service / communication"
+      "text": "Demonstrated ability to run simulations and analyze results",
+      "status": "check",
+      "why": ""
      }
     ],
     "summary": {
@@ -68262,27 +67461,112 @@
      "required_met": 0.0,
      "required_missing": 1,
      "to_check": 0,
-     "preferred_met": 3,
-     "preferred_total": 3
+     "preferred_met": 1,
+     "preferred_total": 2
     }
    },
    "matched": [
     "Python",
-    "Rust",
-    "Java",
-    "SQL / databases",
     "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
+    "Team software project"
    ],
    "related": [
-    "Express (close to Backend / REST APIs (Axum))"
+    "C++ (close to Rust)",
+    "C# (close to Java)"
    ],
    "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "C / C++",
-    "C# / .NET",
-    "Spark / big data",
+    "Data structures & algorithms"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning and Statistics",
+   "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+   "source": "Microsoft careers",
+   "posted": "2026-10-13",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040502",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Candidates can upload other documents under the “Resume Manager” tab in the top right of their Microsoft careers profile.",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Demonstrated ability to develop original research agendas.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Able to collaborate effectively with other researchers and product development teams.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
     "Statistics"
    ],
    "flags": [
@@ -68300,6 +67584,605 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-07",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Efficient AI Software Systems",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+   "source": "Microsoft careers",
+   "posted": "2026-10-15",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557041731",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "1+ year(s) of experience (classroom or work-related) in one or more of the following areas: machine learning, deep learning, natural language processing, large ",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     },
+     {
+      "text": "1+ completed courses in probability and statistics, machine learning, or optimization.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience conducting research on the efficiency, cost, or performance of machine learning models or systems (e.g., inference optimization, model selection, mod",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience building or evaluating applications or agents that use large language models.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience designing benchmarks or experiments to evaluate machine learning systems, and analyzing quantitative results.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience comparing alternative methods, prototypes, or analytical approaches to address a research or applied problem.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience collaborating with researchers or engineering teams on a research or applied project.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Prior research experience evidenced by publications, preprints, or open-source research projects.",
+      "status": "met",
+      "why": "Your Lokr project (Rust + React encrypted file sharing)"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 6,
+     "preferred_total": 7
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "location": "United States, Massachusetts, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "source": "Microsoft careers",
+   "posted": "2026-10-13",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 12,
+    "eligibility": 0,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctoral Degree program in Computer Science, Biomedical Informatics, Biomedical Engineering/Bioengineering, Chemical Engineering, Comput",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Other Requirements",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Application Instructions: Please submit a research statement, with one paragraph describing your research interests and one paragraph describing your research a",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Please submit your application, including the required research statement, by 15 Dec 2026 for full consideration.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Demonstrated ability to develop original research agendas.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Collaborate effectively with other researchers.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Preferred Qualifications",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 2.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 0
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "warn",
+     "label": "Grad students only?"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "source": "Microsoft careers",
+   "posted": "2026-11-05",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 12,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience defining research questions and methods for an academic, professional, or independent research project.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience collaborating with researchers and/or product development teams on a research or applied project.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Experience collaborating across organizational groups and/or cultural contexts on a research, academic, or applied project.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Experience comparing alternative methods, prototypes, or analytical approaches to address a research or applied problem.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Prior research experience evidenced by publications or research projects.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience designing or conducting experiments and analyzing qualitative or quantitative results.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience communicating research findings through a presentation, poster, report, or publication.",
+      "status": "soft",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Agentic Data Memory",
+   "location": "United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
+   "source": "Microsoft careers",
+   "posted": "2026-10-16",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040344",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 38,
+    "skills": 24,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "1+ year(s) of research experience in natural language processing, information retrieval, machine learning, graph machine learning, or systems for AI, demonstrat",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     },
+     {
+      "text": "Experience building or evaluating LLM-based agents, retrieval-augmented generation (RAG), knowledge graphs, or memory systems for agents is strongly preferred.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Experience designing benchmarks, evaluation protocols, or controlled experiments, including statistical analysis of results, is a significant plus.",
+      "status": "missing",
+      "why": "Not on the resume: Statistics"
+     },
+     {
+      "text": "1+ year(s) experience in Python and domain-relevant libraries and frameworks (e.g., PyTorch); familiarity with running experiments on GPU clusters or cloud infr",
+      "status": "met",
+      "why": "Has: Python"
+     },
+     {
+      "text": "1+ year(s) experience in Calculus, Probability and Statistics and/or Machine Learning.",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 2,
+     "preferred_total": 5
+    }
+   },
+   "matched": [
+    "Python",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "PyTorch / TensorFlow",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Machine Learning at MSR NYC",
+   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "source": "Microsoft careers",
+   "posted": "2026-10-16",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "PyTorch / TensorFlow"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - MSR AI Interaction and Learning",
+   "location": "United States, Washington, Redmond; United States, New York, New York",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+   "source": "Microsoft careers",
+   "posted": "2026-10-16",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042156",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 15,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Electrical Engineering or a related STEM field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "2+ years of experience conducting research, developing research software, and/or writing peer-reviewed publications.",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     },
+     {
+      "text": "Ability to identify important research problems and develop creative, rigorous approaches to addressing them.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Active research experience in one or more of the following areas: Foundation Models, Reinforcement Learning and Post-Training, Agents, Natural Language Processi",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning), Team software project"
+     },
+     {
+      "text": "Ability to collaborate effectively with a research mentor and with researchers, engineers, and product partners across Microsoft.",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Proficient interpersonal, cross-group, and cross-cultural collaboration skills.",
+      "status": "met",
+      "why": "Has: Team software project"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 3,
+     "preferred_total": 4
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-20",
    "last_seen": "2026-11-08"
   },
   {
@@ -71083,6 +70966,45 @@
    "last_seen": "2026-11-08"
   },
   {
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/185943",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-09",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://higher.gs.com/roles/185943",
+   "score": 49,
+   "tier": "look",
+   "parts": {
+    "role": 12,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
    "company": "GrayMatter Robotics",
    "title": "Robotics Engineering Intern: Systems & Applications",
    "location": "Carson, CA",
@@ -72141,81 +72063,6 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-08"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-   "source": "Microsoft careers",
-   "posted": "2026-11-02",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393556925823",
-   "score": 48,
-   "tier": "look",
-   "parts": {
-    "role": 28,
-    "skills": 9,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently pursuing full-time Bachelor’s degree.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Must be enrolled in first year of a 4-year undergraduate degree program at time of application.",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "Completed an Introduction to Computer Science course (or equivalent class) as well as one semester of calculus (or equivalent) by the start of the program.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Demonstrated interest in majoring in computer science, computer engineering, software engineering, or related technical major.",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     }
-    ],
-    "summary": {
-     "required_checked": 2,
-     "required_met": 1.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-02",
    "last_seen": "2026-11-08"
   },
   {
