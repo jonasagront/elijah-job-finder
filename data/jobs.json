@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:08:51+00:00",
+ "updated": "2026-11-11T14:14:38+00:00",
  "jobs": [
   {
    "company": "Affirm",
@@ -1159,7 +1159,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Cisco",
@@ -4651,13 +4651,13 @@
   },
   {
    "company": "Visa",
-   "title": "Software Development Engineer- Product Reliability Engineering",
-   "location": "US - Denver, CO",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W",
+   "title": "Software Engineer",
+   "location": "US - Foster City, CA; US - Austin, TX",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF088549W",
    "source": "Visa careers",
-   "posted": "2026-11-06",
+   "posted": "2026-11-10",
    "source_id": "Visa",
-   "key": "wd:visa:software-development-engineer--product-reliability-engineering_ref089580w",
+   "key": "wd:visa:software-engineer_ref088549w",
    "score": 94,
    "tier": "strong",
    "parts": {
@@ -4670,9 +4670,49 @@
    "quals": {
     "required": [
      {
-      "text": "Bachelor's degree, OR 3+ years of relevant work experience",
+      "text": "Innovative Development: Engage in the design, development, and implementation of innovative software solutions, using generative AI and modern integration patte",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "AI Solution Engineering: Support the implementation, fine-tuning, evaluation, integration, and deployment of AI components within enterprise applications, with ",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Collaborative Engineering: Collaborate with cross-functional teams to develop and deliver complex projects that integrate emerging technologies with our existin",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "Continuous Learning: Engage in continuous learning and development, actively seeking opportunities to enhance your skills and knowledge. Collaborate with peers ",
+      "status": "met",
+      "why": "Has: Team software project"
+     },
+     {
+      "text": "API and Integration Development: Contribute to the design and development of APIs that enhance the integration of our Payment Product applications, platforms, a",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Engineering Excellence: Adhere to industry best practices in software development, emphasizing quality, security, performance, scalability, availability, and re",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Automation and Best Practices: Implement best engineering practices and automate software development, testing, and deployment processes. Ensure the timely deli",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Bachelor's degree, OR 3+ years of relevant work experience.",
       "status": "met",
       "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "Experience building Generative AI applications, conversational AI, RAG architectures, techniques, and libraries.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
      },
      {
       "text": "This position requires travel 5-10% of the time.",
@@ -4687,90 +4727,90 @@
     ],
     "preferred": [
      {
-      "text": "Bachelor’s degree in Computer Science, Software Engineering, or a related technical field (2023–2025 graduates preferred; December 2025 graduates welcome).",
-      "status": "met",
-      "why": "Grad date rule (2023–2025) fits December 2025"
-     },
-     {
-      "text": "Solid foundations in data structures, algorithms, and systems design -you can reason about complexity, tradeoffs, and failure modes.",
-      "status": "missing",
-      "why": "Not on the resume: Data structures & algorithms"
-     },
-     {
-      "text": "Proficiency in Python and comfort writing scripts or tools in at least one additional language (Go, Java, or Bash).",
+      "text": "Expert-level skills in Java, Python, and/or NodeJS; skills in C++ and C# are a plus.",
       "status": "met",
       "why": "Has: Python, Java"
      },
      {
-      "text": "Foundational understanding of relational databases (RDBMS): SQL, data modeling, query optimization, and database connectivity troubleshooting.",
+      "text": "Expertise in application security, SSDLC, and cryptography fundamentals.",
       "status": "met",
-      "why": "Has: SQL / databases"
+      "why": "Has: Cryptography / secure apps"
      },
      {
-      "text": "Familiarity with Linux/Unix environments and meaningful command-line fluency.",
+      "text": "Self-driven and willing to work across technologies and languages.",
       "status": "check",
-      "why": "Coursework: Linux / shell (check his classes)"
+      "why": ""
      },
      {
-      "text": "Exposure to cloud platforms (AWS, GCP, or Azure) and a conceptual understanding of containerization (Docker, Kubernetes).",
+      "text": "Understanding of NLP, including tokenization, word embeddings, and basic sequence models.",
       "status": "check",
-      "why": "Coursework: Cloud (AWS / Azure / GCP), Docker / Kubernetes (check his classes)"
+      "why": "Coursework or background (check his classes)"
      },
      {
-      "text": "Understanding of CI/CD principles and how modern software delivery pipelines are structured and maintained.",
+      "text": "Experience implementing and fine-tuning AI models using frameworks such as TensorFlow, PyTorch, or scikit-learn.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     },
+     {
+      "text": "Understanding of model compression techniques and related trade-offs.",
       "status": "check",
-      "why": "Coursework: CI/CD (check his classes)"
+      "why": "Coursework or background (check his classes)"
      },
      {
-      "text": "Genuine curiosity about GenAI platforms and agentic systems (OpenAI, Anthropic Claude, LangChain, or similar)- hands-on exposure is a plus, intellectual interes",
+      "text": "Awareness of transfer learning concepts and practical applications.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Ability to design, implement, and integrate AI components into larger systems.",
       "status": "met",
       "why": "Has: Machine learning / AI (learning)"
      }
     ],
     "summary": {
-     "required_checked": 1,
-     "required_met": 1.0,
+     "required_checked": 6,
+     "required_met": 6.0,
      "required_missing": 0,
-     "to_check": 3,
+     "to_check": 2,
      "preferred_met": 4,
-     "preferred_total": 5
+     "preferred_total": 4
     }
    },
    "matched": [
     "Python",
+    "React / frontend UI",
+    "Cryptography / secure apps",
     "Java",
-    "SQL / databases",
+    "Full-stack web apps",
     "Machine learning / AI (learning)",
     "Team software project"
    ],
-   "related": [],
+   "related": [
+    "Nodejs (close to TypeScript / JavaScript)",
+    "C++ (close to Rust)",
+    "Redis (close to SQL / databases)"
+   ],
    "gaps": [
     "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
     "Docker / Kubernetes",
-    "Linux / shell",
+    "C# / .NET",
     "PyTorch / TensorFlow",
     "pandas / NumPy / scikit-learn",
     "CI/CD",
-    "Data structures & algorithms",
     "Agile / Scrum"
    ],
    "flags": [
     {
      "kind": "info",
      "label": "Level not stated"
-    },
-    {
-     "kind": "good",
-     "label": "Grad window 2023–2025 fits"
     }
    ],
    "kind": "full-time",
    "near": "",
    "years": null,
    "has_description": true,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-10"
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Brown & Brown Insurance",
@@ -6320,7 +6360,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Michelin",
@@ -7124,7 +7164,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Anthropic",
@@ -10609,7 +10649,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -10759,7 +10799,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "NVIDIA",
@@ -10918,7 +10958,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Booz Allen",
@@ -13822,7 +13862,7 @@
   {
    "company": "Cloudflare",
    "title": "Technical Support Engineer",
-   "location": "In-Office",
+   "location": "Hybrid",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552",
    "source": "Cloudflare careers",
    "posted": "2026-11-10",
@@ -14541,7 +14581,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -14667,7 +14707,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Nuro",
@@ -15966,7 +16006,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "OpenAI",
@@ -17499,7 +17539,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -17655,7 +17695,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -17757,7 +17797,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "NVIDIA",
@@ -17949,7 +17989,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Amazon",
@@ -18389,114 +18429,6 @@
    "has_description": true,
    "first_seen": "2026-10-20",
    "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Data Engineer",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W",
-   "source": "Visa careers",
-   "posted": "2026-11-09",
-   "source_id": "Visa",
-   "key": "wd:visa:associate-data-engineer_ref089618w",
-   "score": 73,
-   "tier": "strong",
-   "parts": {
-    "role": 34,
-    "skills": 14,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's degree, OR 3+ years of relevant work experience.",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "This position requires travel 5-10% of the time.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone",
-      "status": "soft",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "2 or more years of work experience.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in attending stakeholder meetings to gather requirements.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in interpreting technical requirements and executing component designs.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in creating and implementing code across assigned components.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in participating in code review processes and applying feedback.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in conducting unit testing and supporting code testing in a common environment.",
-      "status": "missing",
-      "why": "Not on the resume: Testing (unit / integration)"
-     },
-     {
-      "text": "Experience in developing tools and automation processes for data management.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in collaborating with team members to extract, compile, and transform data.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 1.0,
-     "required_missing": 0,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Testing (unit / integration)"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
   },
   {
    "company": "STR",
@@ -20248,76 +20180,6 @@
    "last_seen": "2026-11-11"
   },
   {
-   "company": "Capital One",
-   "title": "Full-Stack Engineer 4 (AI Operations, MLX Group)",
-   "location": "3 Locations",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4--Python--Kubernetes-_R1004535-1",
-   "source": "Capital One careers",
-   "posted": "",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1004535-1",
-   "score": 69,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4 (Python, AWS)",
-   "location": "McLean, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1005246-1",
-   "source": "Capital One careers",
-   "posted": "",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1005246-1",
-   "score": 69,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11"
-  },
-  {
    "company": "Citi",
    "title": "Spread Products Banking Associate",
    "location": "New York New York United States",
@@ -21509,7 +21371,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "M&T Bank",
@@ -23579,14 +23441,14 @@
    "last_seen": "2026-11-11"
   },
   {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4",
-   "location": "Plano, TX",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1005300-2",
-   "source": "Capital One careers",
-   "posted": "",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1005300-2",
+   "company": "Goldman Sachs",
+   "title": "Software Engineer - Software Engineering",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/188640",
+   "source": "Simplify New Grad list",
+   "posted": "2026-11-10",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://higher.gs.com/roles/188640",
    "score": 65,
    "tier": "good",
    "parts": {
@@ -23602,40 +23464,9 @@
    "gaps": [],
    "flags": [
     {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Capital One",
-   "title": "Full-stack Engineer 4",
-   "location": "McLean, VA",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004091-1",
-   "source": "Capital One careers",
-   "posted": "",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1004091-1",
-   "score": 65,
-   "tier": "good",
-   "parts": {
-    "role": 28,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
+     "kind": "good",
+     "label": "Entry level"
+    },
     {
      "kind": "info",
      "label": "Full description not loaded"
@@ -23942,7 +23773,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Microsoft",
@@ -25122,45 +24953,6 @@
    "last_seen": "2026-11-11"
   },
   {
-   "company": "Charles Schwab",
-   "title": "Junior Software Developer",
-   "location": "Austin, TX; Omaha, NE",
-   "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-06",
-   "source_id": "Simplify New Grad list",
-   "key": "url:https://career-schwab.icims.com/jobs/129410/job",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-11"
-  },
-  {
    "company": "Choice Hotels",
    "title": "Software Engineer 1 - Finance Technology",
    "location": "Scottsdale, AZ",
@@ -25509,45 +25301,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Fiserv",
-   "title": "Android Application Framework Developer - Device Engineering",
-   "location": "Sunnyvale, CA",
-   "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-13",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:fiserv:r-10403880",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-28",
    "last_seen": "2026-11-11"
   },
   {
@@ -26414,45 +26167,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Northrop Grumman",
-   "title": "Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering",
-   "location": "San Antonio, TX",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-09",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:ngc:r10259762",
-   "score": 63,
-   "tier": "good",
-   "parts": {
-    "role": 26,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-10",
    "last_seen": "2026-11-11"
   },
   {
@@ -28005,7 +27719,7 @@
    "years": 0,
    "has_description": true,
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "HP",
@@ -28048,7 +27762,7 @@
    "years": 0,
    "has_description": true,
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Intel",
@@ -32385,45 +32099,6 @@
   {
    "company": "RTX",
    "title": "Software Engineer 1",
-   "location": "Richardson, TX",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-09",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:globalhr:01884131",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer 1",
    "location": "Cedar Rapids, IA",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
    "source": "Simplify New Grad list",
@@ -32458,6 +32133,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-10",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "location": "Richardson, TX",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
+   "source": "Simplify New Grad list",
+   "posted": "2026-11-10",
+   "source_id": "Simplify New Grad list",
+   "key": "wd:globalhr:01888052",
+   "score": 59,
+   "tier": "good",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
@@ -32930,84 +32644,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Shield AI",
-   "title": "Software Integration Engineer 1 New Grad - Software Integration",
-   "location": "Washington, DC",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-27",
-   "source_id": "Simplify New Grad list",
-   "key": "as:bffebf59-65b7-4f4f-805e-a9cdf0d2b252",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Shield AI",
-   "title": "Software Engineer 1 New Grad - Software - Factory Team",
-   "location": "Washington, DC",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-12",
-   "source_id": "Simplify New Grad list",
-   "key": "as:6b5da15b-b34e-4771-bc6c-a05892ae87e9",
-   "score": 59,
-   "tier": "good",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-04",
    "last_seen": "2026-11-11"
   },
   {
@@ -35207,45 +34843,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Leidos",
-   "title": "Data Engineer Intern",
-   "location": "Fort Belvoir, VA",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-   "source": "Simplify internship list",
-   "posted": "2026-10-28",
-   "source_id": "Simplify internship list",
-   "key": "wd:leidos:r-00195576",
-   "score": 58,
-   "tier": "good",
-   "parts": {
-    "role": 32,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 58
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-28",
    "last_seen": "2026-11-11"
   },
   {
@@ -40480,6 +40077,49 @@
    "last_seen": "2026-11-11"
   },
   {
+   "company": "Riot Games",
+   "title": "Data Engineer Intern",
+   "location": "Remote in USA",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
+   "source": "Simplify internship list",
+   "posted": "2026-11-11",
+   "source_id": "Simplify internship list",
+   "key": "gr:8356716",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Remote"
+    },
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "remote",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
    "company": "Riverside Research",
    "title": "Software Applications Intern",
    "location": "Fairborn, OH",
@@ -40637,6 +40277,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-04",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "SHOPLINE",
+   "title": "AI Skill Developer Intern",
+   "location": "United States",
+   "url": "https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern",
+   "source": "Simplify internship list",
+   "posted": "2026-11-11",
+   "source_id": "Simplify internship list",
+   "key": "url:https://shopline.applytojob.com/apply/ujgi4rgms1/ai-skill-agent-skill-builder-intern",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
@@ -41732,6 +41411,45 @@
    "last_seen": "2026-11-11"
   },
   {
+   "company": "Walrus",
+   "title": "Full Stack Developer Intern",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true",
+   "source": "Simplify internship list",
+   "posted": "2026-10-21",
+   "source_id": "Simplify internship list",
+   "key": "as:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
+   "score": 57,
+   "tier": "good",
+   "parts": {
+    "role": 26,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
    "company": "Warner Bros.",
    "title": "Data Engineering Co-op",
    "location": "Needham, MA",
@@ -42556,7 +42274,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "xAI",
@@ -47134,6 +46852,129 @@
   },
   {
    "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "McLean, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1005254-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-09",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1005254-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Capital One",
    "title": "Full-stack Engineer 4, Marketing and Messaging",
    "location": "Riverwoods, IL; McLean, VA; Chicago, IL; Plano, TX",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Marketing-and-Messaging_R1005319-1",
@@ -48329,129 +48170,6 @@
   },
   {
    "company": "Capital One",
-   "title": "Full Stack Engineer 4",
-   "location": "New York, NY",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1004419-1",
-   "source": "Capital One careers",
-   "posted": "2026-11-06",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1004419-1",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
-      "status": "met",
-      "why": "Has a B.S. in Computer Science"
-     },
-     {
-      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Master’s Degree in Computer Science or a related field",
-      "status": "missing",
-      "why": "Asks for a graduate degree"
-     },
-     {
-      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
-      "status": "missing",
-      "why": "Experience: asks for 7+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with database and database management systems",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience contributing to open source frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "4+ years of experience creating synchronous and asynchronous APIs",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 1.0,
-     "required_missing": 2,
-     "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 8
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Docker / Kubernetes",
-    "C# / .NET",
-    "Node.js",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Capital One",
    "title": "Integration Engineer 4 - Mainframe Engineer",
    "location": "Riverwoods, IL",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Integration-Engineer-4---Mainframe-Engineer_R1002614-1",
@@ -48579,6 +48297,129 @@
   },
   {
    "company": "Capital One",
+   "title": "Full Stack Engineer 4",
+   "location": "New York, NY",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1004419-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-06",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004419-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Capital One",
    "title": "Full-stack Engineer 4",
    "location": "Richmond, VA",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1003642-1",
@@ -48698,6 +48539,129 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-11-07",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4",
+   "location": "Plano, TX",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1005333-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-06",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1005333-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
@@ -48823,6 +48787,246 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-11-06",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-Stack Engineer 4 (AI Operations, MLX Group)",
+   "location": "New York, NY; McLean, VA; Cambridge, MA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4--Python--Kubernetes-_R1004535-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-06",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004535-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "5+ years of experience coding with Python or Go",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience with AWS, GCP or Azure",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with Kubernetes",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience using Git-based version-control systems (e.g., Git, GitHub, Bitbucket)",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "1+ year of experience leveraging observability to identify and optimize performance bottlenecks in distributed systems",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     },
+     {
+      "text": "3+ years of experience troubleshooting technical issues within cloud environments",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Capital One",
+   "title": "Full-stack Engineer 4 (Python, AWS)",
+   "location": "McLean, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1005246-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-05",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1005246-1",
+   "score": 55,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 55
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree or higher in Computer Science or a related quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Engineering",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience in software engineering (Internship experience does not apply)",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 2 years of experience with public cloud platforms (AWS, GCP, Azure), cloud-based productivity tools, or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 2+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Master’s Degree in Computer Science or a related field",
+      "status": "missing",
+      "why": "Asks for a graduate degree"
+     },
+     {
+      "text": "7+ years of experience coding with more than two of the following: Go, Java, JavaScript/TypeScript, Python, Rust, C#, Scala",
+      "status": "missing",
+      "why": "Experience: asks for 7+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with database and database management systems",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with AWS, GCP, Azure, or cloud-based productivity tools or virtualization technologies",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience contributing to open source frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with front-end JavaScript or TypeScript frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience creating synchronous and asynchronous APIs",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience with CI/CD pipelines, infrastructure as code, and automated testing frameworks",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 8
+    }
+   },
+   "matched": [
+    "Python",
+    "React / frontend UI",
+    "TypeScript / JavaScript",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Full-stack web apps",
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "Docker / Kubernetes",
+    "C# / .NET",
+    "Node.js",
+    "Testing (unit / integration)",
+    "CI/CD",
+    "Agile / Scrum",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-05",
    "last_seen": "2026-11-11"
   },
   {
@@ -50879,179 +51083,7 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
-  },
-  {
-   "company": "Leidos",
-   "title": "Amazon Connect Developer Jr",
-   "location": "6314 Remote/Teleworker US",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Amazon-Connect-Developer-Jr_R-00196185",
-   "source": "Leidos careers",
-   "posted": "2026-11-06",
-   "source_id": "Leidos",
-   "key": "wd:leidos:r-00196185",
-   "score": 55,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 7,
-    "requirements": -10,
-    "capped": 55
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related technical discipline and 4–8 years of relevant experience, or ",
-      "status": "missing",
-      "why": "Experience: asks for 4+ years (new grad)"
-     },
-     {
-      "text": "At least 2 years of hands-on Amazon Connect development or comparable cloud contact center application development experience.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience designing and implementing IVR, call routing, contact flows, or automated contact center solutions.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience developing applications using Python, JavaScript, TypeScript, or comparable programming languages.",
-      "status": "met",
-      "why": "Has: Python, TypeScript / JavaScript"
-     },
-     {
-      "text": "Experience developing AWS Lambda functions and integrating cloud services with enterprise applications.",
-      "status": "missing",
-      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
-     },
-     {
-      "text": "Experience with REST APIs, JSON, authentication, and enterprise application integrations.",
-      "status": "met",
-      "why": "Has: Backend / REST APIs (Axum)"
-     },
-     {
-      "text": "Familiarity with Amazon Connect queues, routing profiles, contact flows, and contact handling concepts.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Experience with Git-based source control, Agile development, software testing, and application deployment processes.",
-      "status": "missing",
-      "why": "Not on the resume: Git / GitHub, Agile / Scrum"
-     },
-     {
-      "text": "Understanding of AWS security concepts, including IAM, encryption, and secure application integration.",
-      "status": "met",
-      "why": "Has: Cryptography / secure apps"
-     },
-     {
-      "text": "Strong analytical, troubleshooting, technical documentation, and communication skills.",
-      "status": "met",
-      "why": "Has: Customer service / communication"
-     },
-     {
-      "text": "Ability to work independently and collaborate with developers, administrators, architects, and other technical stakeholders.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Ability to meet applicable DoD/DHA personnel security and suitability requirements.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "AWS Certified Developer – Associate or AWS Certified Solutions Architect – Associate.",
-      "status": "missing",
-      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
-     },
-     {
-      "text": "Experience integrating Amazon Connect with Salesforce Health Cloud or Service Cloud.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience developing conversational AI solutions using Amazon Lex, including chatbots and voicebots.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience with AWS Lambda, API Gateway, DynamoDB, S3, EventBridge, and CloudWatch.",
-      "status": "partial",
-      "why": "Close: Dynamodb ≈ SQL / databases"
-     },
-     {
-      "text": "Experience implementing call recording, transcription, and analytics using Amazon Connect Contact Lens, Amazon Transcribe, or comparable technologies.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Familiarity with Amazon Connect workforce management, forecasting, scheduling, and contact center analytics.",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Experience developing applications in AWS GovCloud or other regulated government cloud environments.",
-      "status": "missing",
-      "why": "Not on the resume: Cloud (AWS / Azure / GCP)"
-     },
-     {
-      "text": "Experience supporting DoD, DHA, VA, or other federal healthcare programs.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 8,
-     "required_met": 5.0,
-     "required_missing": 3,
-     "to_check": 2,
-     "preferred_met": 1,
-     "preferred_total": 4
-    }
-   },
-   "matched": [
-    "Python",
-    "TypeScript / JavaScript",
-    "Cryptography / secure apps",
-    "Backend / REST APIs (Axum)",
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [
-    "Dynamodb (close to SQL / databases)"
-   ],
-   "gaps": [
-    "Git / GitHub",
-    "Cloud (AWS / Azure / GCP)",
-    "Testing (unit / integration)",
-    "CI/CD",
-    "Agile / Scrum"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Remote"
-    },
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 4+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "remote",
-   "years": 4,
-   "has_description": true,
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Magnite",
@@ -53194,7 +53226,7 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -53328,7 +53360,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "ASML",
@@ -55045,45 +55077,6 @@
    ],
    "kind": "intern",
    "near": "remote",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Echo Global Logistics",
-   "title": "Software Engineer Intern",
-   "location": "United States",
-   "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "source": "Simplify internship list",
-   "posted": "2026-11-10",
-   "source_id": "Simplify internship list",
-   "key": "wd:echo:r4645-1",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-11",
@@ -57504,7 +57497,7 @@
    "years": 1,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Light & Wonder",
@@ -58507,6 +58500,45 @@
    "last_seen": "2026-11-11"
   },
   {
+   "company": "Paccar",
+   "title": "AI-Driven Vehicle Definition Intern",
+   "location": "Denton, TX",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors",
+   "source": "Simplify internship list",
+   "posted": "2026-11-02",
+   "source_id": "Simplify internship list",
+   "key": "url:https://jobs.paccar.com/job/denton-2027-summer-internship-ai-driven-vehicle-definition-tx-76205-7864/1453573733",
+   "score": 53,
+   "tier": "look",
+   "parts": {
+    "role": 22,
+    "skills": 12,
+    "eligibility": 19,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship · Summer 2027"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
    "company": "Parallel Systems",
    "title": "Software Engineer Intern - Multiple Teams",
    "location": "LA",
@@ -58816,45 +58848,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "location": "Aurora, CO",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
-   "source": "Simplify internship list",
-   "posted": "2026-10-22",
-   "source_id": "Simplify internship list",
-   "key": "wd:globalhr:01881520",
-   "score": 53,
-   "tier": "look",
-   "parts": {
-    "role": 22,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-10-22",
    "last_seen": "2026-11-11"
   },
   {
@@ -61467,7 +61460,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -61625,7 +61618,7 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Microsoft",
@@ -61851,6 +61844,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-07",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Allied Universal",
+   "title": "Global Security Mapping Specialist",
+   "location": "Austin, TX",
+   "url": "https://securitycareers-aus.icims.com/jobs/1730709/job?mobile=true&needsRedirect=false",
+   "source": "Simplify New Grad list",
+   "posted": "2026-10-30",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://securitycareers-aus.icims.com/jobs/1730709/job",
+   "score": 51,
+   "tier": "look",
+   "parts": {
+    "role": 14,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
@@ -62093,45 +62125,6 @@
    "years": 2,
    "has_description": true,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "AstraZeneca",
-   "title": "Digital Automation Engineer - Cell Therapy",
-   "location": "Tarzana, LA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Digital-Automation-Engineer--Cell-Therapy_R-262614",
-   "source": "Simplify New Grad list",
-   "posted": "2026-10-23",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:astrazeneca:r-262614",
-   "score": 51,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-04",
    "last_seen": "2026-11-11"
   },
   {
@@ -62797,7 +62790,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Hospital for Special Surgery",
@@ -63200,7 +63193,7 @@
    "years": 3,
    "has_description": true,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Loft",
@@ -66880,7 +66873,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "HP",
@@ -66975,7 +66968,7 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "HP",
@@ -67069,7 +67062,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Intel",
@@ -67782,12 +67775,117 @@
   },
   {
    "company": "Leidos",
+   "title": "Data Engineer Intern",
+   "location": "Fort Belvoir, VA",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+   "source": "Leidos careers",
+   "posted": "2026-10-28",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00195576",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 39,
+    "skills": 12,
+    "eligibility": 11,
+    "requirements": -5,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Strong organizational skills and attention to detail.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Good written and verbal communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     },
+     {
+      "text": "US Citizenship required",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Interim or active Secret clearance (or ability to obtain and maintain required security clearance).",
+      "status": "missing",
+      "why": "Needs a clearance you'd already have to hold"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Currently enrolled in a degree program (Junior/Senior level preferred).",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Coursework in Information Technology, Cybersecurity, Business Administration, or related field.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Familiarity with scripting and programming language.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Familiarity with LLMs and prompt engineering.",
+      "status": "met",
+      "why": "Has: Machine learning / AI (learning)"
+     }
+    ],
+    "summary": {
+     "required_checked": 2,
+     "required_met": 1.0,
+     "required_missing": 1,
+     "to_check": 3,
+     "preferred_met": 1,
+     "preferred_total": 2
+    }
+   },
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Customer service / communication"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Leidos",
    "title": "AI/Automation Development Intern - Assessment & Authorization",
-   "location": "Remote in USA",
+   "location": "6314 Remote/Teleworker US",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
-   "source": "Simplify internship list",
+   "source": "Leidos careers",
    "posted": "2026-11-06",
-   "source_id": "Simplify internship list",
+   "source_id": "Leidos",
    "key": "wd:leidos:r-00195319",
    "score": 50,
    "tier": "look",
@@ -68086,7 +68184,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -68208,7 +68306,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Marriott Vacations Worldwide",
@@ -68658,423 +68756,6 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Agentic Data Memory",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040344",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 38,
-    "skills": 24,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "1+ year(s) of research experience in natural language processing, information retrieval, machine learning, graph machine learning, or systems for AI, demonstrat",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     },
-     {
-      "text": "Experience building or evaluating LLM-based agents, retrieval-augmented generation (RAG), knowledge graphs, or memory systems for agents is strongly preferred.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience designing benchmarks, evaluation protocols, or controlled experiments, including statistical analysis of results, is a significant plus.",
-      "status": "missing",
-      "why": "Not on the resume: Statistics"
-     },
-     {
-      "text": "1+ year(s) experience in Python and domain-relevant libraries and frameworks (e.g., PyTorch); familiarity with running experiments on GPU clusters or cloud infr",
-      "status": "met",
-      "why": "Has: Python"
-     },
-     {
-      "text": "1+ year(s) experience in Calculus, Probability and Statistics and/or Machine Learning.",
-      "status": "partial",
-      "why": "Experience: asks for 1 year; project work may count"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 2,
-     "preferred_total": 5
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "PyTorch / TensorFlow",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning at MSR NYC",
-   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042145",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "PyTorch / TensorFlow"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-08",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - MSR AI Interaction and Learning",
-   "location": "United States, Washington, Redmond; United States, New York, New York",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-   "source": "Microsoft careers",
-   "posted": "2026-10-16",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557042156",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Electrical Engineering or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "2+ years of experience conducting research, developing research software, and/or writing peer-reviewed publications.",
-      "status": "missing",
-      "why": "Experience: asks for 2+ years (new grad)"
-     },
-     {
-      "text": "Ability to identify important research problems and develop creative, rigorous approaches to addressing them.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Active research experience in one or more of the following areas: Foundation Models, Reinforcement Learning and Post-Training, Agents, Natural Language Processi",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning), Team software project"
-     },
-     {
-      "text": "Ability to collaborate effectively with a research mentor and with researchers, engineers, and product partners across Microsoft.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal, cross-group, and cross-cultural collaboration skills.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 3,
-     "preferred_total": 4
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - AI & Human Systems",
-   "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-   "source": "Microsoft careers",
-   "posted": "2026-11-06",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557056017",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 0,
-    "requirements": -10,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in a related field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "All applicants must submit a cover letter, which we will use to route your application to the appropriate researchers for review. Our group collaborates frequen",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "A link to your research website/publications",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Which of the following topic areas you are interested in (list all that are applicable): AI measurement and evaluation; measuring the impacts of AI on individua",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "What field is your PhD in",
-      "status": "missing",
-      "why": "Asks for graduate-level experience"
-     },
-     {
-      "text": "What kinds of methodologies you have applied in your research or are most familiar with (e.g., coding, statistics, large scale data analysis, theoretical/mathem",
-      "status": "missing",
-      "why": "Not on the resume: Statistics"
-     },
-     {
-      "text": "Key toolkits, if applicable: web development (e.g., JavaScript, React.js, D3.js, etc.), analytic toolsets (e.g., R, Python, etc.), etc.",
-      "status": "met",
-      "why": "Has: Python, React / frontend UI, TypeScript / JavaScript"
-     },
-     {
-      "text": "If appropriate, a link to any online code repositories (e.g., GitHub, OSF, Hugging Face)",
-      "status": "partial",
-      "why": "Close: Hugging Face ≈ Machine learning / AI (learning)"
-     },
-     {
-      "text": "Any researchers you are particularly interested in working with (and explain why in one sentence)",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Demonstrated ability to conduct original research.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Ability to collaborate effectively with other researchers and product development teams.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Demonstrated interpersonal skills and cross-group and cross-cultural collaboration.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Ability to think unconventionally to derive creative and innovative solutions.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Proficiency with AI tools.",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     }
-    ],
-    "summary": {
-     "required_checked": 7,
-     "required_met": 3.5,
-     "required_missing": 3,
-     "to_check": 0,
-     "preferred_met": 3,
-     "preferred_total": 3
-    }
-   },
-   "matched": [
-    "Python",
-    "React / frontend UI",
-    "TypeScript / JavaScript",
-    "Full-stack web apps",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Git / GitHub",
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    },
-    {
-     "kind": "warn",
-     "label": "Grad students only?"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
    "title": "Research Intern - Efficient AI Software Systems",
    "location": "United States, Washington, Redmond",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
@@ -69166,302 +68847,6 @@
    ],
    "related": [],
    "gaps": [
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning and Statistics",
-   "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-   "source": "Microsoft careers",
-   "posted": "2026-10-13",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040502",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 15,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Candidates can upload other documents under the “Resume Manager” tab in the top right of their Microsoft careers profile.",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Demonstrated ability to develop original research agendas.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Able to collaborate effectively with other researchers and product development teams.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
-      "status": "met",
-      "why": "Has: Team software project"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 2,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [],
-   "gaps": [
-    "Statistics"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Machine Learning and Optimization - Redmond",
-   "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
-   "source": "Microsoft careers",
-   "posted": "2026-10-28",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557049981",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 32,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Operations Research or a related STEM field",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "3+ years of experience in C# or C++ or Python (or similar language)",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Experience in optimization/algorithm design",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience in machine learning and LLMs (e.g., data curation, post-training, agentic frameworks)",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Demonstrated ability to run simulations and analyze results",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 1,
-     "preferred_total": 2
-    }
-   },
-   "matched": [
-    "Python",
-    "Machine learning / AI (learning)",
-    "Team software project"
-   ],
-   "related": [
-    "C++ (close to Rust)",
-    "C# (close to Java)"
-   ],
-   "gaps": [
-    "Data structures & algorithms"
-   ],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship"
-    },
-    {
-     "kind": "warn",
-     "label": "Wants a current student"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": true,
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Research Intern - Gray Systems Lab (GSL)",
-   "location": "United States, Washington, Redmond; United States, California, Mountain View",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-   "source": "Microsoft careers",
-   "posted": "2026-10-22",
-   "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557045445",
-   "score": 50,
-   "tier": "look",
-   "parts": {
-    "role": 40,
-    "skills": 35,
-    "eligibility": 11,
-    "requirements": 0,
-    "capped": 50
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "Currently enrolled in a Doctorate Degree program in computer science, statistics, mathematics, or relevant field.",
-      "status": "missing",
-      "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience with one or more general purpose programming languages, such as Python, Java, C#, C++, Rust.",
-      "status": "met",
-      "why": "Has: Python, Rust, Java"
-     },
-     {
-      "text": "Experience with one of the following: PostgreSQL, MySQL, SQL Server, Spark, Apache Iceberg, CUDA, or other database or big data systems.",
-      "status": "met",
-      "why": "Has: SQL / databases"
-     },
-     {
-      "text": "Experience contributing to research communities and/or efforts, including publishing papers (being listed as author) at academic conferences.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Ability to take initiative but also follow a research/productization plan and work well as part of a team.",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Proficient critical thinking and communication skills.",
-      "status": "met",
-      "why": "Has: Customer service / communication"
-     }
-    ],
-    "summary": {
-     "required_checked": 1,
-     "required_met": 0.0,
-     "required_missing": 1,
-     "to_check": 0,
-     "preferred_met": 3,
-     "preferred_total": 3
-    }
-   },
-   "matched": [
-    "Python",
-    "Rust",
-    "Java",
-    "SQL / databases",
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [
-    "Express (close to Backend / REST APIs (Axum))"
-   ],
-   "gaps": [
-    "Cloud (AWS / Azure / GCP)",
-    "C / C++",
-    "C# / .NET",
-    "Spark / big data",
     "Statistics"
    ],
    "flags": [
@@ -69589,18 +68974,18 @@
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+   "title": "Research Intern - Machine Learning and Optimization - Redmond",
    "location": "United States, Washington, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
    "source": "Microsoft careers",
-   "posted": "2026-11-05",
+   "posted": "2026-10-28",
    "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557049981",
    "score": 50,
    "tier": "look",
    "parts": {
     "role": 40,
-    "skills": 12,
+    "skills": 32,
     "eligibility": 11,
     "requirements": 0,
     "capped": 50
@@ -69608,7 +68993,7 @@
    "quals": {
     "required": [
      {
-      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.",
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science, Operations Research or a related STEM field",
       "status": "missing",
       "why": "Wants a current student (graduated December 2025)"
      },
@@ -69625,38 +69010,23 @@
     ],
     "preferred": [
      {
-      "text": "Experience defining research questions and methods for an academic, professional, or independent research project.",
+      "text": "3+ years of experience in C# or C++ or Python (or similar language)",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "Experience in optimization/algorithm design",
       "status": "check",
       "why": ""
      },
      {
-      "text": "Experience collaborating with researchers and/or product development teams on a research or applied project.",
+      "text": "Experience in machine learning and LLMs (e.g., data curation, post-training, agentic frameworks)",
       "status": "met",
-      "why": "Has: Team software project"
+      "why": "Has: Machine learning / AI (learning)"
      },
      {
-      "text": "Experience collaborating across organizational groups and/or cultural contexts on a research, academic, or applied project.",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Experience comparing alternative methods, prototypes, or analytical approaches to address a research or applied problem.",
+      "text": "Demonstrated ability to run simulations and analyze results",
       "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Prior research experience evidenced by publications or research projects.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience designing or conducting experiments and analyzing qualitative or quantitative results.",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience communicating research findings through a presentation, poster, report, or publication.",
-      "status": "soft",
       "why": ""
      }
     ],
@@ -69665,16 +69035,22 @@
      "required_met": 0.0,
      "required_missing": 1,
      "to_check": 0,
-     "preferred_met": 2,
+     "preferred_met": 1,
      "preferred_total": 2
     }
    },
    "matched": [
+    "Python",
     "Machine learning / AI (learning)",
     "Team software project"
    ],
-   "related": [],
-   "gaps": [],
+   "related": [
+    "C++ (close to Rust)",
+    "C# (close to Java)"
+   ],
+   "gaps": [
+    "Data structures & algorithms"
+   ],
    "flags": [
     {
      "kind": "info",
@@ -69689,38 +69065,33 @@
    "near": "",
    "years": null,
    "has_description": true,
-   "first_seen": "2026-11-05",
+   "first_seen": "2026-10-28",
    "last_seen": "2026-11-11"
   },
   {
    "company": "Microsoft",
-   "title": "Research Intern - Machine Learning for Biology and Healthcare",
-   "location": "United States, Massachusetts, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "title": "Research Intern - Machine Learning and Statistics",
+   "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
    "source": "Microsoft careers",
    "posted": "2026-10-13",
    "source_id": "Microsoft",
-   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557040502",
    "score": 50,
    "tier": "look",
    "parts": {
     "role": 40,
-    "skills": 12,
-    "eligibility": 0,
+    "skills": 15,
+    "eligibility": 11,
     "requirements": 0,
     "capped": 50
    },
    "quals": {
     "required": [
      {
-      "text": "Currently enrolled in a Doctoral Degree program in Computer Science, Biomedical Informatics, Biomedical Engineering/Bioengineering, Chemical Engineering, Comput",
+      "text": "Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.",
       "status": "missing",
       "why": "Wants a current student (graduated December 2025)"
-     },
-     {
-      "text": "Other Requirements",
-      "status": "check",
-      "why": ""
      },
      {
       "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
@@ -69733,22 +69104,19 @@
       "why": ""
      },
      {
-      "text": "Application Instructions: Please submit a research statement, with one paragraph describing your research interests and one paragraph describing your research a",
+      "text": "Candidates can upload other documents under the “Resume Manager” tab in the top right of their Microsoft careers profile.",
       "status": "check",
       "why": ""
-     },
-     {
-      "text": "Please submit your application, including the required research statement, by 15 Dec 2026 for full consideration.",
-      "status": "check",
-      "why": ""
-     },
+     }
+    ],
+    "preferred": [
      {
       "text": "Demonstrated ability to develop original research agendas.",
       "status": "check",
       "why": ""
      },
      {
-      "text": "Collaborate effectively with other researchers.",
+      "text": "Able to collaborate effectively with other researchers and product development teams.",
       "status": "met",
       "why": "Has: Team software project"
      },
@@ -69758,20 +69126,13 @@
       "why": "Has: Team software project"
      }
     ],
-    "preferred": [
-     {
-      "text": "Preferred Qualifications",
-      "status": "check",
-      "why": ""
-     }
-    ],
     "summary": {
-     "required_checked": 3,
-     "required_met": 2.0,
+     "required_checked": 1,
+     "required_met": 0.0,
      "required_missing": 1,
      "to_check": 0,
-     "preferred_met": 0,
-     "preferred_total": 0
+     "preferred_met": 2,
+     "preferred_total": 2
     }
    },
    "matched": [
@@ -69790,17 +69151,121 @@
     {
      "kind": "warn",
      "label": "Wants a current student"
-    },
-    {
-     "kind": "warn",
-     "label": "Grad students only?"
     }
    ],
    "kind": "intern",
    "near": "",
    "years": null,
    "has_description": true,
-   "first_seen": "2026-11-01",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Research Intern - Gray Systems Lab (GSL)",
+   "location": "United States, Washington, Redmond; United States, California, Mountain View",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
+   "source": "Microsoft careers",
+   "posted": "2026-10-22",
+   "source_id": "Microsoft",
+   "key": "url:https://apply.careers.microsoft.com/careers/job/1970393557045445",
+   "score": 50,
+   "tier": "look",
+   "parts": {
+    "role": 40,
+    "skills": 35,
+    "eligibility": 11,
+    "requirements": 0,
+    "capped": 50
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Currently enrolled in a Doctorate Degree program in computer science, statistics, mathematics, or relevant field.",
+      "status": "missing",
+      "why": "Wants a current student (graduated December 2025)"
+     },
+     {
+      "text": "Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant w",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "Experience with one or more general purpose programming languages, such as Python, Java, C#, C++, Rust.",
+      "status": "met",
+      "why": "Has: Python, Rust, Java"
+     },
+     {
+      "text": "Experience with one of the following: PostgreSQL, MySQL, SQL Server, Spark, Apache Iceberg, CUDA, or other database or big data systems.",
+      "status": "met",
+      "why": "Has: SQL / databases"
+     },
+     {
+      "text": "Experience contributing to research communities and/or efforts, including publishing papers (being listed as author) at academic conferences.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Ability to take initiative but also follow a research/productization plan and work well as part of a team.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Proficient critical thinking and communication skills.",
+      "status": "met",
+      "why": "Has: Customer service / communication"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 0,
+     "preferred_met": 3,
+     "preferred_total": 3
+    }
+   },
+   "matched": [
+    "Python",
+    "Rust",
+    "Java",
+    "SQL / databases",
+    "Machine learning / AI (learning)",
+    "Team software project",
+    "Customer service / communication"
+   ],
+   "related": [
+    "Express (close to Backend / REST APIs (Axum))"
+   ],
+   "gaps": [
+    "Cloud (AWS / Azure / GCP)",
+    "C / C++",
+    "C# / .NET",
+    "Spark / big data",
+    "Statistics"
+   ],
+   "flags": [
+    {
+     "kind": "info",
+     "label": "Internship"
+    },
+    {
+     "kind": "warn",
+     "label": "Wants a current student"
+    }
+   ],
+   "kind": "intern",
+   "near": "",
+   "years": null,
+   "has_description": true,
+   "first_seen": "2026-11-07",
    "last_seen": "2026-11-11"
   },
   {
@@ -72939,6 +72404,45 @@
    "last_seen": "2026-11-11"
   },
   {
+   "company": "Apple",
+   "title": "Darwin Runtime Engineer - Core OS",
+   "location": "Cupertino, CA",
+   "url": "https://jobs.apple.com/en-us/details/200678840",
+   "source": "Simplify New Grad list",
+   "posted": "2026-11-11",
+   "source_id": "Simplify New Grad list",
+   "key": "url:https://jobs.apple.com/en-us/details/200678840",
+   "score": 49,
+   "tier": "look",
+   "parts": {
+    "role": 12,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
    "company": "AtriCure",
    "title": "IT ERP Data Migration Co-op",
    "location": "Mason, OH",
@@ -73173,41 +72677,6 @@
    "last_seen": "2026-11-11"
   },
   {
-   "company": "Capital One",
-   "title": "Integration Engineer 4 (Email / Proofpoint)",
-   "location": "2 Locations",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Integration-Engineer-4--Email---Proofpoint-_R1004847-1",
-   "source": "Capital One careers",
-   "posted": "",
-   "source_id": "Capital One",
-   "key": "wd:capitalone:r1004847-1",
-   "score": 49,
-   "tier": "look",
-   "parts": {
-    "role": 12,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-06",
-   "last_seen": "2026-11-11"
-  },
-  {
    "company": "CenturyLink",
    "title": "Data Internship - Analytics & Decision Science",
    "location": "Remote in USA",
@@ -73245,80 +72714,6 @@
    ],
    "kind": "intern",
    "near": "remote",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Citi",
-   "title": "Credit Analyst",
-   "location": "METALICA BUILDING",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/METALICA-BUILDING/Credit-Analyst_26995960",
-   "source": "Citi careers",
-   "posted": "",
-   "source_id": "Citi",
-   "key": "wd:citi:26995960",
-   "score": 49,
-   "tier": "look",
-   "parts": {
-    "role": 12,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Citi",
-   "title": "Corporate Banking Associate - Public Sector Banking",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Corporate-Banking-Associate---Public-Sector-Banking_26991574",
-   "source": "Citi careers",
-   "posted": "",
-   "source_id": "Citi",
-   "key": "wd:citi:26991574",
-   "score": 49,
-   "tier": "look",
-   "parts": {
-    "role": 12,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-11",
@@ -74626,7 +74021,7 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -74745,7 +74140,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Microsoft",
@@ -75084,144 +74479,6 @@
    "kind": "full-time",
    "near": "remote",
    "years": 2,
-   "has_description": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Salesforce",
-   "title": "Forward Deployed (Value Acceleration) Consultant",
-   "location": "New Jersey - New York City Metro - Remote; Illinois - Chicago; Virginia - Washington DC Metro - Remote; New York - New York; Georgia - Atlanta",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Jersey---New-York-City-Metro---Remote/Forward-Deployed--Value-Acceleration--Consultant_JR364817",
-   "source": "Salesforce careers",
-   "posted": "2026-11-03",
-   "source_id": "Salesforce",
-   "key": "wd:salesforce:jr364817",
-   "score": 47,
-   "tier": "look",
-   "parts": {
-    "role": 24,
-    "skills": 16,
-    "eligibility": 7,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": {
-    "required": [
-     {
-      "text": "3 to 8+ years of experience in Product Management, Process Automation, Business Analysis, or Solutions Consulting",
-      "status": "missing",
-      "why": "Experience: asks for 3+ years (new grad)"
-     },
-     {
-      "text": "Experience building or deploying external-facing products in enterprise B2B SaaS environments",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Strong understanding of business workflow mapping, process modeling, and process improvement methodologies, with demonstrated application in Life Sciences or a ",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Proven experience translating business requirements into structured automated workflows or solutions",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Hands-on technical experience with automation tools, workflow builders, AI prompting, or low/no-code platforms",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Excellent spoken and written communication with ability to present complex ideas clearly to both technical and non-technical Life Sciences stakeholders",
-      "status": "soft",
-      "why": ""
-     },
-     {
-      "text": "Proven ability to collaborate with virtual and global cross-functional teams including engineering, design, and customer success",
-      "status": "met",
-      "why": "Has: Team software project"
-     },
-     {
-      "text": "Rigor and consistency in managing product backlogs and executing delivery",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "preferred": [
-     {
-      "text": "Experience in Life Sciences commercial operations, HCP/HCO engagement, field force automation, or clinical operations technology",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Experience with Salesforce Life Sciences Cloud (LSC), Agentforce, or comparable CRM/AI platforms in regulated industries",
-      "status": "met",
-      "why": "Has: Machine learning / AI (learning)"
-     },
-     {
-      "text": "Experience with prompt design or agent-based automation solutions",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Familiarity with the Salesforce platform ecosystem (APIs, platform services, Data Cloud)",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Understanding of Life Sciences regulatory and compliance requirements (e.g., GxP, HIPAA, GDPR) as they relate to CRM and workflow automation",
-      "status": "check",
-      "why": "Coursework or background (check his classes)"
-     },
-     {
-      "text": "Experience with network effects and cold start strategies for enterprise B2B solutions",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Lean, Six Sigma, or related process improvement certification",
-      "status": "check",
-      "why": ""
-     },
-     {
-      "text": "Pharma, Biotech, or MedTech industry background strongly preferred",
-      "status": "check",
-      "why": ""
-     }
-    ],
-    "summary": {
-     "required_checked": 3,
-     "required_met": 2.0,
-     "required_missing": 1,
-     "to_check": 3,
-     "preferred_met": 1,
-     "preferred_total": 1
-    }
-   },
-   "matched": [
-    "Machine learning / AI (learning)",
-    "Team software project",
-    "Customer service / communication"
-   ],
-   "related": [],
-   "gaps": [
-    "Agile / Scrum"
-   ],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Remote"
-    },
-    {
-     "kind": "warn",
-     "label": "Asks 3+ years experience"
-    }
-   ],
-   "kind": "full-time",
-   "near": "remote",
-   "years": 3,
    "has_description": true,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-11"
@@ -75795,7 +75052,7 @@
    "years": 4,
    "has_description": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Leidos",
@@ -75879,7 +75136,7 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Motorola Solutions",
@@ -77305,6 +76562,119 @@
    "last_seen": "2026-11-11"
   },
   {
+   "company": "Capital One",
+   "title": "Integration Engineer 4 (Email / Proofpoint)",
+   "location": "McLean, VA; Richmond, VA",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Integration-Engineer-4--Email---Proofpoint-_R1004847-1",
+   "source": "Capital One careers",
+   "posted": "2026-11-06",
+   "source_id": "Capital One",
+   "key": "wd:capitalone:r1004847-1",
+   "score": 45,
+   "tier": "look",
+   "parts": {
+    "role": 24,
+    "skills": 14,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Bachelor's Degree",
+      "status": "met",
+      "why": "Has a B.S. in Computer Science"
+     },
+     {
+      "text": "At least 4 years of experience designing and maintaining cross-platform or cloud integrations",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "At least 3 years of experience automating system configuration or data workflows",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     }
+    ],
+    "preferred": [
+     {
+      "text": "5+ years of experience working in a cloud-based environment (AWS, Azure, GCP)",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "3+ years of experience developing or supporting API-based integrations using scripting or orchestration tools (AWS Lambda, Step Functions, MuleSoft)",
+      "status": "missing",
+      "why": "Experience: asks for 3+ years (new grad)"
+     },
+     {
+      "text": "5+ years of experience with deployment tooling (Jenkins, GitHub, Artifactory)",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "4+ years of experience in Agile practices",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "Experience managing identity and access within systems",
+      "status": "partial",
+      "why": "Close: Identity And Access ≈ Cryptography / secure apps"
+     },
+     {
+      "text": "5+ years of experience implementing large-scale integration solutions or data pipelines in cloud environments",
+      "status": "missing",
+      "why": "Experience: asks for 5+ years (new grad)"
+     },
+     {
+      "text": "1+ years of experience configuring and administering enterprise Secure Email Gateways",
+      "status": "partial",
+      "why": "Experience: asks for 1 year; project work may count"
+     },
+     {
+      "text": "Experience developing integration frameworks or reusable components used across multiple teams or applications",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "summary": {
+     "required_checked": 3,
+     "required_met": 1.0,
+     "required_missing": 2,
+     "to_check": 0,
+     "preferred_met": 0,
+     "preferred_total": 7
+    }
+   },
+   "matched": [
+    "Full-stack web apps",
+    "Team software project"
+   ],
+   "related": [
+    "Identity And Access (close to Cryptography / secure apps)"
+   ],
+   "gaps": [
+    "Git / GitHub",
+    "Cloud (AWS / Azure / GCP)",
+    "CI/CD",
+    "Agile / Scrum"
+   ],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-11"
+  },
+  {
    "company": "Catholic Charities of Kansas City-St. Joseph",
    "title": "Data and Project Coordinator AmeriCorps VISTA Intern",
    "location": "Kansas City, MO",
@@ -78164,45 +77534,6 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-11"
-  },
-  {
-   "company": "Great American Insurance Company",
-   "title": "Claims Technical Intern",
-   "location": "Cincinnati, OH",
-   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1",
-   "source": "Simplify internship list",
-   "posted": "2026-11-06",
-   "source_id": "Simplify internship list",
-   "key": "wd:gaig:r9873-1",
-   "score": 45,
-   "tier": "look",
-   "parts": {
-    "role": 14,
-    "skills": 12,
-    "eligibility": 19,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "info",
-     "label": "Internship · Summer 2027"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "intern",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-07",
    "last_seen": "2026-11-11"
   },
   {
@@ -81659,45 +80990,6 @@
    "last_seen": "2026-11-11"
   },
   {
-   "company": "DriveTime",
-   "title": "Analyst – Risk Forecasting",
-   "location": "Tempe, AZ",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst--Risk-Forecasting_R16111",
-   "source": "Simplify New Grad list",
-   "posted": "2026-11-04",
-   "source_id": "Simplify New Grad list",
-   "key": "wd:drivetime:r16111",
-   "score": 43,
-   "tier": "look",
-   "parts": {
-    "role": 6,
-    "skills": 12,
-    "eligibility": 25,
-    "requirements": 0,
-    "capped": 0
-   },
-   "quals": null,
-   "matched": [],
-   "related": [],
-   "gaps": [],
-   "flags": [
-    {
-     "kind": "good",
-     "label": "Entry level"
-    },
-    {
-     "kind": "info",
-     "label": "Full description not loaded"
-    }
-   ],
-   "kind": "full-time",
-   "near": "",
-   "years": null,
-   "has_description": false,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-11"
-  },
-  {
    "company": "ENFRA",
    "title": "Utility Analyst 1",
    "location": "Little Rock, AR",
@@ -82158,7 +81450,45 @@
    "years": null,
    "has_description": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "HP",
+   "title": "Presales Technical Consultant",
+   "location": "All Cities, California, United States of America",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-California-United-States-of-America/Presales-Technical-Consultant_3168177-1",
+   "source": "HP careers",
+   "posted": "2026-10-13",
+   "source_id": "HP",
+   "key": "wd:hp:3168177-1",
+   "score": 43,
+   "tier": "look",
+   "parts": {
+    "role": 27,
+    "skills": 9,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [
+    "Machine learning / AI (learning)",
+    "Team software project"
+   ],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
   },
   {
    "company": "Isembard",
@@ -82470,6 +81800,137 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-07",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Leidos",
+   "title": "Winter Research Associate - Palmer Station / Alternate",
+   "location": "6314 Remote/Teleworker US",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Winter-Research-Associate---Palmer-Station---Alternate_R-00196607",
+   "source": "Leidos careers",
+   "posted": "2026-11-10",
+   "source_id": "Leidos",
+   "key": "wd:leidos:r-00196607",
+   "score": 43,
+   "tier": "look",
+   "parts": {
+    "role": 18,
+    "skills": 18,
+    "eligibility": 7,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": {
+    "required": [
+     {
+      "text": "Typically requires BS and 4 – 8 years of prior relevant experience or Masters with 2 – 6 years of prior relevant experience.",
+      "status": "missing",
+      "why": "Experience: asks for 4+ years (new grad)"
+     },
+     {
+      "text": "Must be able to work independently to achieve day-to-day objectives with significant impact on operational results or project deliverables.",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Good organizational and time management skills",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "Fluency with networking topics and file transfer tools required. Administrator familiarity for Macintosh and Linux/Unix platforms required.",
+      "status": "check",
+      "why": "Coursework: Linux / shell (check his classes)"
+     },
+     {
+      "text": "Must be a US Citizen.",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Must obtain a Public Trust security clearance prior to starting date. This process could take up to 4 months.",
+      "status": "check",
+      "why": "U.S. citizenship / U.S. person (set us_citizen in profile.toml)"
+     },
+     {
+      "text": "Deployment to Antarctica is required for this position. The individual in the position must successfully complete the physical and dental examinations as requir",
+      "status": "soft",
+      "why": ""
+     },
+     {
+      "text": "** PLEASE BE ADVISED that during the interview, you will be required to keep your camera on, and your interviewer will be taking your picture for identification",
+      "status": "check",
+      "why": ""
+     }
+    ],
+    "preferred": [
+     {
+      "text": "A background in an academic research environment providing direct support to science projects is preferred.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Basic soldering, familiarity with circuits and radio transmission (UHF, VHF) is preferred.",
+      "status": "check",
+      "why": "Coursework or background (check his classes)"
+     },
+     {
+      "text": "Experience in general computer repair including IBM-PC, Macintosh and network equipment preferred.",
+      "status": "check",
+      "why": ""
+     },
+     {
+      "text": "Experience with PowerShell, Python, Access, and SQL databases; RA should be able to write and repair scripts for automation and reporting, including visualizati",
+      "status": "met",
+      "why": "Has: Python, SQL / databases"
+     }
+    ],
+    "summary": {
+     "required_checked": 1,
+     "required_met": 0.0,
+     "required_missing": 1,
+     "to_check": 4,
+     "preferred_met": 1,
+     "preferred_total": 1
+    }
+   },
+   "matched": [
+    "Python",
+    "SQL / databases"
+   ],
+   "related": [],
+   "gaps": [
+    "Linux / shell"
+   ],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Remote"
+    },
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "warn",
+     "label": "Asks 4+ years experience"
+    },
+    {
+     "kind": "info",
+     "label": "U.S. person / ITAR",
+     "id": "citizen"
+    },
+    {
+     "kind": "info",
+     "label": "Clearance",
+     "id": "clearance"
+    }
+   ],
+   "kind": "full-time",
+   "near": "remote",
+   "years": 4,
+   "has_description": true,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
@@ -83258,6 +82719,45 @@
    "years": null,
    "has_description": false,
    "first_seen": "2026-11-09",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "company": "Sieve",
+   "title": "Deployment Engineer",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c/application?embed=true",
+   "source": "Simplify New Grad list",
+   "posted": "2026-11-11",
+   "source_id": "Simplify New Grad list",
+   "key": "as:b8a87691-3b2a-4960-aa0e-cda34894039c",
+   "score": 43,
+   "tier": "look",
+   "parts": {
+    "role": 6,
+    "skills": 12,
+    "eligibility": 25,
+    "requirements": 0,
+    "capped": 0
+   },
+   "quals": null,
+   "matched": [],
+   "related": [],
+   "gaps": [],
+   "flags": [
+    {
+     "kind": "good",
+     "label": "Entry level"
+    },
+    {
+     "kind": "info",
+     "label": "Full description not loaded"
+    }
+   ],
+   "kind": "full-time",
+   "near": "",
+   "years": null,
+   "has_description": false,
+   "first_seen": "2026-11-11",
    "last_seen": "2026-11-11"
   },
   {
