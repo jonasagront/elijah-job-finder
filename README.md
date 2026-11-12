@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1445 matches** as of Nov 12, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1433 matches** as of Nov 12, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-10-30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 | 96 | AECOM | Software Developer 1 | Full-time | 3 of 3 | Tallahassee, FL | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160723419) |
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
-| 96 | Myriad360 | Junior AI and Automation Engineer | Full-time | 1 of 1 | Remote in USA | 2026-11-04 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8930382002) |
+| 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 <!-- JOBS:END -->
 
 ---
