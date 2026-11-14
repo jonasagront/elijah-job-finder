@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1412 matches** as of Nov 13, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1366 matches** as of Nov 14, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -17,9 +17,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | 100 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Full-time | – | Remote US | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) |
 | 100 | CACI | Junior Software Developer | Full-time | 6 of 6 | Remote in USA | 2026-11-05 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685) |
-| 100 | CLEAR | Software Development Engineer 1 | Full-time | – | Austin, TX | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
 | 100 | Capital One | Associate, Data Scientist - US Card | Full-time | 1 of 1 | McLean, VA | 2026-11-12 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1) |
-| 100 | Chewy | Software Engineer I, Full Stack, Promotions | Full-time | 5 of 5 | Boston, MA | 2026-11-06 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | 100 | Citi | Applications Development Intermediate Programmer Analyst - Officer | Full-time | 1 of 1 | NYC | 2026-11-11 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261007476-1) |
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | Leidos | Software Engineer | Full-time | 4 of 4 | Tucson, AZ | 2026-11-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751) |
@@ -37,7 +35,9 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
 | 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
-| 95 | AeroVironment | Junior Software Engineer | Full-time | 3 of 4 | Jessup, MD | 2026-10-14 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1) |
+| 95 | Orbis Operations | Research Engineer - AI | Full-time | 5 of 5 | Remote in USA | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) |
+| 95 | Verkada | Backend Software Engineer - University Graduate 2027 | Full-time | 2 of 3 | San Mateo, CA United States | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
+| 94 | Anthropic | Applied AI Demo Engineer | Full-time | – | San Francisco, CA | New York City, NY | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5455961008) |
 <!-- JOBS:END -->
 
 ---
