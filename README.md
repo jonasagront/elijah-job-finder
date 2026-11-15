@@ -9,11 +9,10 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1375 matches** as of Nov 14, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1345 matches** as of Nov 15, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| 100 | Affirm | Software Engineer I, Fullstack (Search) | Full-time | – | Remote US | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 100 | Affirm | Analyst, Early Career (Full Stack) | Full-time | – | New York, New York, United States; San F | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | 100 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Full-time | – | Remote US | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) |
 | 100 | CACI | Junior Software Developer | Full-time | 6 of 6 | Remote in USA | 2026-11-05 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685) |
@@ -23,7 +22,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | Leidos | Software Engineer | Full-time | 4 of 4 | Tucson, AZ | 2026-11-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751) |
 | 100 | Microsoft | Software Engineering | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-11-10 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556999878) |
-| 100 | Microsoft | Software Engineer - MBO 🆕 | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-11-14 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073410) |
+| 100 | Microsoft | Software Engineer - MBO | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-11-14 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073410) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
@@ -38,6 +37,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
 | 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Washington, Redmond; Unit | 2026-11-12 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557025694) |
+| 95 | Orbis Operations | Research Engineer - AI | Full-time | 5 of 5 | Remote in USA | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) |
 <!-- JOBS:END -->
 
 ---
