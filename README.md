@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1329 matches** as of Nov 18, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1336 matches** as of Nov 18, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Citi | Applications Development Intermediate Programmer Analyst - Officer | Full-time | 1 of 1 | NYC | 2026-11-11 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261007476-1) |
 | 100 | HP Inc. | Software Applications Engineer | Full-time | – | Fort Collins, CO | 2026-10-19 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1) |
 | 100 | Leidos | Software Engineer | Full-time | 4 of 4 | Tucson, AZ | 2026-11-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751) |
-| 100 | Microsoft | Software Engineering | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-11-10 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556999878) |
+| 100 | Microsoft | Software Engineer - MBO | Full-time | 1 of 1 | United States, Washington, Redmond | 2026-11-14 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557073410) |
 | 100 | Palantir | Software Engineer, New Grad - Query Engines | Full-time | – | New York, NY | 2026-10-19 | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | 100 | Quora | Full Stack Software Engineer New Grad | Full-time | 2 of 2 | Remote in USA; Remote in Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
@@ -32,12 +32,12 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-22 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
 | 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
+| 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Washington, Redmond; Unit | 2026-11-12 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557025694) |
 | 95 | Orbis Operations | Research Engineer - AI | Full-time | 5 of 5 | Remote in USA | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) |
 | 95 | Verkada | Backend Software Engineer - University Graduate 2027 | Full-time | 2 of 3 | San Mateo, CA United States | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
 | 94 | Anthropic | Security Engineer / Research Engineer, RL Security | Full-time | 1 of 1 | San Francisco, CA | New York City, NY |  | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5458420008) |
 | 94 | Anthropic | Software Engineer, Datacenter Server Lifecycle | Full-time | 2 of 2 | Remote-Friendly, United States | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5484171008) |
 | 94 | Chime | Software Engineer, Jade Awareness - AI Financial Partner | Full-time | – | San Francisco, CA, USA | 2026-10-30 | [Apply](https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002) |
-| 94 | Chime | Software Engineer, Jade Foundation - AI Financial Partner | Full-time | – | San Francisco, CA, USA | 2026-10-30 | [Apply](https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002) |
 <!-- JOBS:END -->
 
 ---
