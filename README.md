@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1300 matches** as of Nov 21, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1325 matches** as of Nov 21, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -24,6 +24,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-29 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252601) |
 | 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
+| 95 | Microsoft | Software Engineer - CTJ - Poly | Full-time | 1 of 2 | United States, Washington, Redmond; Unit | 2026-11-12 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557025694) |
 | 95 | Verkada | Backend Software Engineer - University Graduate 2027 | Full-time | 2 of 3 | San Mateo, CA United States | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
 | 94 | Anthropic | Software Engineer, Datacenter Server Lifecycle | Full-time | 2 of 2 | Remote-Friendly, United States | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5484171008) |
 | 94 | Chime | Software Engineer, Jade Awareness - AI Financial Partner | Full-time | – | San Francisco, CA, USA | 2026-10-30 | [Apply](https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002) |
@@ -33,11 +34,10 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 94 | Cloudflare | Data Scientist | Full-time | – | In-Office | 2026-10-22 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927) |
 | 94 | Cloudflare | Software Engineer, Agentic Commerce | Full-time | – | In-Office | 2026-10-22 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256) |
 | 94 | Cloudflare | Technical Support Engineer - Developer Platform | Full-time | – | Hybrid | 2026-10-30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121) |
+| 94 | Microsoft | Software Engineer/Developer 🆕 | Full-time | 1 of 3 | United States, Washington, Redmond; Unit | 2026-11-20 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556943785) |
 | 94 | OpenAI | Software Engineer, Identity Infrastructure | Full-time | – | San Francisco | 2026-10-22 | [Apply](https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db) |
 | 94 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | Full-time | – | San Francisco | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999) |
 | 94 | OpenAI | Founding Full Stack Software Engineer, Consulting | Full-time | – | San Francisco | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696) |
-| 94 | OpenAI | Applied AI Engineer, Enterprise - EDU | Full-time | – | San Francisco | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5) |
-| 94 | OpenAI | Full Stack Software Engineer, ChatGPT Finances | Full-time | – | San Francisco | 2026-11-13 | [Apply](https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9) |
 <!-- JOBS:END -->
 
 ---
