@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1246 matches** as of Nov 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1252 matches** as of Nov 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-29 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252601) |
+| 96 | Myriad360 | Junior AI and Automation Engineer 🆕 | Full-time | 1 of 1 | Remote in USA | 2026-11-04 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8930382002) |
 | 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
 | 95 | Verkada | Backend Software Engineer - University Graduate 2027 | Full-time | 2 of 3 | San Mateo, CA United States | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
@@ -31,13 +32,12 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 94 | Citi | Product Developer, SVP, New York (Hybrid) | Full-time | 3 of 3 | New York New York United States | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Developer--SVP--New-York--Hybrid-_261011511) |
 | 94 | Cloudflare | Customer Engineer AI/ Start Up's | Full-time | – | Hybrid | 2026-11-06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836) |
 | 94 | Cloudflare | Technical Support Engineer - Developer Platform | Full-time | – | Hybrid | 2026-10-30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121) |
+| 94 | Jabil | EIT - SQE AI Engineer 🆕 | Full-time | – | Guangzhou Juncheng | 2026-11-24 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/XMLNAME--E-EIT---SQE_J2471600) |
+| 94 | OpenAI | Software Engineer, Full Stack — ChatGPT Voice 🆕 | Full-time | – | San Francisco | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22) |
 | 94 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | Full-time | – | San Francisco | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999) |
 | 94 | OpenAI | Founding Full Stack Software Engineer, Consulting | Full-time | – | San Francisco | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696) |
 | 94 | OpenAI | Applied AI Engineer, Enterprise - EDU | Full-time | – | San Francisco | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5) |
 | 94 | OpenAI | Full Stack Software Engineer, ChatGPT Finances | Full-time | – | San Francisco | 2026-11-13 | [Apply](https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9) |
-| 94 | OpenAI | Applied AI Engineer, Mid-Market Enterprise | Full-time | – | San Francisco | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4) |
-| 94 | Palantir | Software Engineer - Applied AI, Defense Applications | Full-time | – | New York, NY | 2026-11-02 | [Apply](https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a) |
-| 94 | Palantir | Software Engineer - Applied AI, Defense Applications | Full-time | – | Washington, D.C. | 2026-11-02 | [Apply](https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8) |
 <!-- JOBS:END -->
 
 ---
