@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1240 matches** as of Nov 23, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1246 matches** as of Nov 24, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -17,8 +17,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Chewy | Software Engineer I, Full Stack, Promotions | Full-time | 5 of 5 | Boston, MA | 2026-11-06 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
 | 100 | Salesforce | Software Engineer New Grad | Full-time | – | Palo Alto, CA; Seattle, WA; Indianapolis | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) |
-| 100 | Visa | Software Engineer, Agentic Developer 🆕 | Full-time | 1 of 1 | US - Denver, CO | 2026-11-23 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
-| 99 | Leidos | Junior Test Automation Engineer | Full-time | 3 of 3 | 6314 Remote/Teleworker US | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Test-Automation-Engineer_R-00190889-1) |
+| 100 | Visa | Software Engineer, Agentic Developer | Full-time | 1 of 1 | US - Denver, CO | 2026-11-23 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
 | 98 | Cisco | Junior Software Engineer - Webex - Slovakia | Full-time | 1 of 1 | Bratislava, Slovakia | 2026-11-05 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
@@ -36,8 +35,9 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 94 | OpenAI | Founding Full Stack Software Engineer, Consulting | Full-time | – | San Francisco | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696) |
 | 94 | OpenAI | Applied AI Engineer, Enterprise - EDU | Full-time | – | San Francisco | 2026-11-06 | [Apply](https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5) |
 | 94 | OpenAI | Full Stack Software Engineer, ChatGPT Finances | Full-time | – | San Francisco | 2026-11-13 | [Apply](https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9) |
-| 94 | OpenAI | Applied AI Engineer, Mid-Market Enterprise 🆕 | Full-time | – | San Francisco | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4) |
+| 94 | OpenAI | Applied AI Engineer, Mid-Market Enterprise | Full-time | – | San Francisco | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4) |
 | 94 | Palantir | Software Engineer - Applied AI, Defense Applications | Full-time | – | New York, NY | 2026-11-02 | [Apply](https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a) |
+| 94 | Palantir | Software Engineer - Applied AI, Defense Applications | Full-time | – | Washington, D.C. | 2026-11-02 | [Apply](https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8) |
 <!-- JOBS:END -->
 
 ---
