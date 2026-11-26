@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1271 matches** as of Nov 25, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1250 matches** as of Nov 26, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -18,13 +18,13 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
 | 100 | Salesforce | Software Engineer New Grad | Full-time | – | Palo Alto, CA; Seattle, WA; Indianapolis | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) |
 | 100 | Visa | Software Engineer, Agentic Developer | Full-time | 1 of 1 | US - Denver, CO | 2026-11-23 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
-| 100 | Visa | Associate Data Engineer, AI Studio 🆕 | Full-time | 9 of 9 | US - Austin, TX | 2026-11-25 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W) |
+| 100 | Visa | Associate Data Engineer, AI Studio | Full-time | 9 of 9 | US - Austin, TX | 2026-11-25 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W) |
 | 98 | Cisco | Junior Software Engineer - Webex - Slovakia | Full-time | 1 of 1 | Bratislava, Slovakia | 2026-11-05 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | 97 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 | 96 | Booz Allen | Software Developer | Full-time | 3 of 3 | Honolulu, HI; Annapolis Junction, MD; Co | 2026-10-29 | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252601) |
-| 96 | Roblox | Software Engineer, Frontend - Economy | Full-time | 1.5 of 2 | San Mateo, CA, United States | 2026-10-26 | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
 | 96 | Roblox | Software Engineer, ROS Open Platform & AI Enablement | Full-time | 3.5 of 4 | San Mateo, CA, United States | 2026-11-10 | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) |
+| 95 | Intel | Intel Foundry Device Infrastructure Development Engineer 🆕 | Full-time | 2 of 2 | US, Oregon, Hillsboro | 2026-11-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Intel-Foundry-Device-Infrastructure-Development-Engineer_JR0289598) |
 | 95 | Verkada | Backend Software Engineer - University Graduate 2027 | Full-time | 2 of 3 | San Mateo, CA United States | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
 | 94 | Anthropic | Software Engineer, Datacenter Server Lifecycle | Full-time | 2 of 2 | Remote-Friendly, United States | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5484171008) |
 | 94 | Chime | Software Engineer, Jade Awareness - AI Financial Partner | Full-time | – | San Francisco, CA, USA | 2026-10-30 | [Apply](https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002) |
@@ -33,8 +33,8 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 94 | Cloudflare | Customer Engineer AI/ Start Up's | Full-time | – | Hybrid | 2026-11-06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836) |
 | 94 | Cloudflare | Technical Support Engineer - Developer Platform | Full-time | – | Hybrid | 2026-10-30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121) |
 | 94 | Jabil | EIT - SQE AI Engineer | Full-time | – | Guangzhou Juncheng | 2026-11-24 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/XMLNAME--E-EIT---SQE_J2471600) |
-| 94 | Leidos | Automation and Orchestration Engineer 🆕 | Full-time | 1 of 2 | 6314 Remote/Teleworker US | 2026-11-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Automation-and-Orchestration-Engineer_R-00197713-1) |
-| 94 | Leidos | Automation and Orchestration Engineer 🆕 | Full-time | 1 of 2 | Norfolk, VA | 2026-11-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Automation-and-Orchestration-Engineer_R-00197698) |
+| 94 | Leidos | Automation and Orchestration Engineer | Full-time | 1 of 2 | 6314 Remote/Teleworker US | 2026-11-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Automation-and-Orchestration-Engineer_R-00197713-1) |
+| 94 | Leidos | Automation and Orchestration Engineer | Full-time | 1 of 2 | Norfolk, VA | 2026-11-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Automation-and-Orchestration-Engineer_R-00197698) |
 | 94 | OpenAI | Software Engineer, Full Stack — ChatGPT Voice | Full-time | – | San Francisco | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22) |
 | 94 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | Full-time | – | San Francisco | 2026-11-03 | [Apply](https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999) |
 | 94 | OpenAI | Founding Full Stack Software Engineer, Consulting | Full-time | – | San Francisco | 2026-11-05 | [Apply](https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696) |
