@@ -9,7 +9,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 ## Today's top matches
 
 <!-- JOBS:START -->
-**1206 matches** as of Nov 27, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
+**1204 matches** as of Nov 27, 2026. Full list with filters: **[open the job page](https://jonasagront.github.io/elijah-job-finder/)**
 
 | Fit | Company | Role | Type | Required quals met | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ scores each one against Elijah's resume, and publishes the results to a page he 
 | 100 | Chewy | Software Engineer I, Full Stack, Promotions | Full-time | 5 of 5 | Boston, MA | 2026-11-06 | [Apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | 100 | Salesforce | Software Engineering AMTS (College Grad) | Full-time | – | California - San Francisco; California - | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) |
 | 100 | Salesforce | Software Engineer New Grad | Full-time | – | Palo Alto, CA; Seattle, WA; Indianapolis | 2026-11-11 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) |
-| 100 | Visa | Software Engineer - Agentic Developer | Full-time | 1 of 1 | Denver, CO | 2026-11-23 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
+| 100 | Visa | Software Engineer, Agentic Developer | Full-time | 1 of 1 | US - Denver, CO | 2026-11-23 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W) |
 | 100 | Visa | Associate Data Engineer, AI Studio | Full-time | 9 of 9 | US - Austin, TX | 2026-11-25 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W) |
 | 98 | Cisco | Junior Software Engineer - Webex - Slovakia | Full-time | 1 of 1 | Bratislava, Slovakia | 2026-11-05 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1) |
 | 97 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | Full-time | – | US, CA, Santa Clara | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
